@@ -1,1 +1,7 @@
 //add design ideas to this document
+
+
+Things to be done(in no particular order):
+1. loop though comments and remove exact duplicates of perviously seen comments
+2. if the number of exact duplicates is five or more, that comment becomes a form
+3. 
