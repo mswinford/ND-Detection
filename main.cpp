@@ -13,6 +13,10 @@
 #include <sys/types.h>
 #include <errno.h>
 
+#include "sha1-0.2/sha1.h"
+
+#define SHA1Size 20
+
 using namespace std;
 
 struct file {
@@ -29,6 +33,34 @@ list<cluster> clusters;
 list<file> files;
 file f;
 
+typedef pair<unsigned char*,string> SHA1FileNamePair;
+list<SHA1FileNamePair> Hash_NameList;
+
+void printSHA1(unsigned char*c){
+   
+    int l = SHA1Size;
+    while(l>0){
+        printf("%02x ",*c);
+        c++;
+        l--;
+    }
+}
+
+
+// SHA1FileNamePair Comparison, sort in ascending order
+bool compare_SHA1(SHA1FileNamePair first, SHA1FileNamePair second){
+    unsigned char* f = first.first;
+    unsigned char* s = second.first;
+
+    for(int i=0;i<SHA1Size; i++){
+        if(*f<*s)
+            return true;
+        else if(*f>*s)
+            return false;
+        f++;
+        s++;
+    }
+}
 
 //deletes the files of any exact duplicate comments
 void removeDups() {
@@ -129,7 +161,21 @@ int preprocess() {
     f.name = dirp->d_name;
     f.comment = comment;
     files.push_back(f);
+    
+    // Using SHA1 to get the hash value of the comment 
+    char* com_tmp = new char[comment.length()+1];
+    strcpy(com_tmp, comment.c_str());
 
+    SHA1* sha1 = new SHA1();
+    sha1->addBytes(com_tmp,comment.length());
+    unsigned char* digest = sha1->getDigest();
+    delete sha1;
+
+    // Create pair and add it to Hash_NameList  
+    string fileName = dirp->d_name;
+    SHA1FileNamePair sfp(digest, fileName);
+    Hash_NameList.push_back(sfp);
+    
     filenum++;
 
     in.close();
@@ -147,5 +193,14 @@ int preprocess() {
 int main(int argc, char *argv[]){
 
   preprocess();
+
+  Hash_NameList.sort(compare_SHA1);
+  
+  // Debug: Print the Hash_Namelist
+  for(list<SHA1FileNamePair>::iterator it=Hash_NameList.begin(); it!=Hash_NameList.end(); it++) {
+        printSHA1((*it).first); 
+        cout<< " " << (*it).second << endl;
+  }
+
 
 }
