@@ -1,0 +1,9 @@
+received date = 01/10/1998
+name = Aspelund, Nancy
+company = Good Nature Gardens
+state = MN
+zip = 56081
+country = United States
+category = Consumer, Crop Producer, Livestock Producer
+topic = General
+file = w0000934.txt

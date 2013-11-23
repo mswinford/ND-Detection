@@ -1,0 +1,9 @@
+received date = 12/16/1997
+name = Cioffi, Ray
+company = Vermont Dept Agriculture Weights and Measuress
+state = VT
+zip = 05671
+country = United States
+category = State Government Official
+topic = General
+file = w0000055.txt

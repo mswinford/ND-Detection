@@ -1,0 +1,9 @@
+received date = 12/18/1997
+name = Peterson, VR..
+company = none
+state = UT
+zip = 84316
+country = United States
+category = Accrediting Agency, Attorney, Broker/Distributor/Retailer, Certifying Agent (Private), Certifying Agent (State), Chemical Manufacturer, College/University, Congressional, Consumer, Cosmetics Manufacturer, Crop Producer, Economist, Environmentalist Advocacy Group, Exporter, Federal Government Agency, Foreign Government Representative, Foreign Organic Program Representative, Handler/Processor/Manufacturer, Importer, Industry/Trade Association, Laboratory Technician/Operator, Livestock Producer, Press, Public Interest Group, Retailer, Scientist/Veterinarian, Small Business, State Government Official, Wild Crop Harvester, Other
+topic = National List
+file = w0000232.txt

@@ -1,0 +1,9 @@
+received date = 12/22/1997
+name = Budinetz, Tom
+company = 
+state = PA
+zip = 18103
+country = United States
+category = Consumer
+topic = General
+file = w0000446.txt

@@ -1,0 +1,10 @@
+received date = 12/22/1997
+name = Bregenzer, Tim
+company = none
+state = IA
+zip = 52556
+country = United States
+category = Consumer
+topic = Crops
+section = 205.8
+file = w0000477.txt

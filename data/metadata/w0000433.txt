@@ -1,0 +1,9 @@
+received date = 12/21/1997
+name = Preiss, Beth
+company = None
+state = DC
+zip = 20007
+country = United States
+category = Consumer
+topic = General
+file = w0000433.txt

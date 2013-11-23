@@ -1,0 +1,9 @@
+received date = 12/16/1997
+name = Galloway, Scott
+company = Citizen
+state = OH
+zip = 44321
+country = United States
+category = Crop Producer
+topic = General
+file = w0000103.txt

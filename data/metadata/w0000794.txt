@@ -1,0 +1,9 @@
+received date = 01/07/1998
+name = falkenstine, bonnie
+company = consumer
+state = CA
+zip = 95010
+country = United States
+category = Consumer
+topic = National List
+file = w0000794.txt

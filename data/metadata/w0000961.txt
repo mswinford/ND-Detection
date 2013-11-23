@@ -1,0 +1,10 @@
+received date = 01/11/1998
+name = Mulhern, Joan
+company = 
+state = DC
+zip = 20002
+country = United States
+category = Consumer
+topic = Definitions
+section = 205.1, 205.2
+file = w0000961.txt

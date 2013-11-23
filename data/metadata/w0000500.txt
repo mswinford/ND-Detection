@@ -1,0 +1,10 @@
+received date = 12/23/1997
+name = Kolve, Amy
+company = 
+state = WA
+zip = 98034
+country = United States
+category = Consumer
+topic = Livestock
+section = 205.12, 205.13, 205.14, 205.15
+file = w0000500.txt

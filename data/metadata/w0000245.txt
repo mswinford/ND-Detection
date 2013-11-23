@@ -1,0 +1,9 @@
+received date = 12/18/1997
+name = Rawleigh, Dianna
+company = 
+state = CA
+zip = 94107
+country = United States
+category = Consumer
+topic = General
+file = w0000245.txt

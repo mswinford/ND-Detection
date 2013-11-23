@@ -1,0 +1,9 @@
+received date = 12/27/1997
+name = Berkowitz, Reed
+company = CDT
+state = CA
+zip = 94965
+country = United States
+category = Other
+topic = General
+file = w0000576.txt

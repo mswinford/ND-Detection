@@ -1,0 +1,9 @@
+received date = 12/17/1997
+name = SCOTT, TIM & JACKIE
+company = ORANGEWOOD FARM
+state = CA
+zip = 95679
+country = United States
+category = Crop Producer
+topic = General
+file = w0000137.txt

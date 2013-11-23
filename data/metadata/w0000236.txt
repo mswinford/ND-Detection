@@ -1,0 +1,10 @@
+received date = 12/18/1997
+name = Andree, Paul
+company = Bread of Life Services
+state = FL
+zip = 32736
+country = United States
+category = Consumer
+topic = Labeling
+section = 205.100, 205.101, 205.103, 205.107
+file = w0000236.txt

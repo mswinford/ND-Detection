@@ -1,0 +1,10 @@
+received date = 01/05/1998
+name = Marshall, Penny
+company = Highwood Crossing FarmLtd..
+state = 
+zip = 
+country = Canada
+category = Crop Producer
+topic = National List
+section = 205.20
+file = w0000733.txt

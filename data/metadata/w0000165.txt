@@ -1,0 +1,10 @@
+received date = 12/17/1997
+name = White, Dr Seann
+company = Orinda Village Chiropractor
+state = CA
+zip = 94563
+country = United States
+category = Consumer
+topic = Certification
+section = 205.203
+file = w0000165.txt

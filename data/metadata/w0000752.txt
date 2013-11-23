@@ -1,0 +1,9 @@
+received date = 01/05/1998
+name = oden, nancy
+company = CLEAN Mainee
+state = ME
+zip = 04648
+country = United States
+category = Public Interest Group
+topic = National List
+file = w0000752.txt

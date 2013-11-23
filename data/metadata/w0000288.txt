@@ -1,0 +1,9 @@
+received date = 12/19/1997
+name = ESTABROOK, PAUL
+company = VIRGINIA GOLD ORCHARDS
+state = VA
+zip = 24578
+country = United States
+category = Crop Producer
+topic = Regulatory Flexibility
+file = w0000288.txt

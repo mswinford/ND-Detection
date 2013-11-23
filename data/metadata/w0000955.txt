@@ -1,0 +1,9 @@
+received date = 01/11/1998
+name = Hallam, Michael
+company = The Severn Valley Area Organic Distributors Association
+state = 
+zip = 
+country = United Kingdom
+category = Handler/Processor/Manufacturer, Importer
+topic = General
+file = w0000955.txt

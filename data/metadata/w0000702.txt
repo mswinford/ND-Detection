@@ -1,0 +1,9 @@
+received date = 01/03/1998
+name = shields, mari
+company = 
+state = IL
+zip = 60613
+country = United States
+category = Consumer
+topic = National List
+file = w0000702.txt

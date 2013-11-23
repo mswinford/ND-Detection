@@ -1,0 +1,10 @@
+received date = 12/22/1997
+name = Meyers, Irene
+company = 
+state = NJ
+zip = 08317
+country = United States
+category = Consumer
+topic = Crops
+section = 205.8
+file = w0000466.txt

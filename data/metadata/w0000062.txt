@@ -1,0 +1,10 @@
+received date = 12/16/1997
+name = Dinnes, Dana
+company = National Soil Tilth Laboratory
+state = IA
+zip = 50011
+country = United States
+category = Federal Government Agency
+topic = National List
+section = 205.20
+file = w0000062.txt

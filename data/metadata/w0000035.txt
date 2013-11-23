@@ -1,0 +1,9 @@
+received date = 12/15/1997
+name = Erener, Errol
+company = concerned citizen
+state = NC
+zip = 28793
+country = United States
+category = Consumer
+topic = General
+file = w0000035.txt

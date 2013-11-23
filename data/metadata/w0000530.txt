@@ -1,0 +1,10 @@
+received date = 12/24/1997
+name = Blate, Michael
+company = The G-Jo Institute
+state = FL
+zip = 33314
+country = United States
+category = Broker/Distributor/Retailer, Consumer, Crop Producer, Environmentalist Advocacy Group, Industry/Trade Association, Press, Public Interest Group, Small Business
+topic = Labeling
+section = 205.100, 205.101, 205.102, 205.103, 205.105, 205.106
+file = w0000530.txt

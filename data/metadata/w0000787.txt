@@ -1,0 +1,9 @@
+received date = 01/07/1998
+name = Deborah, Siner
+company = 
+state = NY
+zip = 11218
+country = United States
+category = Consumer
+topic = General
+file = w0000787.txt

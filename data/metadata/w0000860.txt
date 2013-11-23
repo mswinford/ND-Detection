@@ -1,0 +1,9 @@
+received date = 01/07/1998
+name = Stoermer, Hilary
+company = private citizen
+state = CA
+zip = 94610
+country = United States
+category = Consumer
+topic = General
+file = w0000860.txt

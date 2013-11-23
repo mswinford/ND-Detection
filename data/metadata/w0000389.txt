@@ -1,0 +1,9 @@
+received date = 12/20/1997
+name = Meikle, Dorell
+company = Small Planet Whole Foods
+state = 
+zip = 
+country = Canada
+category = Small Business
+topic = National List
+file = w0000389.txt

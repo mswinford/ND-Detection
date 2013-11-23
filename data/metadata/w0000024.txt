@@ -1,0 +1,9 @@
+received date = 12/15/1997
+name = Boyan, Steve
+company = 
+state = MD
+zip = 21104
+country = United States
+category = Consumer
+topic = General
+file = w0000024.txt

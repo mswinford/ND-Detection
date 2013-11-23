@@ -1,0 +1,9 @@
+received date = 12/23/1997
+name = ODettee, Robert
+company = Environmental Waste Recycling Inc..
+state = NC
+zip = 27006
+country = United States
+category = Small Business
+topic = General
+file = w0000489.txt

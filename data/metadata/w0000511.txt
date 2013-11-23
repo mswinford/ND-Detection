@@ -1,0 +1,9 @@
+received date = 12/23/1997
+name = Maglic, Anton
+company = Citizen of the United States of America
+state = CA
+zip = 90066
+country = United States
+category = Consumer
+topic = General
+file = w0000511.txt

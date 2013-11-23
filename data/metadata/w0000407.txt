@@ -1,0 +1,9 @@
+received date = 12/20/1997
+name = Swaner, Don
+company = 
+state = MD
+zip = 21043
+country = United States
+category = Consumer
+topic = Crops
+file = w0000407.txt

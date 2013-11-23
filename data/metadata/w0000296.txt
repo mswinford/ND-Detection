@@ -1,0 +1,10 @@
+received date = 12/19/1997
+name = Shaw, Craig
+company = Maharishi University of Management Library
+state = IA
+zip = 52557
+country = United States
+category = College/University
+topic = National List
+section = 205.27
+file = w0000296.txt

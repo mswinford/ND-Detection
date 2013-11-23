@@ -1,0 +1,9 @@
+received date = 01/05/1998
+name = McNeil, E.
+company = Ohio State University
+state = OH
+zip = 43210
+country = United States
+category = College/University, Consumer
+topic = General
+file = w0000745.txt

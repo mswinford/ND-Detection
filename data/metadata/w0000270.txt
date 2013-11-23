@@ -1,0 +1,9 @@
+received date = 12/18/1997
+name = Piccinini, Leslie
+company = 
+state = GA
+zip = 30002
+country = United States
+category = Consumer
+topic = Labeling
+file = w0000270.txt

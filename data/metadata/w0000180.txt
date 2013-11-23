@@ -1,0 +1,9 @@
+received date = 12/17/1997
+name = Meyer, Matthew
+company = 
+state = IL
+zip = 60173
+country = United States
+category = Consumer
+topic = National List
+file = w0000180.txt

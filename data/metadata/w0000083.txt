@@ -1,0 +1,9 @@
+received date = 12/16/1997
+name = Ringer, Dr Gregg
+company = TREC and University of Oregon
+state = OR
+zip = 97402
+country = United States
+category = Small Business
+topic = General
+file = w0000083.txt

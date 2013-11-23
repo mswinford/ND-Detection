@@ -1,0 +1,10 @@
+received date = 12/16/1997
+name = Pace, David
+company = member of La Montanita Food Coop
+state = NM
+zip = 87106
+country = United States
+category = Consumer
+topic = Labeling
+section = 205.100
+file = w0000104.txt

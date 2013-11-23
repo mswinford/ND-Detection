@@ -1,0 +1,9 @@
+received date = 01/12/1998
+name = Harrison, David
+company = 
+state = NH
+zip = 03038
+country = United States
+category = Environmentalist Advocacy Group, Federal Government Agency
+topic = General
+file = w0000987.txt

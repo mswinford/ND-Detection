@@ -1,0 +1,10 @@
+received date = 12/28/1997
+name = Reusch, Beatrice
+company = Univ of California Berkeleyyy
+state = CA
+zip = 94704
+country = United States
+category = College/University, Consumer
+topic = National List
+section = 205.20, 205.21, 205.22, 205.23, 205.24, 205.25, 205.26, 205.27, 205.28
+file = w0000593.txt

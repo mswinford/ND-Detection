@@ -1,0 +1,10 @@
+received date = 12/18/1997
+name = Kaplan, Gary
+company = North Shore University Hospital
+state = NY
+zip = 11030
+country = United States
+category = College/University
+topic = Labeling
+section = 205.100
+file = w0000277.txt

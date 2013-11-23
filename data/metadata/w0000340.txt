@@ -1,0 +1,10 @@
+received date = 12/19/1997
+name = Davis, Ron
+company = 
+state = TX
+zip = 78729
+country = United States
+category = Consumer
+topic = Labeling
+section = 205.100, 205.101, 205.102, 205.103, 205.104, 205.105, 205.106, 205.107
+file = w0000340.txt

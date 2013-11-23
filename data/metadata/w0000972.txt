@@ -1,0 +1,9 @@
+received date = 01/11/1998
+name = Jacobo, Troy
+company = Fred Meyer NutritionCenter
+state = UT
+zip = 84109
+country = United States
+category = Consumer, Retailer
+topic = General
+file = w0000972.txt

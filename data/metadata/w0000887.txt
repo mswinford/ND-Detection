@@ -1,0 +1,10 @@
+received date = 01/08/1998
+name = sherwood, barbara
+company = private citizen
+state = VA
+zip = 22747
+country = United States
+category = Consumer
+topic = Definitions
+section = 205.2
+file = w0000887.txt

@@ -1,0 +1,9 @@
+received date = 01/07/1998
+name = Silcox, Sherry
+company = Individual
+state = TX
+zip = 77536
+country = United States
+category = Consumer
+topic = General
+file = w0000785.txt

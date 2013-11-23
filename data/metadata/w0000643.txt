@@ -1,0 +1,9 @@
+received date = 12/30/1997
+name = Kelly, Richard
+company = 
+state = MD
+zip = 20817
+country = United States
+category = Consumer
+topic = Labeling
+file = w0000643.txt

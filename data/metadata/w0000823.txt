@@ -1,0 +1,10 @@
+received date = 01/07/1998
+name = Price, Richard
+company = Food Consumer
+state = CA
+zip = 94116
+country = United States
+category = Consumer
+topic = National List
+section = 205.22, 205.24
+file = w0000823.txt

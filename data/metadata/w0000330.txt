@@ -1,0 +1,10 @@
+received date = 12/19/1997
+name = Karpen, Jim
+company = Maharishi University of Management
+state = IA
+zip = 52557
+country = United States
+category = Consumer
+topic = Crops
+section = 205.8, 205.9
+file = w0000330.txt

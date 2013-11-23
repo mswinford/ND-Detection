@@ -1,0 +1,9 @@
+received date = 01/03/1998
+name = Queen, Marcia
+company = 
+state = CA
+zip = 95020
+country = United States
+category = Consumer
+topic = General
+file = w0000699.txt

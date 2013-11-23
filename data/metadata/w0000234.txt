@@ -1,0 +1,10 @@
+received date = 12/18/1997
+name = Andree, Paul
+company = Bread of Life Services
+state = FL
+zip = 32736
+country = United States
+category = Consumer
+topic = Crops
+section = 205.8, 205.9
+file = w0000234.txt

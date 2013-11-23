@@ -1,0 +1,10 @@
+received date = 12/27/1997
+name = Green, A Scottt
+company = Self
+state = NC
+zip = 27404
+country = United States
+category = Accrediting Agency, Attorney, Broker/Distributor/Retailer, Certifying Agent (Private), Certifying Agent (State), Chemical Manufacturer, College/University, Congressional, Consumer, Cosmetics Manufacturer, Crop Producer, Economist, Environmentalist Advocacy Group, Exporter, Federal Government Agency, Foreign Government Representative, Foreign Organic Program Representative, Handler/Processor/Manufacturer, Importer, Industry/Trade Association, Laboratory Technician/Operator, Livestock Producer, Press, Public Interest Group, Retailer, Scientist/Veterinarian, Small Business
+topic = Crops
+section = 205.5, 205.6, 205.7, 205.8, 205.9, 205.11
+file = w0000566.txt

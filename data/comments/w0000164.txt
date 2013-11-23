@@ -1,0 +1,1 @@
+comment =  Allow POB in permitted pyrethrum insecticides for certified growers use.

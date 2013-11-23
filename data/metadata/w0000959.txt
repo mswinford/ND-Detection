@@ -1,0 +1,9 @@
+received date = 01/11/1998
+name = Gauff, Bob
+company = Us Citizennn
+state = TX
+zip = 76234
+country = United States
+category = Consumer, Crop Producer, Livestock Producer
+topic = General
+file = w0000959.txt

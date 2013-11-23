@@ -1,0 +1,9 @@
+received date = 12/30/1997
+name = Tracey, Christopher
+company = University of Pittsburgh
+state = PA
+zip = 15217
+country = United States
+category = College/University
+topic = General
+file = w0000650.txt

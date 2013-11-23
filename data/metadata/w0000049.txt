@@ -1,0 +1,10 @@
+received date = 12/16/1997
+name = Wootton, Norris
+company = 
+state = GA
+zip = 30295
+country = United States
+category = Consumer
+topic = National List
+section = 205.20, 205.22
+file = w0000049.txt

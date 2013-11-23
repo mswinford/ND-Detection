@@ -1,0 +1,10 @@
+received date = 12/18/1997
+name = Who, Elizabeth
+company = 
+state = CA
+zip = 95521
+country = United States
+category = Consumer
+topic = Labeling
+section = 205.100
+file = w0000263.txt

@@ -1,0 +1,9 @@
+received date = 12/19/1997
+name = Lewin, Esta
+company = none
+state = WI
+zip = 53132
+country = United States
+category = Consumer
+topic = General
+file = w0000312.txt

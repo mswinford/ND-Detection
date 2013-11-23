@@ -1,0 +1,10 @@
+received date = 01/04/1998
+name = barnes, claire
+company = UCLA
+state = CA
+zip = 90024
+country = United States
+category = College/University
+topic = Labeling
+section = 205.100, 205.101, 205.102, 205.103, 205.104, 205.105
+file = w0000722.txt

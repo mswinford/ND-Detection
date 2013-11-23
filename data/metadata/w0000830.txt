@@ -1,0 +1,10 @@
+received date = 01/07/1998
+name = Kennedy, Kathi
+company = 
+state = CA
+zip = 94115
+country = United States
+category = Consumer
+topic = State Programs
+section = 205.401, 205.402, 205.403
+file = w0000830.txt

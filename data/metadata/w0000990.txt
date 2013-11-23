@@ -1,0 +1,9 @@
+received date = 01/12/1998
+name = Blais, Robert
+company = Bob and Lydias Organic Gardenn
+state = NY
+zip = 10033
+country = United States
+category = Crop Producer
+topic = General
+file = w0000990.txt

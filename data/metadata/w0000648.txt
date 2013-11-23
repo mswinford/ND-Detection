@@ -1,0 +1,9 @@
+received date = 12/30/1997
+name = Hoyt, Stephen
+company = 
+state = CA
+zip = 95616
+country = United States
+category = Consumer
+topic = General
+file = w0000648.txt

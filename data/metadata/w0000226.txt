@@ -1,0 +1,9 @@
+received date = 12/18/1997
+name = Swanson, Suzanne
+company = Private individual
+state = IN
+zip = 47978
+country = United States
+category = Consumer
+topic = General
+file = w0000226.txt

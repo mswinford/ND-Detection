@@ -1,0 +1,10 @@
+received date = 12/18/1997
+name = Herron PhD..., Robert E.
+company = Institute of Science Technology and Public Policyy
+state = IA
+zip = 52556
+country = United States
+category = College/University
+topic = Labeling
+section = 205.100
+file = w0000213.txt

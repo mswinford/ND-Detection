@@ -1,0 +1,1 @@
+comment = Irradiation should not be allowed for food labeled organic.

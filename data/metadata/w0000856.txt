@@ -1,0 +1,10 @@
+received date = 01/07/1998
+name = Tomaso, Claudia
+company = self
+state = CA
+zip = 94301
+country = United States
+category = Consumer
+topic = Livestock
+section = 205.13
+file = w0000856.txt

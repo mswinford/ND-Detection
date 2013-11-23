@@ -1,0 +1,9 @@
+received date = 01/03/1998
+name = montana, maggie
+company = 
+state = WA
+zip = 99203
+country = United States
+category = Consumer
+topic = General
+file = w0000704.txt

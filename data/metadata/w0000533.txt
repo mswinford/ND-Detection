@@ -1,0 +1,9 @@
+received date = 12/24/1997
+name = Battagin, Bill
+company = Always
+state = CA
+zip = 95983
+country = United States
+category = Small Business
+topic = General
+file = w0000533.txt

@@ -1,0 +1,9 @@
+received date = 12/16/1997
+name = Switaj, Elizabeth
+company = 
+state = WA
+zip = 98505
+country = United States
+category = College/University, Consumer, Environmentalist Advocacy Group
+topic = General
+file = w0000046.txt

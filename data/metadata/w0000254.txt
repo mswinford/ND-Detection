@@ -1,0 +1,9 @@
+received date = 12/18/1997
+name = Ballou, Cynthia L.
+company = Mothers of Natural Law
+state = IA
+zip = 52556
+country = United States
+category = Accrediting Agency, Consumer, Environmentalist Advocacy Group, Public Interest Group, Small Business
+topic = General
+file = w0000254.txt

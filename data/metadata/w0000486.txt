@@ -1,0 +1,9 @@
+received date = 12/22/1997
+name = Wessels, Heide
+company = AHFW
+state = DC
+zip = 20011
+country = United States
+category = Accrediting Agency, Consumer, Other
+topic = General
+file = w0000486.txt

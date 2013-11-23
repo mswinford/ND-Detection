@@ -1,0 +1,10 @@
+received date = 12/20/1997
+name = DeYoung, Chris
+company = None
+state = CA
+zip = 90031
+country = United States
+category = College/University, Congressional, Consumer, Cosmetics Manufacturer, Crop Producer, Economist, Environmentalist Advocacy Group, Exporter, Federal Government Agency, Foreign Government Representative, Foreign Organic Program Representative, Handler/Processor/Manufacturer, Importer, Industry/Trade Association, Laboratory Technician/Operator, Livestock Producer, Press, Public Interest Group, Retailer, Scientist/Veterinarian, Small Business, State Government Official, Wild Crop Harvester
+topic = Labeling
+section = 205.100, 205.101, 205.102, 205.103, 205.104, 205.105, 205.106, 205.107
+file = w0000373.txt

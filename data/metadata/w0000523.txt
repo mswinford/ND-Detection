@@ -1,0 +1,9 @@
+received date = 12/24/1997
+name = Welsh, Susan
+company = Concerned Citizen
+state = MA
+zip = 01940
+country = United States
+category = Consumer, Other
+topic = National List
+file = w0000523.txt

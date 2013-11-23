@@ -1,0 +1,10 @@
+received date = 12/17/1997
+name = Stokstad, Paul
+company = Self
+state = IA
+zip = 52556
+country = United States
+category = Consumer
+topic = National List
+section = 205.28
+file = w0000162.txt

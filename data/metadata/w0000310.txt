@@ -1,0 +1,9 @@
+received date = 12/19/1997
+name = Murray, Diane
+company = Citizens for Choice in Health Care Manitoba
+state = 
+zip = 
+country = Canada
+category = Public Interest Group
+topic = Regulatory Flexibility
+file = w0000310.txt

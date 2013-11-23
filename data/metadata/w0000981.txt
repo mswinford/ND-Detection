@@ -1,0 +1,9 @@
+received date = 01/12/1998
+name = Ross, Cheryl
+company = 
+state = CA
+zip = 94111
+country = United States
+category = Consumer
+topic = General
+file = w0000981.txt

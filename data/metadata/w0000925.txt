@@ -1,0 +1,9 @@
+received date = 01/09/1998
+name = Hipsh, Anna
+company = N/A
+state = NM
+zip = 87544
+country = United States
+category = Consumer
+topic = General
+file = w0000925.txt

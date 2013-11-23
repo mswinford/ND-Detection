@@ -1,0 +1,9 @@
+received date = 12/31/1997
+name = Mitchell, David
+company = Bainbridge Ometepe Sister Islands Association
+state = WA
+zip = 98110
+country = United States
+category = Consumer
+topic = General
+file = w0000664.txt

@@ -1,0 +1,10 @@
+received date = 12/17/1997
+name = Butterfield, Blair
+company = 
+state = HI
+zip = 96753
+country = United States
+category = Consumer
+topic = Crops
+section = 205.8
+file = w0000160.txt

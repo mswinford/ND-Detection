@@ -1,0 +1,9 @@
+received date = 01/07/1998
+name = williams, wallace
+company = concerned citizen
+state = CA
+zip = 95354
+country = United States
+category = Consumer
+topic = General
+file = w0000818.txt

@@ -1,0 +1,9 @@
+received date = 12/22/1997
+name = Prestemon, Robert
+company = Retired
+state = MD
+zip = 20851
+country = United States
+category = Consumer
+topic = General
+file = w0000487.txt

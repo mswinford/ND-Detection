@@ -1,0 +1,9 @@
+received date = 01/05/1998
+name = Hodsdon, Kathy
+company = n/a
+state = ME
+zip = 04917
+country = United States
+category = Consumer
+topic = General
+file = w0000761.txt

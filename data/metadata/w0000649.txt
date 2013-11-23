@@ -1,0 +1,9 @@
+received date = 12/30/1997
+name = Griffith, Gary
+company = 
+state = CA
+zip = 94043
+country = United States
+category = Consumer
+topic = General
+file = w0000649.txt

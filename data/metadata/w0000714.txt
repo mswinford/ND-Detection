@@ -1,0 +1,10 @@
+received date = 01/04/1998
+name = estabrook, paul
+company = virginia gold orchards
+state = VA
+zip = 24578
+country = United States
+category = Crop Producer
+topic = National List
+section = 205.22
+file = w0000714.txt

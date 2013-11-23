@@ -1,0 +1,10 @@
+received date = 01/05/1998
+name = Tresca, Ka
+company = Private Citizen--Concerned Mother
+state = TX
+zip = 78750
+country = United States
+category = Consumer
+topic = Crops
+section = 205.7
+file = w0000762.txt

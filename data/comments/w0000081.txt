@@ -1,0 +1,1 @@
+comment = Please do not allow any food that has been irradiated to carry the "organic" label.

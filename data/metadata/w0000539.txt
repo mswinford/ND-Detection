@@ -1,0 +1,9 @@
+received date = 12/24/1997
+name = Allan, Henry
+company = Worcester Vegetarian Society
+state = MA
+zip = 01541
+country = United States
+category = Environmentalist Advocacy Group, Wild Crop Harvester
+topic = National List
+file = w0000539.txt

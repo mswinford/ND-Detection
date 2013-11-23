@@ -1,0 +1,9 @@
+received date = 12/18/1997
+name = Kater, Paul
+company = 
+state = 
+zip = 
+country = The Netherlands
+category = Consumer
+topic = General
+file = w0000248.txt

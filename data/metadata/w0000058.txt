@@ -1,0 +1,9 @@
+received date = 12/16/1997
+name = Richards, Dyson
+company = RGS Associates Inc..
+state = MD
+zip = 20708
+country = United States
+category = Other
+topic = General
+file = w0000058.txt

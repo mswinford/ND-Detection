@@ -1,0 +1,9 @@
+received date = 12/16/1997
+name = Page, Christopher
+company = 
+state = CA
+zip = 91362
+country = United States
+category = Small Business
+topic = General
+file = w0000063.txt

@@ -1,0 +1,9 @@
+received date = 01/09/1998
+name = MCGINNESS, LOGAN
+company = SELF
+state = NM
+zip = 87104
+country = United States
+category = Certifying Agent (Private)
+topic = Crops
+file = w0000912.txt

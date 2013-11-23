@@ -1,0 +1,10 @@
+received date = 01/09/1998
+name = Kinne, Pete
+company = Bloomingfoods Market & Deli
+state = IN
+zip = 47401
+country = United States
+category = Broker/Distributor/Retailer
+topic = Labeling
+section = 205.103, 205.104
+file = w0000930.txt

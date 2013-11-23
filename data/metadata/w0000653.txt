@@ -1,0 +1,9 @@
+received date = 12/31/1997
+name = Hardiman, Wil
+company = Missouri Organic Association
+state = MO
+zip = 65725
+country = United States
+category = Accrediting Agency, Consumer, Crop Producer, Environmentalist Advocacy Group, Industry/Trade Association, Livestock Producer
+topic = General
+file = w0000653.txt

@@ -1,0 +1,9 @@
+received date = 12/19/1997
+name = Johnson, Gary
+company = 
+state = MN
+zip = 55431
+country = United States
+category = Other
+topic = General
+file = w0000356.txt

@@ -1,0 +1,9 @@
+received date = 12/21/1997
+name = Misiurewicz, Michal
+company = 
+state = IN
+zip = 46032
+country = United States
+category = College/University, Consumer
+topic = General
+file = w0000420.txt

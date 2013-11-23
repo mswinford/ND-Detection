@@ -1,0 +1,9 @@
+received date = 12/20/1997
+name = Goddard, Nigel
+company = Carnegie Mellon University
+state = PA
+zip = 15217
+country = United States
+category = Scientist/Veterinarian
+topic = General
+file = w0000367.txt

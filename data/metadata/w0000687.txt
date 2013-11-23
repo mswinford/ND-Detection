@@ -1,0 +1,9 @@
+received date = 01/02/1998
+name = Burrows, Pamela
+company = none
+state = MN
+zip = 55113
+country = United States
+category = Consumer
+topic = General
+file = w0000687.txt

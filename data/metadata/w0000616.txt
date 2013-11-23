@@ -1,0 +1,9 @@
+received date = 12/29/1997
+name = Caruso, Chris
+company = 
+state = PA
+zip = 19107
+country = United States
+category = Consumer
+topic = General
+file = w0000616.txt

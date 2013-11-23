@@ -1,0 +1,9 @@
+received date = 01/12/1998
+name = Rose, Scott
+company = Scotts Software Solutionss
+state = CA
+zip = 90036
+country = United States
+category = Consumer, Small Business
+topic = General
+file = w0000976.txt

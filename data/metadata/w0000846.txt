@@ -1,0 +1,10 @@
+received date = 01/07/1998
+name = Kennedy, Kathi
+company = 
+state = CA
+zip = 94115
+country = United States
+category = Consumer
+topic = Equivalency
+section = 205.480, 205.481, 205.482, 205.483
+file = w0000846.txt

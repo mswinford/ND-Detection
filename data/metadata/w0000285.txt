@@ -1,0 +1,10 @@
+received date = 12/19/1997
+name = Kerr, Julie
+company = concerned consumer
+state = MD
+zip = 21042
+country = United States
+category = Consumer
+topic = Livestock
+section = 205.15
+file = w0000285.txt

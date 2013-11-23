@@ -1,0 +1,9 @@
+received date = 01/11/1998
+name = Tavabi, Kambiz
+company = tax payer
+state = CA
+zip = 90505
+country = United States
+category = College/University
+topic = General
+file = w0000963.txt

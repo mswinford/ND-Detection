@@ -1,0 +1,9 @@
+received date = 12/31/1997
+name = Blair II, Leo A.
+company = Eastford Food Coop
+state = CT
+zip = 06247
+country = United States
+category = Certifying Agent (Private), Certifying Agent (State), Consumer, Crop Producer, Economist, Environmentalist Advocacy Group, Federal Government Agency, Foreign Government Representative, Handler/Processor/Manufacturer, Importer, Livestock Producer, State Government Official, Wild Crop Harvester
+topic = General
+file = w0000655.txt

@@ -1,0 +1,9 @@
+received date = 12/16/1997
+name = Snyder, Emery
+company = Princeton University
+state = NJ
+zip = 08544
+country = United States
+category = Consumer
+topic = Definitions
+file = w0000064.txt

@@ -1,0 +1,9 @@
+received date = 12/16/1997
+name = Rybak, Mike
+company = Fairbanks Country Day
+state = CA
+zip = 92109
+country = United States
+category = Other
+topic = General
+file = w0000095.txt

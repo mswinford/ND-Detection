@@ -1,0 +1,9 @@
+received date = 12/16/1997
+name = Kaplan, Gary
+company = North Shore University Hospital
+state = NY
+zip = 11030
+country = United States
+category = College/University
+topic = Definitions
+file = w0000116.txt

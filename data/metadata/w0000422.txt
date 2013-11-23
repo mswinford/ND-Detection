@@ -1,0 +1,10 @@
+received date = 12/21/1997
+name = Suleski, Christopher
+company = 
+state = NJ
+zip = 07080
+country = United States
+category = Consumer
+topic = Livestock
+section = 205.15
+file = w0000422.txt

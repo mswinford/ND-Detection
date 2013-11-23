@@ -1,0 +1,9 @@
+received date = 01/07/1998
+name = Semenoff, Elizabeth
+company = 
+state = CA
+zip = 95121
+country = United States
+category = Consumer
+topic = General
+file = w0000858.txt

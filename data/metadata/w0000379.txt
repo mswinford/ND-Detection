@@ -1,0 +1,9 @@
+received date = 12/20/1997
+name = Lasser, Robert
+company = 
+state = PA
+zip = 19106
+country = United States
+category = Consumer, Other
+topic = National List
+file = w0000379.txt

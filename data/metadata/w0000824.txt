@@ -1,0 +1,9 @@
+received date = 01/07/1998
+name = Owen, Richard
+company = None
+state = CA
+zip = 94611
+country = United States
+category = Consumer
+topic = General
+file = w0000824.txt

@@ -1,0 +1,9 @@
+received date = 01/11/1998
+name = Paisley, Janet
+company = 
+state = KS
+zip = 66606
+country = United States
+category = Consumer
+topic = Crops
+file = w0000970.txt

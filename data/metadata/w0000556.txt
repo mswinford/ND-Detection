@@ -1,0 +1,9 @@
+received date = 12/26/1997
+name = Sachs, Ron
+company = 
+state = CA
+zip = 91306
+country = United States
+category = Consumer
+topic = General
+file = w0000556.txt

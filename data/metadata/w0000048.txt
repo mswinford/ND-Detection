@@ -1,0 +1,9 @@
+received date = 12/16/1997
+name = Pais, Gregory
+company = 
+state = CO
+zip = 80524
+country = United States
+category = Scientist/Veterinarian, Small Business, Other
+topic = General
+file = w0000048.txt

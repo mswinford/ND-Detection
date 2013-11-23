@@ -1,0 +1,9 @@
+received date = 12/19/1997
+name = Braun, Joan
+company = none
+state = CA
+zip = 94608
+country = United States
+category = Consumer
+topic = General
+file = w0000336.txt

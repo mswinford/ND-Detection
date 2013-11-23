@@ -1,0 +1,1 @@
+comment = All components of a food, prepared or not, should themselves BE organic and not a product of a chemical reaction or chemically intensive process.

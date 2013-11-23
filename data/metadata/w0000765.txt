@@ -1,0 +1,9 @@
+received date = 01/06/1998
+name = Self, Steve
+company = Nierica Foundation
+state = CO
+zip = 81301
+country = United States
+category = Environmentalist Advocacy Group
+topic = General
+file = w0000765.txt

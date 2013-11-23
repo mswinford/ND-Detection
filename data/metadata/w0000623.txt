@@ -1,0 +1,9 @@
+received date = 12/30/1997
+name = Ordahl, Elizabeth
+company = 
+state = CO
+zip = 80027
+country = United States
+category = Consumer
+topic = General
+file = w0000623.txt

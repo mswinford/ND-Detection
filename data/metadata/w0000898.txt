@@ -1,0 +1,9 @@
+received date = 01/08/1998
+name = Anderson, Robert B.
+company = National Organic Standards Board
+state = PA
+zip = 17862
+country = United States
+category = Industry/Trade Association
+topic = General
+file = w0000898.txt

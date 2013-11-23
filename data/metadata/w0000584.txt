@@ -1,0 +1,9 @@
+received date = 12/28/1997
+name = Hilsman, Dylan
+company = Pan World Traders
+state = CA
+zip = 95062
+country = United States
+category = Importer
+topic = Applicability
+file = w0000584.txt

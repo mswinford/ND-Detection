@@ -1,0 +1,9 @@
+received date = 12/16/1997
+name = Stein, Martin
+company = none
+state = NY
+zip = 11206
+country = United States
+category = Consumer
+topic = General
+file = w0000071.txt

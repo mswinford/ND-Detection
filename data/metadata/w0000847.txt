@@ -1,0 +1,9 @@
+received date = 01/07/1998
+name = Cox, Patricia
+company = none
+state = CA
+zip = 94110
+country = United States
+category = Attorney, Consumer
+topic = General
+file = w0000847.txt

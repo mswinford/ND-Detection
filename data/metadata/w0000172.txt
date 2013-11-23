@@ -1,0 +1,10 @@
+received date = 12/17/1997
+name = Williams, Mitch
+company = none
+state = NV
+zip = 89509
+country = United States
+category = Consumer
+topic = National List
+section = 205.20
+file = w0000172.txt

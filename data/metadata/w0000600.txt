@@ -1,0 +1,9 @@
+received date = 12/28/1997
+name = Mitchell, Sharon & Jay
+company = 
+state = IA
+zip = 52556
+country = United States
+category = Consumer
+topic = Labeling
+file = w0000600.txt

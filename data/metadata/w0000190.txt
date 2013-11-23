@@ -1,0 +1,9 @@
+received date = 12/17/1997
+name = Hensley, Robert
+company = Living Wholeness
+state = CO
+zip = 80904
+country = United States
+category = Retailer
+topic = General
+file = w0000190.txt

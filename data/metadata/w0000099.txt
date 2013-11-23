@@ -1,0 +1,9 @@
+received date = 12/16/1997
+name = Kolberg, Del
+company = Oiko Publishing
+state = VA
+zip = 22958
+country = United States
+category = Consumer
+topic = General
+file = w0000099.txt

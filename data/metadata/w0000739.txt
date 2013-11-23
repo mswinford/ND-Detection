@@ -1,0 +1,9 @@
+received date = 01/05/1998
+name = Mc Farland, Peter
+company = Maine Organic Farmers and Gardiners
+state = ME
+zip = 04348
+country = United States
+category = Consumer, Crop Producer, Environmentalist Advocacy Group, Livestock Producer, Public Interest Group
+topic = General
+file = w0000739.txt

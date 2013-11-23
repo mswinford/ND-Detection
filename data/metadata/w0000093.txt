@@ -1,0 +1,9 @@
+received date = 12/16/1997
+name = White, Douglas
+company = Immunex Corp.
+state = WA
+zip = 98107
+country = United States
+category = Consumer
+topic = General
+file = w0000093.txt

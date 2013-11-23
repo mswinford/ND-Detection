@@ -1,0 +1,10 @@
+received date = 01/07/1998
+name = Weber, Wayne
+company = Blooming Grove Studio
+state = OH
+zip = 45056
+country = United States
+category = Consumer, Small Business
+topic = Crops
+section = 205.8
+file = w0000786.txt

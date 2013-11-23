@@ -1,0 +1,1 @@
+comment = There should be no rule, therefore, equivalency will not need to be determined.

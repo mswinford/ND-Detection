@@ -1,0 +1,9 @@
+received date = 01/01/1998
+name = Gardner, Tom
+company = none
+state = NJ
+zip = 08822
+country = United States
+category = Consumer
+topic = General
+file = w0000671.txt

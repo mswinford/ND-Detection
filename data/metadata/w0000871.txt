@@ -1,0 +1,9 @@
+received date = 01/08/1998
+name = Kunard, Dana
+company = 
+state = AZ
+zip = 85704
+country = United States
+category = Consumer
+topic = Crops
+file = w0000871.txt

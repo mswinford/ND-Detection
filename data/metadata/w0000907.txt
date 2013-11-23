@@ -1,0 +1,9 @@
+received date = 01/09/1998
+name = Fleischman, Ted
+company = Ascend Communications
+state = CA
+zip = 94563
+country = United States
+category = Consumer
+topic = Crops
+file = w0000907.txt

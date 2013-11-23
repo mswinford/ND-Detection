@@ -1,0 +1,9 @@
+received date = 12/18/1997
+name = Dove, Jackie
+company = 
+state = CA
+zip = 94122
+country = United States
+category = Consumer
+topic = General
+file = w0000212.txt

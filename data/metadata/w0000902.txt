@@ -1,0 +1,9 @@
+received date = 01/08/1998
+name = Hanks, James
+company = none
+state = MO
+zip = 64870
+country = United States
+category = Accrediting Agency
+topic = General
+file = w0000902.txt

@@ -1,0 +1,9 @@
+received date = 01/05/1998
+name = Parker, Cynthia
+company = Sage Hill Farm
+state = CO
+zip = 80651
+country = United States
+category = Crop Producer
+topic = General
+file = w0000747.txt

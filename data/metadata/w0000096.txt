@@ -1,0 +1,9 @@
+received date = 12/16/1997
+name = Daley, Michael
+company = 
+state = CA
+zip = 95472
+country = United States
+category = Consumer
+topic = General
+file = w0000096.txt

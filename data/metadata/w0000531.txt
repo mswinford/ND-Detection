@@ -1,0 +1,10 @@
+received date = 12/24/1997
+name = Molini, Rich
+company = 
+state = IN
+zip = 46031
+country = United States
+category = Crop Producer, Livestock Producer
+topic = National List
+section = 205.21
+file = w0000531.txt

@@ -1,0 +1,9 @@
+received date = 01/12/1998
+name = Rawling, Geoffrey
+company = none
+state = NM
+zip = 87801
+country = United States
+category = Consumer
+topic = General
+file = w0000986.txt

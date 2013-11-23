@@ -1,0 +1,10 @@
+received date = 12/18/1997
+name = Taves, Ruth Anne
+company = Maharishi Vedic College
+state = 
+zip = 
+country = Canada
+category = College/University, Consumer
+topic = Crops
+section = 205.8
+file = w0000209.txt

@@ -1,0 +1,9 @@
+received date = 12/22/1997
+name = SMITH, CATHERINE
+company = ENRICH
+state = TX
+zip = 75132
+country = United States
+category = Consumer
+topic = General
+file = w0000445.txt

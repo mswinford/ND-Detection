@@ -1,0 +1,9 @@
+received date = 12/28/1997
+name = reed, barbara
+company = fandor farm
+state = CA
+zip = 95959
+country = United States
+category = Consumer
+topic = General
+file = w0000588.txt

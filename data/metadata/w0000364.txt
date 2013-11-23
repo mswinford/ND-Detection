@@ -1,0 +1,9 @@
+received date = 12/19/1997
+name = Holtkamp, Minke
+company = n/a
+state = MN
+zip = 55403
+country = United States
+category = Consumer
+topic = Certification
+file = w0000364.txt

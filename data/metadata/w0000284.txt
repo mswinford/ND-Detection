@@ -1,0 +1,9 @@
+received date = 12/19/1997
+name = Shapiro, Alice
+company = private citizen registered dietitian and consultantt
+state = OR
+zip = 97439
+country = United States
+category = Other
+topic = General
+file = w0000284.txt

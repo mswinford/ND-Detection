@@ -1,0 +1,9 @@
+received date = 12/17/1997
+name = Donovan, John
+company = individual
+state = AZ
+zip = 85635
+country = United States
+category = Consumer
+topic = General
+file = w0000170.txt

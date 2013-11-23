@@ -1,0 +1,9 @@
+received date = 12/22/1997
+name = Ross, JH..
+company = none
+state = NJ
+zip = 08868
+country = United States
+category = Consumer
+topic = General
+file = w0000449.txt

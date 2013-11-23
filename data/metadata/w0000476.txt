@@ -1,0 +1,9 @@
+received date = 12/22/1997
+name = Kramp, Vivian
+company = 
+state = CA
+zip = 95138
+country = United States
+category = Consumer
+topic = General
+file = w0000476.txt

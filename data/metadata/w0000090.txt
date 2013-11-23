@@ -1,0 +1,9 @@
+received date = 12/16/1997
+name = Cokenias, Damon
+company = 
+state = CA
+zip = 95033
+country = United States
+category = Consumer
+topic = General
+file = w0000090.txt

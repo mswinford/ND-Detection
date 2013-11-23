@@ -1,0 +1,10 @@
+received date = 12/15/1997
+name = Javoric, Tony
+company = OWDS Inc..
+state = OR
+zip = 97526
+country = United States
+category = Retailer
+topic = Crops
+section = 205.7
+file = w0000010.txt

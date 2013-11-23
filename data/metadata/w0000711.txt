@@ -1,0 +1,10 @@
+received date = 01/04/1998
+name = Bryson, Joanna
+company = MIT
+state = MA
+zip = 02139
+country = United States
+category = College/University, Consumer, Scientist/Veterinarian
+topic = Fees
+section = 205.421, 205.422
+file = w0000711.txt

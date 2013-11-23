@@ -1,0 +1,9 @@
+received date = 01/11/1998
+name = Alexander, Daniel
+company = DMR Trecom
+state = NJ
+zip = 07030
+country = United States
+category = Consumer
+topic = General
+file = w0000965.txt

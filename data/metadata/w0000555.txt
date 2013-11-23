@@ -1,0 +1,9 @@
+received date = 12/26/1997
+name = Courtier, Elizabeth
+company = Concerned Citizen
+state = CA
+zip = 92103
+country = United States
+category = Consumer
+topic = General
+file = w0000555.txt

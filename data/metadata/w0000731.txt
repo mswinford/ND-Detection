@@ -1,0 +1,9 @@
+received date = 01/05/1998
+name = Quinn, Elizabeth
+company = student at The Winsor Schooll
+state = MA
+zip = 02215
+country = United States
+category = Other
+topic = General
+file = w0000731.txt

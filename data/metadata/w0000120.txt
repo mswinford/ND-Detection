@@ -1,0 +1,9 @@
+received date = 12/16/1997
+name = Gore, Arnold
+company = Consumers Health Freedom Coalition
+state = NY
+zip = 10040
+country = United States
+category = Public Interest Group
+topic = General
+file = w0000120.txt

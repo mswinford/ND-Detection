@@ -1,0 +1,9 @@
+received date = 12/31/1997
+name = Kennedy, Lee
+company = 
+state = CA
+zip = 94301
+country = United States
+category = Other
+topic = General
+file = w0000659.txt

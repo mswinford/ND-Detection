@@ -1,0 +1,9 @@
+received date = 12/22/1997
+name = Griffiths, Mark
+company = International Federation of Surveyors
+state = 
+zip = 
+country = United Kingdom
+category = Economist
+topic = General
+file = w0000460.txt

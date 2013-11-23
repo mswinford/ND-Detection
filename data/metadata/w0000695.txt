@@ -1,0 +1,10 @@
+received date = 01/02/1998
+name = Lincoln, Janet
+company = Hudson Research ASsociates
+state = NY
+zip = 12173
+country = United States
+category = Consumer
+topic = Livestock
+section = 205.14
+file = w0000695.txt

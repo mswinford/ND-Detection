@@ -1,0 +1,10 @@
+received date = 01/07/1998
+name = Kennedy, Kathi
+company = 
+state = CA
+zip = 94115
+country = United States
+category = Consumer
+topic = Handling
+section = 205.16, 205.17, 205.18, 205.19
+file = w0000840.txt

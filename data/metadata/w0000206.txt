@@ -1,0 +1,10 @@
+received date = 12/18/1997
+name = Clark, David
+company = 
+state = 
+zip = 
+country = Canada
+category = Consumer
+topic = National List
+section = 205.21
+file = w0000206.txt

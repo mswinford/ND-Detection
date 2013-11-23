@@ -1,0 +1,9 @@
+received date = 01/12/1998
+name = Schumann, Patrik
+company = ecOasys
+state = NM
+zip = 87196
+country = United States
+category = Small Business
+topic = General
+file = w0000988.txt

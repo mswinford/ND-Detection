@@ -1,0 +1,10 @@
+received date = 01/07/1998
+name = Kennedy, Kathi
+company = 
+state = CA
+zip = 94115
+country = United States
+category = Consumer
+topic = Accreditation
+section = 205.300, 205.301, 205.302, 205.303, 205.304, 205.305, 205.306, 205.307, 205.308, 205.309, 205.311, 205.312, 205.313, 205.314, 205.315, 205.316
+file = w0000843.txt

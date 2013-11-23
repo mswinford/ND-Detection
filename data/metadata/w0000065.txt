@@ -1,0 +1,9 @@
+received date = 12/16/1997
+name = Spracklen, Dan
+company = 
+state = OR
+zip = 97404
+country = United States
+category = Consumer
+topic = General
+file = w0000065.txt

@@ -1,0 +1,9 @@
+received date = 12/22/1997
+name = Vogel, Sara
+company = 
+state = WI
+zip = 53202
+country = United States
+category = Consumer
+topic = General
+file = w0000470.txt

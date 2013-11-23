@@ -1,0 +1,9 @@
+received date = 12/24/1997
+name = Connell, Renee
+company = 
+state = TX
+zip = 77479
+country = United States
+category = Consumer
+topic = General
+file = w0000542.txt

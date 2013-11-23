@@ -1,0 +1,9 @@
+received date = 12/17/1997
+name = Vance, Dylan
+company = 
+state = CA
+zip = 94109
+country = United States
+category = Consumer
+topic = General
+file = w0000166.txt

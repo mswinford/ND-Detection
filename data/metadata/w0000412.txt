@@ -1,0 +1,10 @@
+received date = 12/20/1997
+name = Bodfish, Emmon
+company = RDNA....
+state = CA
+zip = 94965
+country = United States
+category = Consumer
+topic = National List
+section = 205.20, 205.21, 205.22, 205.23, 205.24, 205.25, 205.28
+file = w0000412.txt

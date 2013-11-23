@@ -1,0 +1,10 @@
+received date = 12/19/1997
+name = Beltran, Evans
+company = USA Citizen
+state = IA
+zip = 52556
+country = United States
+category = Consumer, Crop Producer, Environmentalist Advocacy Group, Foreign Organic Program Representative, Public Interest Group, Wild Crop Harvester
+topic = Definitions
+section = 205.1, 205.2
+file = w0000349.txt

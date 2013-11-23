@@ -1,0 +1,10 @@
+received date = 12/16/1997
+name = Lieberman, Rose
+company = Wild Rose Organic Farm
+state = NY
+zip = 14838
+country = United States
+category = Crop Producer
+topic = Fees
+section = 205.421
+file = w0000074.txt

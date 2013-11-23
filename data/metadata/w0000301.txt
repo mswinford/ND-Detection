@@ -1,0 +1,10 @@
+received date = 12/19/1997
+name = Murray, Diane
+company = Citizens for Choice in Health Care CCHC Manitibaa
+state = 
+zip = 
+country = Canada
+category = Public Interest Group
+topic = Crops
+section = 205.8, 205.9
+file = w0000301.txt

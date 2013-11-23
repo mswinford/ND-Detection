@@ -1,0 +1,9 @@
+received date = 12/17/1997
+name = Van Buren, Christopher
+company = 
+state = CA
+zip = 94107
+country = United States
+category = Consumer, Press
+topic = General
+file = w0000161.txt

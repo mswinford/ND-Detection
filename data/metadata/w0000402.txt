@@ -1,0 +1,10 @@
+received date = 12/20/1997
+name = Silverman, Norma
+company = 
+state = NV
+zip = 89016
+country = United States
+category = Consumer
+topic = Labeling
+section = 205.100, 205.103, 205.105
+file = w0000402.txt

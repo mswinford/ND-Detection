@@ -1,0 +1,9 @@
+received date = 01/10/1998
+name = Garcia, Christine
+company = None
+state = NJ
+zip = 07871
+country = United States
+category = Consumer
+topic = General
+file = w0000939.txt

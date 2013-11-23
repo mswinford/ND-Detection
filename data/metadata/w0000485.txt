@@ -1,0 +1,9 @@
+received date = 12/22/1997
+name = Chang, Chuan-Hsi
+company = Telegroup Inc..
+state = IA
+zip = 52556
+country = United States
+category = Consumer
+topic = Labeling
+file = w0000485.txt

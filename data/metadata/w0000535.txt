@@ -1,0 +1,9 @@
+received date = 12/24/1997
+name = Erlichman, Max
+company = 
+state = CA
+zip = 94087
+country = United States
+category = Consumer
+topic = General
+file = w0000535.txt

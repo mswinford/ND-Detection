@@ -1,0 +1,9 @@
+received date = 12/18/1997
+name = sims, bruce
+company = self
+state = AZ
+zip = 85746
+country = United States
+category = Consumer
+topic = National List
+file = w0000274.txt

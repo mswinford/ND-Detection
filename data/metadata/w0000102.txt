@@ -1,0 +1,9 @@
+received date = 12/16/1997
+name = burke, james
+company = personal
+state = WA
+zip = 98501
+country = United States
+category = College/University, Consumer, Environmentalist Advocacy Group
+topic = General
+file = w0000102.txt

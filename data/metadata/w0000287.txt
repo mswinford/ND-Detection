@@ -1,0 +1,10 @@
+received date = 12/19/1997
+name = Roush, Rick
+company = private
+state = 
+zip = 
+country = Australia
+category = Scientist/Veterinarian
+topic = National List
+section = 205.21
+file = w0000287.txt

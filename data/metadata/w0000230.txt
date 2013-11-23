@@ -1,0 +1,9 @@
+received date = 12/18/1997
+name = Stabenow, Eva
+company = 
+state = 
+zip = 
+country = Germany
+category = Small Business
+topic = National List
+file = w0000230.txt

@@ -1,0 +1,10 @@
+received date = 01/07/1998
+name = Cox, Jeff
+company = Rodale Press Inc.
+state = CA
+zip = 95452
+country = United States
+category = Press
+topic = National List
+section = 205.22
+file = w0000809.txt

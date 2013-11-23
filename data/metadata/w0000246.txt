@@ -1,0 +1,10 @@
+received date = 12/18/1997
+name = Runquist, Mark
+company = High HopesGardens
+state = IA
+zip = 50162
+country = United States
+category = Consumer, Crop Producer
+topic = National List
+section = 205.21
+file = w0000246.txt

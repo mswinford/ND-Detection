@@ -1,0 +1,10 @@
+received date = 01/08/1998
+name = Worthen, Brad
+company = Private Citizen
+state = MN
+zip = 55103
+country = United States
+category = Consumer
+topic = National List
+section = 205.20
+file = w0000877.txt

@@ -1,0 +1,9 @@
+received date = 12/15/1997
+name = Hanne, Sandy
+company = non
+state = TX
+zip = 75252
+country = United States
+category = Consumer
+topic = General
+file = w0000005.txt

@@ -1,0 +1,9 @@
+received date = 12/17/1997
+name = Smith, Mark
+company = 
+state = DE
+zip = 19810
+country = United States
+category = Consumer
+topic = General
+file = w0000159.txt

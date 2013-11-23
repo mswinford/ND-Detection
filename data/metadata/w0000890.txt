@@ -1,0 +1,10 @@
+received date = 01/08/1998
+name = OConnor, Cathy
+company = Consumer
+state = NY
+zip = 10021
+country = United States
+category = Consumer
+topic = Labeling
+section = 205.100, 205.101, 205.102, 205.103, 205.105, 205.106, 205.107
+file = w0000890.txt

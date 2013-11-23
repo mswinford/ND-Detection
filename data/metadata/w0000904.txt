@@ -1,0 +1,9 @@
+received date = 01/08/1998
+name = Worth, Shirley
+company = 
+state = MI
+zip = 48092
+country = United States
+category = Consumer, Small Business, Other
+topic = General
+file = w0000904.txt

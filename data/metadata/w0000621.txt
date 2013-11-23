@@ -1,0 +1,9 @@
+received date = 12/29/1997
+name = Goehring, Heidi
+company = none
+state = WI
+zip = 54814
+country = United States
+category = Consumer
+topic = General
+file = w0000621.txt

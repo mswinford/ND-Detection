@@ -1,0 +1,9 @@
+received date = 12/17/1997
+name = Stahl, Paul
+company = Consumer
+state = MT
+zip = 59870
+country = United States
+category = Consumer
+topic = General
+file = w0000173.txt

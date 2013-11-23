@@ -1,0 +1,9 @@
+received date = 12/23/1997
+name = Rowe, Kenneth
+company = 
+state = MD
+zip = 21716
+country = United States
+category = Consumer
+topic = General
+file = w0000508.txt

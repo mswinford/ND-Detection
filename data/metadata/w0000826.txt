@@ -1,0 +1,9 @@
+received date = 01/07/1998
+name = Herman, Leta
+company = Another organics consumer
+state = CA
+zip = 94501
+country = United States
+category = Consumer
+topic = General
+file = w0000826.txt

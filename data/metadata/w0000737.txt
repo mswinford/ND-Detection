@@ -1,0 +1,9 @@
+received date = 01/05/1998
+name = Fusco, Thomas
+company = Sustainable Solutions
+state = ME
+zip = 04530
+country = United States
+category = Public Interest Group
+topic = General
+file = w0000737.txt

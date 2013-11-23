@@ -1,0 +1,9 @@
+received date = 12/23/1997
+name = Danyluk, Sylvia
+company = Consumer Right to Know
+state = 
+zip = 
+country = Canada
+category = Small Business
+topic = Regulatory Flexibility
+file = w0000521.txt

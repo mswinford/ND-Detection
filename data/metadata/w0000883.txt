@@ -1,0 +1,10 @@
+received date = 01/08/1998
+name = Leevy, Barbara
+company = 
+state = MO
+zip = 63043
+country = United States
+category = Consumer
+topic = Labeling
+section = 205.100
+file = w0000883.txt

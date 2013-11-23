@@ -1,0 +1,9 @@
+received date = 12/28/1997
+name = CLEAR, WATER
+company = 1-800-THE SOIL
+state = WI
+zip = 54621
+country = United States
+category = Environmentalist Advocacy Group
+topic = General
+file = w0000592.txt

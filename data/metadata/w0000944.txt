@@ -1,0 +1,9 @@
+received date = 01/10/1998
+name = Jordan, Bob
+company = Pomo Tierra Ranch
+state = CA
+zip = 95425
+country = United States
+category = Crop Producer
+topic = General
+file = w0000944.txt

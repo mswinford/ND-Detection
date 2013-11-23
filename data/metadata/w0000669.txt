@@ -1,0 +1,9 @@
+received date = 01/01/1998
+name = Newman, George
+company = Consumer
+state = CO
+zip = 80215
+country = United States
+category = Consumer
+topic = General
+file = w0000669.txt

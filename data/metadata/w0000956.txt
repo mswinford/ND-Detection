@@ -1,0 +1,9 @@
+received date = 01/11/1998
+name = Thomas, Marianne
+company = Vegetarian Society of Colorado
+state = CO
+zip = 80011
+country = United States
+category = Accrediting Agency
+topic = General
+file = w0000956.txt

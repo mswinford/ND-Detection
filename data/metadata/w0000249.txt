@@ -1,0 +1,9 @@
+received date = 12/18/1997
+name = Marquardt, Sarah
+company = 
+state = MN
+zip = 55113
+country = United States
+category = Consumer, Crop Producer
+topic = General
+file = w0000249.txt

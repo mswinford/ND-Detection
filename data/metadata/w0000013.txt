@@ -1,0 +1,9 @@
+received date = 12/15/1997
+name = sudar-pulgaron, michelle
+company = none
+state = GA
+zip = 30309
+country = United States
+category = Consumer
+topic = General
+file = w0000013.txt

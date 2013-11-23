@@ -1,0 +1,10 @@
+received date = 12/17/1997
+name = cole, tom
+company = 
+state = NY
+zip = 28607
+country = United States
+category = Other
+topic = Crops
+section = 205.8, 205.9
+file = w0000151.txt

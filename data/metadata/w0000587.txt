@@ -1,0 +1,9 @@
+received date = 12/28/1997
+name = Klok, Jon
+company = Private
+state = CA
+zip = 90290
+country = United States
+category = Consumer
+topic = General
+file = w0000587.txt

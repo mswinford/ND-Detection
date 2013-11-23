@@ -1,0 +1,9 @@
+received date = 01/08/1998
+name = Barr, Mary
+company = 
+state = PA
+zip = 15206
+country = United States
+category = Consumer
+topic = General
+file = w0000897.txt

@@ -1,0 +1,9 @@
+received date = 12/29/1997
+name = Khare, Phyllis
+company = individual
+state = IA
+zip = 52556
+country = United States
+category = Consumer
+topic = General
+file = w0000618.txt

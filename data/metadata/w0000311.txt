@@ -1,0 +1,9 @@
+received date = 12/19/1997
+name = Ingalls, David J.
+company = N/A
+state = ID
+zip = 83815
+country = United States
+category = Scientist/Veterinarian
+topic = Labeling
+file = w0000311.txt

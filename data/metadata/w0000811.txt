@@ -1,0 +1,9 @@
+received date = 01/07/1998
+name = Smulders, Michael
+company = Garden of Light Inc.
+state = CT
+zip = 06033
+country = United States
+category = Retailer
+topic = General
+file = w0000811.txt

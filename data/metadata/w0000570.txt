@@ -1,0 +1,10 @@
+received date = 12/27/1997
+name = Thomas, Duane
+company = Kestrel Farm
+state = MI
+zip = 48103
+country = United States
+category = Crop Producer
+topic = Fees
+section = 205.422
+file = w0000570.txt

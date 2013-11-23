@@ -1,0 +1,1 @@
+comment = It is necessary that all geo's be specifically excluded from any category of organic foods (they should also not be considered synthetic organic foods).

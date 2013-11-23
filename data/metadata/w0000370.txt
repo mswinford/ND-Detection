@@ -1,0 +1,10 @@
+received date = 12/20/1997
+name = Feuerstein, Trisha
+company = 
+state = CA
+zip = 95457
+country = United States
+category = Consumer
+topic = Labeling
+section = 205.100
+file = w0000370.txt

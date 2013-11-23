@@ -1,0 +1,9 @@
+received date = 12/18/1997
+name = Cremona, Lynn
+company = 
+state = NJ
+zip = 07753
+country = United States
+category = Consumer
+topic = General
+file = w0000244.txt

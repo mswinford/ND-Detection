@@ -1,0 +1,10 @@
+received date = 01/08/1998
+name = dean, patrick
+company = none
+state = MS
+zip = 38776
+country = United States
+category = Consumer
+topic = National List
+section = 205.21
+file = w0000880.txt

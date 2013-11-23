@@ -1,0 +1,9 @@
+received date = 12/18/1997
+name = Brinkley, Bob
+company = organic farmer certified
+state = IL
+zip = 62984
+country = United States
+category = Crop Producer
+topic = General
+file = w0000280.txt

@@ -1,0 +1,10 @@
+received date = 01/12/1998
+name = Carter, Steven
+company = Weaver Street Market Produce Dept.
+state = NC
+zip = 27510
+country = United States
+category = Handler/Processor/Manufacturer, Retailer, Small Business
+topic = Applicability
+section = 205.3
+file = w0000996.txt

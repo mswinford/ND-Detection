@@ -1,0 +1,9 @@
+received date = 12/16/1997
+name = Hebert, Cat
+company = organic products consumer
+state = PA
+zip = 19124
+country = United States
+category = Consumer
+topic = General
+file = w0000117.txt

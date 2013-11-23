@@ -1,0 +1,1 @@
+comment = There should be no non-organic substances allowed to be included in any product labeled 'organic'. If at any time, some non-organic substance is included, the product will no longer be considered 'organic' and will lose its special classification.

@@ -1,0 +1,9 @@
+received date = 12/16/1997
+name = Aker, Jon
+company = 
+state = CA
+zip = 95120
+country = United States
+category = Consumer
+topic = General
+file = w0000069.txt

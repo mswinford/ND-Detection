@@ -1,0 +1,9 @@
+received date = 12/19/1997
+name = Masters, Jonathan
+company = Self
+state = CA
+zip = 90803
+country = United States
+category = Consumer
+topic = Crops
+file = w0000341.txt

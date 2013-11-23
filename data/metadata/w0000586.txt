@@ -1,0 +1,9 @@
+received date = 12/28/1997
+name = clancy, sue
+company = 
+state = OK
+zip = 73069
+country = United States
+category = Consumer
+topic = General
+file = w0000586.txt

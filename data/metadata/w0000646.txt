@@ -1,0 +1,9 @@
+received date = 12/30/1997
+name = lutz, charles
+company = pandemonium
+state = IA
+zip = 52246
+country = United States
+category = Consumer
+topic = General
+file = w0000646.txt

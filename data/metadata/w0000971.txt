@@ -1,0 +1,9 @@
+received date = 01/11/1998
+name = duncan, mary el
+company = 
+state = FL
+zip = 32604
+country = United States
+category = Consumer
+topic = General
+file = w0000971.txt

@@ -1,0 +1,9 @@
+received date = 01/10/1998
+name = Garrett, Linda
+company = 
+state = IL
+zip = 60631
+country = United States
+category = Consumer
+topic = General
+file = w0000947.txt

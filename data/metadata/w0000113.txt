@@ -1,0 +1,9 @@
+received date = 12/16/1997
+name = gray, suzanne
+company = 
+state = WA
+zip = 98908
+country = United States
+category = College/University
+topic = General
+file = w0000113.txt

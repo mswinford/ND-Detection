@@ -1,0 +1,9 @@
+received date = 12/20/1997
+name = Boles, Marybeth
+company = 
+state = SD
+zip = 57501
+country = United States
+category = Consumer
+topic = Crops
+file = w0000397.txt

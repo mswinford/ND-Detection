@@ -1,0 +1,10 @@
+received date = 12/15/1997
+name = Anderson, Charles
+company = None
+state = MN
+zip = 55124
+country = United States
+category = Consumer
+topic = State Programs
+section = 205.401, 205.402, 205.403
+file = w0000027.txt

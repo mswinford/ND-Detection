@@ -1,0 +1,9 @@
+received date = 12/17/1997
+name = Scott, Narain
+company = none
+state = CT
+zip = 06076
+country = United States
+category = Consumer
+topic = Labeling
+file = w0000197.txt

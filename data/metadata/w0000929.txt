@@ -1,0 +1,9 @@
+received date = 01/09/1998
+name = Muelhausen, Carmel
+company = Individual business owner
+state = IL
+zip = 60611
+country = United States
+category = Consumer
+topic = General
+file = w0000929.txt

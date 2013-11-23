@@ -1,0 +1,9 @@
+received date = 01/07/1998
+name = Bailey, Jeff
+company = Prime Select Seafoods Inc.
+state = AK
+zip = 99574
+country = United States
+category = Handler/Processor/Manufacturer
+topic = General
+file = w0000812.txt

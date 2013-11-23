@@ -1,0 +1,9 @@
+received date = 12/16/1997
+name = Nitkowski, John
+company = 
+state = CT
+zip = 06410
+country = United States
+category = Consumer
+topic = General
+file = w0000115.txt

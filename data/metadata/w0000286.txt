@@ -1,0 +1,10 @@
+received date = 12/19/1997
+name = Gunther, Carl
+company = Carl Gunther Consulting
+state = CA
+zip = 90069
+country = United States
+category = Consumer
+topic = Labeling
+section = 205.103
+file = w0000286.txt

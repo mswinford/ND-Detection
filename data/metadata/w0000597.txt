@@ -1,0 +1,9 @@
+received date = 12/28/1997
+name = Dionne, R Ronaldd
+company = 
+state = WA
+zip = 98311
+country = United States
+category = Consumer
+topic = Crops
+file = w0000597.txt

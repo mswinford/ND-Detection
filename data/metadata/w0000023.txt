@@ -1,0 +1,10 @@
+received date = 12/15/1997
+name = randolph, kirby
+company = 
+state = PA
+zip = 19104
+country = United States
+category = Consumer
+topic = Crops
+section = 205.7
+file = w0000023.txt

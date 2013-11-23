@@ -1,0 +1,9 @@
+received date = 12/25/1997
+name = durkee, scott
+company = island growers
+state = WA
+zip = 98070
+country = United States
+category = Broker/Distributor/Retailer
+topic = Crops
+file = w0000546.txt

@@ -1,0 +1,9 @@
+received date = 12/17/1997
+name = Sproul, James
+company = Sproul Law Offices
+state = CA
+zip = 94596
+country = United States
+category = Attorney
+topic = General
+file = w0000167.txt

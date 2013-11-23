@@ -1,0 +1,9 @@
+received date = 01/08/1998
+name = Hadlock, Carol
+company = 
+state = CA
+zip = 95032
+country = United States
+category = Consumer
+topic = General
+file = w0000894.txt

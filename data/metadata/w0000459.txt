@@ -1,0 +1,9 @@
+received date = 12/22/1997
+name = Hanshaw-Reed, A.
+company = Provo Early Education Program
+state = UT
+zip = 84606
+country = United States
+category = Consumer
+topic = General
+file = w0000459.txt

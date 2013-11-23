@@ -1,0 +1,10 @@
+received date = 12/17/1997
+name = Sullivan, Laurel
+company = Tele-Tech Services
+state = SC
+zip = 29485
+country = United States
+category = Consumer
+topic = Livestock
+section = 205.12, 205.13, 205.14, 205.15
+file = w0000152.txt

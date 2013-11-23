@@ -1,0 +1,9 @@
+received date = 12/22/1997
+name = Rosen, Rick
+company = Body Therapy Institute
+state = NC
+zip = 27344
+country = United States
+category = Crop Producer
+topic = General
+file = w0000452.txt

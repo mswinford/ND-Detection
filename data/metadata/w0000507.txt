@@ -1,0 +1,10 @@
+received date = 12/23/1997
+name = Ocsody, Peter
+company = USA Global Link
+state = IA
+zip = 52556
+country = United States
+category = College/University
+topic = Labeling
+section = 205.100, 205.101, 205.105
+file = w0000507.txt

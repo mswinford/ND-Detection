@@ -1,0 +1,9 @@
+received date = 01/02/1998
+name = Ellis, Eileen
+company = Foundation for National Progress
+state = CA
+zip = 94103
+country = United States
+category = Consumer
+topic = General
+file = w0000688.txt

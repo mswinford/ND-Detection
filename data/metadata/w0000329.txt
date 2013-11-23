@@ -1,0 +1,9 @@
+received date = 12/19/1997
+name = Lynch, Philip
+company = 
+state = IA
+zip = 52556
+country = United States
+category = Consumer
+topic = General
+file = w0000329.txt

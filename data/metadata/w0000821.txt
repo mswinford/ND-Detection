@@ -1,0 +1,9 @@
+received date = 01/07/1998
+name = Stouffer, Clayton
+company = Consumer/voter
+state = CA
+zip = 95006
+country = United States
+category = Consumer
+topic = General
+file = w0000821.txt

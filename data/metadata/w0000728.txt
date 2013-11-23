@@ -1,0 +1,10 @@
+received date = 01/05/1998
+name = Burke, Dan
+company = US Citizen
+state = IA
+zip = 52556
+country = United States
+category = Consumer
+topic = Crops
+section = 205.5, 205.6, 205.7, 205.8, 205.9, 205.11
+file = w0000728.txt

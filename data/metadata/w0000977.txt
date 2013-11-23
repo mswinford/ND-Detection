@@ -1,0 +1,9 @@
+received date = 01/12/1998
+name = Rehbock, Suzanne
+company = 
+state = WI
+zip = 54751
+country = United States
+category = Crop Producer, Federal Government Agency, Livestock Producer, Small Business, Other
+topic = General
+file = w0000977.txt

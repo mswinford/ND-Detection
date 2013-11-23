@@ -1,0 +1,9 @@
+received date = 12/18/1997
+name = Rodriguez, Simon
+company = 
+state = IA
+zip = 52556
+country = United States
+category = Consumer
+topic = Crops
+file = w0000255.txt

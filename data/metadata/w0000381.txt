@@ -1,0 +1,9 @@
+received date = 12/20/1997
+name = Eversole, G
+company = Creating Health Institute
+state = WA
+zip = 98206
+country = United States
+category = Other
+topic = General
+file = w0000381.txt

@@ -1,0 +1,9 @@
+received date = 01/01/1998
+name = Stewart, Thomas
+company = 
+state = NM
+zip = 87110
+country = United States
+category = Consumer
+topic = General
+file = w0000678.txt

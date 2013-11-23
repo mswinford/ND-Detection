@@ -1,0 +1,9 @@
+received date = 12/22/1997
+name = Raffaeli, Michael
+company = None
+state = CA
+zip = 95389
+country = United States
+category = Consumer, Scientist/Veterinarian
+topic = General
+file = w0000444.txt

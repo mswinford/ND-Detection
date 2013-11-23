@@ -1,0 +1,9 @@
+received date = 01/09/1998
+name = Stone, Wendy
+company = 
+state = MN
+zip = 55309
+country = United States
+category = Consumer
+topic = General
+file = w0000910.txt

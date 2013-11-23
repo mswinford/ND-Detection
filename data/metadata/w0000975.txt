@@ -1,0 +1,9 @@
+received date = 01/11/1998
+name = Cammack, Cynthia
+company = 
+state = TX
+zip = 78201
+country = United States
+category = Consumer
+topic = General
+file = w0000975.txt

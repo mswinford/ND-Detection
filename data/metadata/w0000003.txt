@@ -1,0 +1,10 @@
+received date = 12/15/1997
+name = Wixted, Dan
+company = University of Wisconsin-Extension
+state = WI
+zip = 53706
+country = United States
+category = College/University, Consumer, Crop Producer
+topic = Labeling
+section = 205.103
+file = w0000003.txt

@@ -1,0 +1,10 @@
+received date = 01/09/1998
+name = Williams, Brenda
+company = Private citizen
+state = VT
+zip = 05677
+country = United States
+category = Consumer
+topic = Handling
+section = 205.17
+file = w0000921.txt

@@ -1,0 +1,10 @@
+received date = 01/08/1998
+name = Hodgkinson, Monique
+company = 
+state = CA
+zip = 94060
+country = United States
+category = Consumer
+topic = Definitions
+section = 205.1, 205.2
+file = w0000870.txt

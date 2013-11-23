@@ -1,0 +1,10 @@
+received date = 12/16/1997
+name = calabria, john
+company = 
+state = MA
+zip = 01754
+country = United States
+category = Consumer
+topic = Definitions
+section = 205.2
+file = w0000053.txt

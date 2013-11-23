@@ -1,0 +1,9 @@
+received date = 12/16/1997
+name = Burke, Pierre
+company = none
+state = TX
+zip = 77019
+country = United States
+category = Consumer
+topic = General
+file = w0000057.txt

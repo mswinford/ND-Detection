@@ -1,0 +1,9 @@
+received date = 12/17/1997
+name = Wolfson, Richard
+company = 
+state = 
+zip = 
+country = Canada
+category = Consumer
+topic = General
+file = w0000178.txt

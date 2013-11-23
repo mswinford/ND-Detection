@@ -1,0 +1,9 @@
+received date = 01/07/1998
+name = johnson, susan
+company = 
+state = MN
+zip = 55425
+country = United States
+category = Consumer
+topic = General
+file = w0000868.txt

@@ -1,0 +1,9 @@
+received date = 12/31/1997
+name = Janson MD..., Michael
+company = 
+state = NH
+zip = 03048
+country = United States
+category = Scientist/Veterinarian
+topic = General
+file = w0000665.txt

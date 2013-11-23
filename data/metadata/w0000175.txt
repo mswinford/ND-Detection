@@ -1,0 +1,10 @@
+received date = 12/17/1997
+name = Wolfson, Richard
+company = 
+state = 
+zip = 
+country = Canada
+category = Consumer
+topic = Crops
+section = 205.8, 205.9, 205.11
+file = w0000175.txt

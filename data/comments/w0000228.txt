@@ -1,0 +1,1 @@
+comment = Please ensure that products labeled as organic are free of genetically engineered produce. In fact, it would be very helpful to have 'positive' labelling as well as 'negative' labelling (i.e. 'contains/does not contain genetically engineered crops').

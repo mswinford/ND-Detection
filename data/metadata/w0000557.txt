@@ -1,0 +1,10 @@
+received date = 12/26/1997
+name = Sutherland, David
+company = 
+state = OR
+zip = 98225
+country = United States
+category = Consumer
+topic = Labeling
+section = 205.100
+file = w0000557.txt

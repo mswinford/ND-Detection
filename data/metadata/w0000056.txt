@@ -1,0 +1,9 @@
+received date = 12/16/1997
+name = Grover, Mark
+company = 
+state = ME
+zip = 04039
+country = United States
+category = Consumer
+topic = General
+file = w0000056.txt

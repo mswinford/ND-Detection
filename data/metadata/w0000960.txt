@@ -1,0 +1,9 @@
+received date = 01/11/1998
+name = Gardiner, Pattie
+company = Rivendel
+state = CA
+zip = 95469
+country = United States
+category = Consumer, Scientist/Veterinarian, Small Business, Other
+topic = General
+file = w0000960.txt

@@ -1,0 +1,10 @@
+received date = 12/18/1997
+name = Stabenow, Eva
+company = 
+state = 
+zip = 
+country = Germany
+category = Small Business
+topic = Crops
+section = 205.8
+file = w0000227.txt

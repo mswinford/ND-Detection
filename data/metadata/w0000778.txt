@@ -1,0 +1,9 @@
+received date = 01/06/1998
+name = Drolson, Blake
+company = Electric Planet
+state = CA
+zip = 94306
+country = United States
+category = Consumer, Environmentalist Advocacy Group, Scientist/Veterinarian
+topic = General
+file = w0000778.txt

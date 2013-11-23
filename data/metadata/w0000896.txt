@@ -1,0 +1,9 @@
+received date = 01/08/1998
+name = Suddeth, Margaret
+company = 
+state = MD
+zip = 20715
+country = United States
+category = Consumer
+topic = General
+file = w0000896.txt

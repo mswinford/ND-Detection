@@ -1,0 +1,10 @@
+received date = 12/20/1997
+name = Feuerstein, Trisha
+company = 
+state = CA
+zip = 95457
+country = United States
+category = Consumer
+topic = Crops
+section = 205.8
+file = w0000369.txt

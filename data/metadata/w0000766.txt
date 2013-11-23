@@ -1,0 +1,9 @@
+received date = 01/06/1998
+name = Hammett, Thomas
+company = 
+state = KY
+zip = 42776
+country = United States
+category = Consumer, Crop Producer, Livestock Producer, Wild Crop Harvester
+topic = General
+file = w0000766.txt

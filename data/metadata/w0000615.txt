@@ -1,0 +1,9 @@
+received date = 12/29/1997
+name = Hartford, Peg
+company = American Citizen-Registered Voter
+state = TX
+zip = 78745
+country = United States
+category = Consumer
+topic = Labeling
+file = w0000615.txt

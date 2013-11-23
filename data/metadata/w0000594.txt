@@ -1,0 +1,10 @@
+received date = 12/28/1997
+name = R., Kel
+company = CCAP
+state = TX
+zip = 77006
+country = United States
+category = Consumer, Public Interest Group, Scientist/Veterinarian
+topic = Crops
+section = 205.7
+file = w0000594.txt

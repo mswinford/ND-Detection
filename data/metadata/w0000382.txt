@@ -1,0 +1,10 @@
+received date = 12/20/1997
+name = GORMAN, MICHAEL
+company = NEWTON VALLEY ORGANIC INSTITUTE
+state = WI
+zip = 54621
+country = United States
+category = Other
+topic = Crops
+section = 205.9
+file = w0000382.txt

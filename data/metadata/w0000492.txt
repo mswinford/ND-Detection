@@ -1,0 +1,9 @@
+received date = 12/23/1997
+name = Kolve, Amy
+company = 
+state = WA
+zip = 98034
+country = United States
+category = Consumer
+topic = Crops
+file = w0000492.txt
