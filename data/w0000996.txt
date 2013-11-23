@@ -1,0 +1,12 @@
+received date = 01/12/1998
+name = Carter, Steven
+company = Weaver Street Market Produce Dept.
+state = NC
+zip = 27510
+country = United States
+category = Handler/Processor/Manufacturer, Retailer, Small Business
+topic = Applicability
+section = 205.3
+file = w0000996.txt
+comment = As a retailer, I have a fair amount of daily interaction with the general public. Being a retailer of "healty foods," including but not limited to organically grown products, the portion of the public with which I am acquainted is probably more biased towards the purity of the product which we would call "organic." However, being a single grocery store, I feel a great degree of responsibilty to my clientele, and it is on these grounds that I feel it necessary to comment on these proposed rules. I believe strongly that the use of irradiation as a means of controlling any pest or disease should be prohibited if the product is to be certified as "organically grown." I am certain that the majority of the customers at our store would feel the same. 
+

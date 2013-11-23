@@ -1,0 +1,22 @@
+received date = 01/07/1998
+name = Ferchel, Diane
+company = 
+state = CA
+zip = 94115
+country = United States
+category = Consumer
+topic = National List
+section = 205.21
+file = w0000805.txt
+comment = I am a consumer of "organic" produce. Ideally, I'd like to purchase 100% of
+my food from "organic" sources. I am also a vegetarian mainly due to the
+inhumane treatment of animals in the meat and poultry industries. I would
+like to see the following substances prohibited for use; hormones,
+antibiotics, chemical insecticides and animal byproducts for feed. And I
+am against any food irradiation.The instances of excessive and polluting
+practices by many large producers shows me that smaller is definately
+better, when the production can be accomplished in the most natural and
+humane way.
+
+
+

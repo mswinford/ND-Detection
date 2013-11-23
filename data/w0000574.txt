@@ -1,0 +1,12 @@
+received date = 12/27/1997
+name = Patrzalek, Andrew
+company = Home
+state = NY
+zip = 14617
+country = United States
+category = Consumer
+topic = General
+file = w0000574.txt
+comment = Two considerations:
+1. Labelling of products other than 100% organic should include a list of any additives as with currently labelled products.
+2. The use of sludge as an organic fertilizer sends a flare up as to the transmission of diseases, viral and retro-viral. Has this been addressed.

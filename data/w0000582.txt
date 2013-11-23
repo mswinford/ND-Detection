@@ -1,0 +1,15 @@
+received date = 12/27/1997
+name = Reisberg, Mira
+company = ArtActive Design
+state = CA
+zip = 94110
+country = United States
+category = Other
+topic = General
+file = w0000582.txt
+comment = Dear Sir/Madam
+I am writing to strongly encourage you to do whatever you can to keep the strictest standards of organic labelling and certification. I pay extra money to support the practice of true organic farming that does NOT involve irradiation or the use of ANY pesticides. This new ruling is truly frightening and seems incredibly corrupt to me subverting the whole point of organic and sustainable farming practices. I cannot express to you the level of distress and disgust I feel at this ruling.
+
+	yours sincerely
+
+				Mira Reisberg

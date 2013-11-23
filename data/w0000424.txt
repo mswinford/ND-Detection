@@ -1,0 +1,11 @@
+received date = 12/21/1997
+name = manchester, david
+company = 
+state = NY
+zip = 14845
+country = United States
+category = Consumer
+topic = Crops
+file = w0000424.txt
+comment = I would like to express my views on the proposed rules allowing the irradiation of foods. Most important the mandating that organic fruits and vegetables be irradiated. This practice, as I am sure you know, kills not only potential harmful ogranic bodies; it totally kills of all bodies. This includes natural vitamins and minerals as well as the necessary enzyms to digest the benefits of said foods. This practice of killing our foods and rendering them usless to the human body should not continue. Meats can be handled in such a way as to make them safe for consumption without subjecting them to gamma rays. Although I personally consume very little of these types of foods, the practice of killing it twice and making the human body process usless foods is insane. The idea of irradiating our fruits and vegetables goes beyond insane. The offering of organic fruits and vegetables is successful. The public wants more natural foods and the increase in demand of organic products proves this out. Your proposed idea of bombarding these products with rays and killing the enzymes is counterproductive to say the least. 
+Give us wholesome natural products and let our bodies do the rest

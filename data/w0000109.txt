@@ -1,0 +1,11 @@
+received date = 12/16/1997
+name = Gleason, Sue
+company = 
+state = NJ
+zip = 07042
+country = United States
+category = Consumer
+topic = Handling
+section = 205.17
+file = w0000109.txt
+comment = I strongly object to the used of "food-grade" wax on produce, whether organic or not. This year I have been unable to purchase unwaxed apples anywhere, which means i am ingesting large quantities of a non-food produce with my "apple-a-day". Help please!

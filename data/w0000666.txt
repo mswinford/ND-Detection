@@ -1,0 +1,15 @@
+received date = 01/01/1998
+name = Kennedy, Arthur
+company = not applicable
+state = CA
+zip = 93117
+country = United States
+category = Consumer
+topic = Certification
+file = w0000666.txt
+comment = 
+I am in favor of federal standards for certification of organic products as long as the program works like the smog standards: federal standards
+are the minimum acceptable requirements for such certification/labeling and any state or private certifier may develop and certify to more
+stringent standards, as is the case with federal and California smog standards. No other scheme give me adequate information for my
+food purchasing information needs.
+

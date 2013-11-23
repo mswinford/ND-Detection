@@ -1,0 +1,42 @@
+received date = 12/22/1997
+name = Wessels, Heide
+company = AHFW
+state = DC
+zip = 20011
+country = United States
+category = Accrediting Agency, Consumer, Other
+topic = General
+file = w0000486.txt
+comment = I am a holistic health consultant and promote eating organic foods for a healthy lifestyle.
+At a minimum, the following should be addressed in the proposed rules:
+
+1) Prohibit genetic engineering in every phase of the organic food
+ chain--not only GE seeds, but GE (or GE-derived) fertilizers or other
+ agricultural inputs, and foods produced from GE sources or using GE
+ processing agents or their derivatives (e.g., rennets, enzymes such as alpha
+ amylase, etc.).
+ 
+ 2) Irradiation should be prohibited under the organic label. It fosters
+ continued reliance on nuclear technologies in general, and simply doesn't fit
+ into the traditional organic orientation. It has been likened to genetic
+ engineering in its reputed ability to modify chemical structures in the food
+ it treats, particularly creating novel proteins, whose bioactivity is
+ completely unknown and unpredictable.
+ 
+ 3) Use of municipal sewage sludge as organic fertilizer should be banned.
+ Quite aside from the human waste issue, organic accreditation boards have
+ decried sewage as contaminated with heavy metals such as cadmium and lead,
+ which are readily absorbed by many crops.
+ 
+ 4) All organic livestock should receive feed which was grown and processed
+ without use of genetic engineering, irradiation, and municipal sewage sludge.
+ (This is particularly important to dairy consumers.)
+ 
+ 5) The definition of organic should be determined by concensus among those
+ who have been growing, eating, selling, and promoting organic food over the
+ long term--not by industrial ambitions or popular vote. At a minimum,
+ organic implies *natural from start to finish*. Diluting the meaning of
+ organic is a crime against nature and a crime against consumers who have
+ demonstrated a burgeoning interest in organic products.
+
+

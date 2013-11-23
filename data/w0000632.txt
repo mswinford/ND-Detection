@@ -1,0 +1,11 @@
+received date = 12/30/1997
+name = Brock, Alfred
+company = Brockville Industries
+state = NC
+zip = 27504
+country = United States
+category = Small Business
+topic = National List
+section = 205.22, 205.24, 205.26
+file = w0000632.txt
+comment = There should be no non-organic substances allowed to be included in any product labeled 'organic'. If at any time, some non-organic substance is included, the product will no longer be considered 'organic' and will lose its special classification.

@@ -1,0 +1,14 @@
+received date = 01/12/1998
+name = angelilli, norrene
+company = citizen
+state = OH
+zip = 44512
+country = United States
+category = Accrediting Agency
+topic = General
+file = w0000984.txt
+comment = I do not support the use of genetic engineering or irradiation in the production or processing 
+of organic foods. Furthermore, I am definitely opposed to using sewage sludge until a high 
+quality filtering system is in place that will filter out damaging heavy metals. The earth 
+belongs to each and every one of us, please do what is best for all of us.
+

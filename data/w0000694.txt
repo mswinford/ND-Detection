@@ -1,0 +1,11 @@
+received date = 01/02/1998
+name = Lincoln, Janet
+company = Hudson Research ASsociates
+state = NY
+zip = 12173
+country = United States
+category = Consumer
+topic = Crops
+section = 205.7
+file = w0000694.txt
+comment = The application of sewage sludge to agricultural lands should not be allowed in certified organic farming.

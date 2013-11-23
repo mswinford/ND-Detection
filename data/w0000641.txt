@@ -1,0 +1,10 @@
+received date = 12/30/1997
+name = Brock, Alfred
+company = Brockville Industries
+state = NC
+zip = 27504
+country = United States
+category = Small Business
+topic = Fees
+file = w0000641.txt
+comment = Fees for the right to provide accreditation and certification to organic items should be provided to the organic producers by the accreditation and certification agencies involved.

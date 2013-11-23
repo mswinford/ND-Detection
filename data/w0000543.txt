@@ -1,0 +1,22 @@
+received date = 12/24/1997
+name = gifford, dawn
+company = 
+state = MD
+zip = 20910
+country = United States
+category = Crop Producer
+topic = General
+file = w0000543.txt
+comment = I must take issue with the claim that there is confusion over what organic means. The industry has regulated itself quite well on the basis of heartfelt, environmental principles. Consumers of organic products know exactly what they are getting: products that are minimally processed without additives or preservatives; grown sustainably according to biodynamic regenerative agricultural methods, without manmade chemicals or ingredients; products that have not been irradiated, genetically engineered at any stage, or grown on sewage sludge. 
+
+Livestock labeled organic should be treated humanely and allowed free range whenever possible; they should not be treated with steroids, antibiotics or hormones. Organic livestock should be fed organic feed.
+
+Organic fish should not be treated with pharmaceuticals nor processed with chlorine or bromine. 
+
+Organic means food as nature intended.
+
+As a market gardener, I am concerned that I could face a penalty for calling my produce organic if I haven't been certified by the USDA. No one can own the term "organic." Its meaning is understood by many as representative of a philosophy, not a commodity. It would be fraudulent to claim to be "certified organic" if I weren't, I shouldn't be penalized for telling my customers that I follow organic principles in producing their crop.
+
+The U.S. owes it to the world to set the strictest standards possible for organic labeling. "Organic" is more than a label, its a philosophy and a way of life that promises to make us all richer in many ways. To permit genetic engineering, irradiation, man-made chemicals and processes, or sewage sludge to water down the current organic standard would be to devastate an industry that prides itself on its commitment to the health of people and the Earth.
+
+

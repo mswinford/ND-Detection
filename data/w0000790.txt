@@ -1,0 +1,16 @@
+received date = 01/07/1998
+name = Brooks, Caryn
+company = none
+state = CA
+zip = 94301
+country = United States
+category = Consumer
+topic = General
+file = w0000790.txt
+comment = Ladies and Gentlemen,
+
+Thank you for the opportunity to comment. I do not like the idea of including irradiation techniques or sludge (which might contain toxics, chemicals) in the definition of organic. I am confused as to why these might be considered "organic". I regularly buy organic produce and would be most unhappy to learn that these tecniques were being used to produce the produce (so to speak) that I pay so much more for. Perhaps I am already foolish? In any case, thank you for working on this important issue. (I wish I was better able to understand the rule! But I think you get the gist of my comments)
+
+Sincerely,
+
+Caryn Brooks

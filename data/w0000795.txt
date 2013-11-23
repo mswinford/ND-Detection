@@ -1,0 +1,12 @@
+received date = 01/07/1998
+name = McKenna, Jane
+company = John F Kennedy Universityy
+state = CA
+zip = 94117
+country = United States
+category = Consumer
+topic = Livestock
+section = 205.15
+file = w0000795.txt
+comment = Livestock are an important part of the organic process.
+Allowing animals to move about freely is a natural way to prevent stress and disease among animals. Clearly this is the most healthy way to raise livestock. Please require free range in your definition of organic livestock.

@@ -1,0 +1,12 @@
+received date = 12/19/1997
+name = Kleinman, Naomi
+company = 
+state = IA
+zip = 52556
+country = United States
+category = Consumer
+topic = Labeling
+section = 205.100, 205.102, 205.103
+file = w0000335.txt
+comment = I am strongly opposed to allowing genetically engineered seeds or any other aspect of genetic engineering to be used in organic production. Because genetically engineered foods have not been tested for their long-term effects on human health, on animals, or on the environment, I do not want to consume them. I would like to see all genetically engineered foods labelled as such so that I can choose not to consume them in any form.
+

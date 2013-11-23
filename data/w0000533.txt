@@ -1,0 +1,10 @@
+received date = 12/24/1997
+name = Battagin, Bill
+company = Always
+state = CA
+zip = 95983
+country = United States
+category = Small Business
+topic = General
+file = w0000533.txt
+comment = It seems to me to be imperative that a food considered to be organic is a natural food to the n th degree. I cannot imagine a natural food being irradiated with radioactive waste. If this form of 'food preservation' were to be used on ANY foods, we would not consume it, period. We already make an effort not to purchase irradiated spices and herbs. We are vegetarians, so will not be consuming irradiated red meat. It is my understanding that though irradiated foods are not radioactive, they are in fact molecularly and/or chemically altered. 'Organic'??? I don't think so. I'll pay more for a food that has NOT been irradiated!

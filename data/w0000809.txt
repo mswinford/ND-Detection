@@ -1,0 +1,11 @@
+received date = 01/07/1998
+name = Cox, Jeff
+company = Rodale Press Inc.
+state = CA
+zip = 95452
+country = United States
+category = Press
+topic = National List
+section = 205.22
+file = w0000809.txt
+comment = Toxins derived from genetically-engineered organisms should not be allowed in any organic production system. In fact, toxins extracted from disease-causing, non-genetically-engineered organisms, such as Bacillus thuringiensis, should not be allowed. Extracting active toxic principles from bacteria that give some natural degree of control will promote the development of resistance in the target pests, eventually reducing the effectiveness of the naturally-occurring control.

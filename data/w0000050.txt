@@ -1,0 +1,11 @@
+received date = 12/16/1997
+name = Wootton, Norris
+company = 
+state = GA
+zip = 30295
+country = United States
+category = Consumer
+topic = Applicability
+section = 205.3
+file = w0000050.txt
+comment = The term organic should never include genetic engineering or irridiation. Please change your rules to make this absolutely clear. These are totally unacceptable practices.

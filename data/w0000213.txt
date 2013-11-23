@@ -1,0 +1,14 @@
+received date = 12/18/1997
+name = Herron PhD..., Robert E.
+company = Institute of Science Technology and Public Policyy
+state = IA
+zip = 52556
+country = United States
+category = College/University
+topic = Labeling
+section = 205.100
+file = w0000213.txt
+comment = Please prohibit genetically engineered seeds or any other aspect of
+genetic engineering to be used in organic production. Since genetically
+engineered foods have not been tested for their long-term effects on human
+health, on animals, or on the environment, many people do not want to consume them. Genetically engineered products many have negative long-term health impacts. In fact, many Americans would like to see all genetically engineered foods labelled as such so that they can choose not to avoid them in any form. We have the right choose what we want to eat and failure to label these foods denies us the the right to choose.

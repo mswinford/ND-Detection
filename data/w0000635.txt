@@ -1,0 +1,10 @@
+received date = 12/30/1997
+name = Brock, Alfred
+company = Brockville Industries
+state = NC
+zip = 27504
+country = United States
+category = Small Business
+topic = Regulatory Flexibility
+file = w0000635.txt
+comment = This is clearly another inroad by administering bodies, as the role of administering clearly is becoming reduced, 'make-work' seems to be the busy-word. There is no need for this rule and it should be abandoned immediately, along with the Popcorn Marketing Board.

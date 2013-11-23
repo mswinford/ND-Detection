@@ -1,0 +1,10 @@
+received date = 12/16/1997
+name = Amick, Victoria L.
+company = 
+state = NM
+zip = 87557
+country = United States
+category = Consumer
+topic = General
+file = w0000123.txt
+comment = I believe it would be counter- productive to allow the use of sewage sludge, food irradiation and, or genitic engineering. I want to buy my grandchildren,and myself, pure, unadulterated, non- carcinogenic food.

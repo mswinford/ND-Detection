@@ -1,0 +1,12 @@
+received date = 12/19/1997
+name = Lewin, Esta
+company = none
+state = WI
+zip = 53132
+country = United States
+category = Consumer
+topic = General
+file = w0000312.txt
+comment = I am opposed to including genetically engineered crops in anything labled "organic."
+
+Animals raised for "organic" meat should have access to the outdoors and should not be routinely treated with antibiotics.

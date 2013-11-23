@@ -1,0 +1,21 @@
+received date = 12/20/1997
+name = Nathanson, David
+company = Attorney at Law
+state = MA
+zip = 01970
+country = United States
+category = Attorney, Consumer
+topic = Labeling
+section = 205.100, 205.101, 205.102
+file = w0000405.txt
+comment = To Whom It May Concern,
+
+I am extremely concerned about genetically engineered foods being represented as organic. As an ethical vegan, I deliberately purchase 
+organic food in order to assure that I am not buying genetically engineered food. I am concerned about many of the implications of genetically engineered seeds and foods, including possible transgenic diseases or other unforeseen interactions. However, my deepest concern is that many genetically engineered plants will contain some animal genes. As an ethical vegan, I abstain from all animal-derived foods for religious and moral reasons. It will pose a significant hardship to me as a consumer if I am forced to cast my ethical convictions to the whim of food producers who may choose to label or not to label food which is genetically engineered.
+
+Therefore, I respectfully submit that this body incorporate provisions into the rule which require the labeling of all genetically engineered food as such.
+
+Sincerely,
+David J. Nathanson
+Attorney at Law
+

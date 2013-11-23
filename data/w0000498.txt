@@ -1,0 +1,11 @@
+received date = 12/23/1997
+name = Kolve, Amy
+company = 
+state = WA
+zip = 98034
+country = United States
+category = Consumer
+topic = Labeling
+section = 205.100, 205.101, 205.102, 205.103, 205.104, 205.105, 205.106, 205.107
+file = w0000498.txt
+comment = Calling genetically engineered food products organic is a gross misuse of the english language. Do not include genetically engineered food items for human and/or animal consumption in any of the proposed Organic Standards. A moratorium should be called on development of all genetically engineered products untill a panel of expert scientists have completed a long term study on the environment impact and long term human and animal health impact of genetically engineered products

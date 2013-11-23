@@ -1,0 +1,17 @@
+received date = 01/08/1998
+name = Young, Ken
+company = 
+state = CA
+zip = 90603
+country = United States
+category = Consumer
+topic = General
+file = w0000874.txt
+comment = Once again, you are toadying to corporate profit and disregarding consumer safety. People buy organic food to avoid "antibiotics as pesticides" and anything that is genetically altered, including bacteria that contact food.
+
+Well done, you maintain your reputation for corruption with this new "organic" food policy.
+
+Sincerely,
+
+Ken Young
+CA

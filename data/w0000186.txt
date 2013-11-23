@@ -1,0 +1,13 @@
+received date = 12/17/1997
+name = Lyda, Peter
+company = 
+state = NC
+zip = 28607
+country = United States
+category = Consumer
+topic = Labeling
+section = 205.100, 205.101, 205.102, 205.103, 205.104, 205.105, 205.106
+file = w0000186.txt
+comment = 
+LABELING OF ORGANIC FOODS IS NECESSARY!! LABELING OF GENETICALLY ENGINEERED PRODUCTS OR COMPONENTS OF PRODUCTS USED FOR ANY TYPE OF HUMAN CONSUMPTION IS NECESSARY!!
+

@@ -1,0 +1,16 @@
+received date = 12/26/1997
+name = Daniels, Karil
+company = 
+state = CA
+zip = 94110
+country = United States
+category = Consumer
+topic = National List
+file = w0000562.txt
+comment = As a concerned consumer I demand that the government must maintain strict organic
+standards by explicitly prohibiting the unacceptable agricultural practices listed in this Alert. I am especially concerned about the use of active synthetic substances, non-agricultural (non-organic) substances and non-organically produced ingredients in organic farming and handling operations.
+
+I also demand that private and state organic certification bodies be allowed to maintain stricter organic standards than those the USDA requires. This is a basic issue of free speech and of consumers' right to choose.
+
+Thank you. -- Karil Daniels 
+

@@ -1,0 +1,17 @@
+received date = 12/16/1997
+name = Ames, T
+company = none
+state = WA
+zip = 98034
+country = United States
+category = Consumer
+topic = Applicability
+file = w0000089.txt
+comment = Please do not allow genetically engineered produce or livestock to be
+considered organic.
+
+Please do not allow treated sewage waste or animal remains to be used in
+the production of organic produce or livestock.
+
+Please do not allow cramped, mistreated, or unhealthy animal production
+methods to be considered organic.

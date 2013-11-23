@@ -1,0 +1,10 @@
+received date = 12/21/1997
+name = Preiss, Beth
+company = None
+state = DC
+zip = 20007
+country = United States
+category = Consumer
+topic = General
+file = w0000433.txt
+comment = As a consumer, I want the label organic to offer meaningful protections. Therefore, foods labeled organic should not be irradiated or genetically altered. Understanding our food is important for everyone, but particularly for those with allergies and other health concerns as well as for those with personal or religious beliefs that preclude some foods. Organic should be a safe haven -- please give it a meaningful definition. Thank you for the opportunity to comment.

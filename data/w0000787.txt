@@ -1,0 +1,17 @@
+received date = 01/07/1998
+name = Deborah, Siner
+company = 
+state = NY
+zip = 11218
+country = United States
+category = Consumer
+topic = General
+file = w0000787.txt
+comment = I am a consumer of organic products and have been for over 20 years - I have raised raised two children who have almost never been sick a day in their lives due, in large part, to the healthy diets they've had. I am also a lawyer and the President of my local food coop. I am very concerned about the proposed new regulations. Consumers have an absolute right to know what is in their food supply - this is why we have government regulations, instead of the old "let the buyer beware" system. It is essential that the new regulations prohibit geneticly engineered, iirradiated food, and food raised on sludge-fertilizer from being labelled as organic - they are not. I also feel strongly that the new regulations must be made affordable for the small-regional farmer - the producer of organic foods for many years (in spite of agribusiness attempts to prevent it). 
+
+For years, the organic industry has relied on California standards in the absence of national ones. They are strict, honest, and workable. Why not adopt a proven success instead of creating a new, prohibitively expensive and experimental system? If it's merely a "turf war" issue, perhaps the USDA could just be a grown-up about it, and just go for success.
+
+Sincerely, Deborah L. Siner
+273 Argyle Road
+Brooklyn, NY 11218
+

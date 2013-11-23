@@ -1,0 +1,11 @@
+received date = 01/07/1998
+name = Lane, Holly
+company = 
+state = CA
+zip = 95051
+country = United States
+category = Consumer
+topic = National List
+file = w0000852.txt
+comment = 
+As a consumer I will lose confidence in the organic food industry if hormones, antibiotics, slugde from human waste treatment plants or ionizing radiation is used on 'organic' foods.

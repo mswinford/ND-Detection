@@ -1,0 +1,10 @@
+received date = 12/16/1997
+name = Rachuy, James
+company = 
+state = IL
+zip = 61085
+country = United States
+category = Crop Producer
+topic = General
+file = w0000101.txt
+comment = Any Federal definition of "organic" must preclude use of radiation in processing, sludge as fertilizer, animal by-products as feed and genetic engineering for stock production. If the Federal definition does not preclude these practices then the "organic" food industry will simply move on to the "natural" food industry and the USDA will have accomplished nothing.

@@ -1,0 +1,13 @@
+received date = 01/06/1998
+name = Turnipseed, Wes
+company = Citizen of the United States of America
+state = FL
+zip = 33603
+country = United States
+category = Consumer
+topic = General
+file = w0000769.txt
+comment = 
+As a consumer, I want to know what has been used on the food I eat. 
+I DO NOT WANT GENETICALLY ENGINEERED, IRRADIATED, and SEWAGE SLUDGE GROWN FOODS ALLOWED ON MY GROCERY STORE SHELVES UNLABLED. 
+Also, How am I to know what Organic means? Maybe I should ask George Orwell.

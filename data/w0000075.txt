@@ -1,0 +1,13 @@
+received date = 12/16/1997
+name = Kahler, Eric
+company = The Kahler Family
+state = NJ
+zip = 08805
+country = United States
+category = Consumer
+topic = National List
+section = 205.22
+file = w0000075.txt
+comment = I do not want my family to eat vegetables grown on farms or sold in markets which allow genetically modified organisms and/or food irradiation. 
+
+If the proposals are not strengthened or "tightened" I envision a new "super-orgranic" or "pure-organic" label taking shape (just as the "organic" label did -- at the consumers demand) and becoming popular -- sending the USDA back to the legislative drawing table once again. Please make this a "one time effort" and aim for, thus providing the consumer with, a stronger, more pure definition of organic.

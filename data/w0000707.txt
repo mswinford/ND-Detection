@@ -1,0 +1,10 @@
+received date = 01/03/1998
+name = Case, Lynn
+company = None
+state = AZ
+zip = 85614
+country = United States
+category = Consumer
+topic = General
+file = w0000707.txt
+comment = In the "USA Today" newspaper dated 16 December 1997, an article titled "U. S. Standards For Organic Foods Unveiled" appeared. It states that irradiated or genetically engineered foods could be labelled as "organic". I would prefer that such methods NOT be considered as organic. I believe all foods subject to these two methods be so stated on the labels. As a consumer I strongly believe in my right to choose what I put into my body. Consumers should be told if the foods they are selecting have been subject to these experimental and potentially dangerous procedures.

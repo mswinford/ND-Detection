@@ -1,0 +1,18 @@
+received date = 12/18/1997
+name = Butler, Linda
+company = 
+state = NY
+zip = 12567
+country = United States
+category = Consumer
+topic = General
+file = w0000241.txt
+comment = I do not consider genetically engineered foods to be organic and I urge the USDA to require genetically-engineered and erradiated foods to be so labelled. Organic, both by definition as it pertains to the natural growth of a plant, or by intent as it pertains to the producers and consumers of organic foods, does not include food that has been genetically-engineered or artificially altered.
+
+
+
+Thank you.
+
+
+
+

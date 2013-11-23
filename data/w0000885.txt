@@ -1,0 +1,14 @@
+received date = 01/08/1998
+name = Q, Dave
+company = Cooperational Software
+state = CA
+zip = 90296
+country = United States
+category = Consumer
+topic = General
+file = w0000885.txt
+comment = I'd like to see existing state standards, higher than the proposed standards, to be allowed. I live in California, which has had certified organic standards for decades. It works.
+
+Although I'm not necessarily against all food irradiation or geneticaly engineered plants, I don't believe they have any place in organic foods. Many people who choose organic foods are totally against them. Such food can be labeled "Raised with organic standards with the following exception"....
+
+I don't want any synthetic pesticides with any health risks allowed. Of course there are simple, non-toxic synthetic such as boric acid that can be allowed, but not complex clorinated bi-phenyls, ...

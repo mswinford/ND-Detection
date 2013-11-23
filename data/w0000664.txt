@@ -1,0 +1,18 @@
+received date = 12/31/1997
+name = Mitchell, David
+company = Bainbridge Ometepe Sister Islands Association
+state = WA
+zip = 98110
+country = United States
+category = Consumer
+topic = General
+file = w0000664.txt
+comment = Good day.
+
+As a long-time user of organic food, I applaud the Department of Agriculture's proposal for a national certification. I join with many others in my strong concern that the proposal does not prohibit bio-engineered and irradiated foods, and I hope that before the regulations are implemented this situation is corrected. Thank you for your time and attention.
+
+David Mitchell
+8700 NE Oddfellows Road
+Bainbridge Island, WA 98110-2226
++1 206 842 6907
+davidm@coop-cdc.com

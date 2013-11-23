@@ -1,0 +1,12 @@
+received date = 12/19/1997
+name = Kerr, Julie
+company = concerned consumer
+state = MD
+zip = 21042
+country = United States
+category = Consumer
+topic = General
+file = w0000283.txt
+comment = I must admit that ever since learning about the absolutely cruel and inhumane treatment of farm animals condoned by the USDA, I have been very cynical about this agency's ability to satisfy the needs of anyone other than large-scale businesses. The upcoming regulations of certified organic foods are the USDA's chance to do a very good deed for consumers, animals, and the environment. I just hope they realize that these regulations are FOR THE CONSUMERS, and not for big agricultural businesses. It is not the USDA's job at the moment to convince the public that practices such as food irradiation, genetic alteration, and fertilization with human "sludge" are safe and natural. It is their job to listen to what consumers want, and to give the public confidence that they are buying what they think are buying. I have read many of the comments posted so far, and there seems to be an almost unanimous agreement that irradiation, genetic engineering, and "sludge" are not safe and definitely not natural. I just hope that the committee listens to these concerns and takes them to heart. The stricter the regulations, the more confidence the consumers will have in the "organic" label. This sort of security is what the regulations are all about.
+ I, personally, am very concerned about the clause which would allow 5% of supposedly organic foods to be non-organic. As a vegan, I scrutinize the ingredient labels on everything I buy. If a product contains even one ingredient which is an animal by-product or *potentially* an animal by-product, I put it back on the shelf. Why would I want to pay steep prices for organic food which is not completely organic? Again, the stricter the regulations, the better. But if this clause is allowed to remain, at least mandate that any foods less than 100% organic be labelled as such.
+

@@ -1,0 +1,12 @@
+received date = 01/04/1998
+name = writer, julie
+company = 
+state = 
+zip = 
+country = United States
+category = Consumer
+topic = National List
+section = 205.20, 205.21
+file = w0000708.txt
+comment = I do NOT think it is appropriate to use irradiated genetically engineered fertilized with sewage sludge for organic farming----this must be banned!!
+Thank you--julie writer

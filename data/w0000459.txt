@@ -1,0 +1,12 @@
+received date = 12/22/1997
+name = Hanshaw-Reed, A.
+company = Provo Early Education Program
+state = UT
+zip = 84606
+country = United States
+category = Consumer
+topic = General
+file = w0000459.txt
+comment = Please do not allow any products that are genetic engineered products to be labeled organic or natural. They are definately not organic.
+Please do not allow any products that come from livestock that have recieved antibiotics and growth hormones to be labeled organic.
+I do not and will not buy them.

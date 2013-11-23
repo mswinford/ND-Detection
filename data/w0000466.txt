@@ -1,0 +1,16 @@
+received date = 12/22/1997
+name = Meyers, Irene
+company = 
+state = NJ
+zip = 08317
+country = United States
+category = Consumer
+topic = Crops
+section = 205.8
+file = w0000466.txt
+comment = I would like to see the OFPA specifically address the issue of genetically engineered (GE) organisms. These products need to be prohibited from being sold as organic. Please follow the recommendation of the NOSB that these organisms be prohibited from organic certification. I can now buy organically certified produce with the knowledge that I am not purchasing a GE product; do not take this choice away from consumers. Also, any foods subject to irradiation should be prohibited from organic certification.
+
+GE organisms may have effects on the environment and human health. I do not want to risk my health or that of my planet by buying products that are genetically altered. Organics is about natural methods, and it is not natural for a product to include genes from an entirely different species. Please ban GE products from organic certification.
+
+Thank You,
+Irene Meyers

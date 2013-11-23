@@ -1,0 +1,11 @@
+received date = 12/31/1997
+name = Curry, Susan
+company = individual
+state = PA
+zip = 19010
+country = United States
+category = Consumer
+topic = Livestock
+section = 205.13
+file = w0000657.txt
+comment = I am concerned about practices I have heard of feeding livestock a) chicken scat and b) ground remains of downed animals, some of which may have a variant of "mad cow" disease. I believe these specific practices should be prohibited in Section 203.24, as well as, disallowed in this section.

@@ -1,0 +1,13 @@
+received date = 12/16/1997
+name = Wootton, Norris
+company = 
+state = GA
+zip = 30295
+country = United States
+category = Consumer
+topic = National List
+section = 205.20, 205.22
+file = w0000049.txt
+comment = As a consumer of organically grown produce, I was *horrified* to hear on the radio yesterday that genetic engineering and irridiation are not specifically prohibited in the proposed rules! Neither of these practices are in any way acceptable under the general understanding of organic. That you do not specifically prohibit them will make consumers like me think your rules are a joke written for appease the huge factory farms. Please amend the rules to prohibt both irridiation and genetic engineering.
+Thank you.
+

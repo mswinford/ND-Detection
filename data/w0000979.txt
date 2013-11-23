@@ -1,0 +1,15 @@
+received date = 01/12/1998
+name = Sousa, Richard
+company = El Sol Y Rich Earth Organic Collective
+state = MA
+zip = 01773
+country = United States
+category = Crop Producer
+topic = General
+file = w0000979.txt
+comment = I appreciate the USDA's efforts to create National Organic Standards. This is an important step in safeguarding public health from arbitrary organic practices that may be well intended, but that have less than fully beneficial results. It is also a statement that the value of organic growing is recognized as a valid practice. 
+
+I understand the USDA is proposing to include genetically manipulated products and irradiated food products in these Standards. I feel this corrupts the notion of organic growing for a number of reasons. People who choose to use organic products do so for health and because they wish to reduce their dependence on corporate food products. In the past, these products have proven to be less than fully nutritious, require a large amount of energy and resources to produce, are polluting and soil depleting, facilitate the loss of the small farm lifestyle by furthering the corporate farm, and are in general unsustainable. By including genetics and irradiation, you are again including the untrusted and untried and it feels again that this is yet another corporate manipulation of the food industry for profit and not for health. It is unacceptible and unorganic.
+
+I strongly urge you not to include irradiated foods or genetically manipulated food products as acceptible in the Organic Standards. 
+

@@ -1,0 +1,13 @@
+received date = 12/18/1997
+name = Kater, Paul
+company = 
+state = 
+zip = 
+country = The Netherlands
+category = Consumer
+topic = General
+file = w0000248.txt
+comment = Please do not allow the use of genetically manipulated material of any kind in organic production. Genetically manipulated foods have not been around long enough to know about any long-term effects on humans, animals or the environment. I do not want to take a chance on my health with them.
+For me it would be best if all consumable products were labelled CLEARLY whether or not they are containing ANY genetically manipulated material. I want to be able to choose what I eat, not be left at the mercy of scientists who will decide what perhaps won't kill me in the future.
+Thank you.
+A very concerned Dutch citizen.

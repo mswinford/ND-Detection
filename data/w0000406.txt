@@ -1,0 +1,11 @@
+received date = 12/20/1997
+name = Strumello, Scott
+company = 
+state = PA
+zip = 19003
+country = United States
+category = Consumer
+topic = National List
+section = 205.20, 205.27
+file = w0000406.txt
+comment = For a number of years, U.S. consumers did not have federal standards for organic foods. Instead, consumers and farmers alike relied upon nearly 40 state and private organic certification programs. (Many such programs, such as California's, have set fairly stringent standards.) Now the USDA, a late entry into the certification process, is proposing that irradiated foods can be classified as "organic" which most of the current state and private certification programs would not classify as so. If anything, the USDA should adopt the most stringent standards from those that exist today, not undermine them by allowing questionable products to adopt a label calling themselves "organic".

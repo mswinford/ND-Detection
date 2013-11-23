@@ -1,0 +1,12 @@
+received date = 12/18/1997
+name = Marquardt, Sarah
+company = 
+state = MN
+zip = 55113
+country = United States
+category = Consumer, Crop Producer
+topic = General
+file = w0000249.txt
+comment = I am very concerned about the proposed rule. I was hoping that my government would set a high standard which our country and it's citizens could be proud of. Rather, it seems that the organic standards are being reduced to the lowest common denominator, even to the point of allowing the use of sludge! It's a joke, but it's not funny. 
+
+Please reexamine the regulations and make them stricter, so it actually means some thing when the label says organic. I will comment in more detail in the future.

@@ -1,0 +1,14 @@
+received date = 12/20/1997
+name = David, Dennis
+company = 
+state = CA
+zip = 90232
+country = United States
+category = Consumer
+topic = General
+file = w0000383.txt
+comment = I oppose allowing the following to be considered organic;
+
+genetically engineered
+sewage sludge
+irradiated

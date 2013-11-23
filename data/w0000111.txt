@@ -1,0 +1,18 @@
+received date = 12/16/1997
+name = Stonebraker, Phyllis
+company = Personal
+state = OR
+zip = 97330
+country = United States
+category = Consumer
+topic = General
+file = w0000111.txt
+comment = I would like to see organic food production limited by standards as stringent as Oregon's standards, especially those rules which prohibit sewage sludge as fertilizer. 
+
+Of more concern to me, however, is the use of irradiation to preserve foods. To say that, in the case of fruits and vegetables, irradiation reduces the nutrient value by no more than cooking is falacious. Unless people then eat fruits and veggies raw which they formerly cooked, twice the nutrient value is lost than if the food was not irradiated. If fruits and veggies which are commonly eaten raw are irradiated, then nutrient value is lost.
+
+In the case of irradiated meats, E-coli and other food borne illnesses are caused by a lack of sanitation in various steps of the slaughtering/packing processes, i.e. because urine, feces, and other floor scrapings wind up in the meat. Irradiating meats simply means that we will be eating irradiated feces, urine and other floor scrapings. If the irradiation does, in fact, prevent illness, the irradiation process will then simply give license to food processors who are more interested in profit than sanitation to become more sloppy in their production. It seems to me that closer scrutiny of sanitary conditions and enforcement of existing rules to keep food clean and pure is more in order than killing the evidence of sloppiness.
+
+Regarding genetically-modified crops: Limiting the gene pool can only lead to extinction of species. Variability is the key to successful natural selection; when we start messing with the gene pool of crops we depend upon to adapt to changing environments, we're creating trouble we may never escape.
+
+Thanks for the time and space.

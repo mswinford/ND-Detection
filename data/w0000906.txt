@@ -1,0 +1,10 @@
+received date = 01/09/1998
+name = Smith, Lynn
+company = Wild Oats Markets
+state = CO
+zip = 80303
+country = United States
+category = Retailer
+topic = National List
+file = w0000906.txt
+comment = I am not in favor of allowing genetically engineered or irradiated food to be labelled as organic. I think such foods should be clearly marked so that the consumer can choose whether or not they want to ingest these products. Both of these alterations to the food supply create a disruption of the natural energy patterns of plants and can potentially affect humans on levels we are unable at this time to scientifically prove yet are nonetheless real.

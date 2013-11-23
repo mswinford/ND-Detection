@@ -1,0 +1,18 @@
+received date = 12/28/1997
+name = Hilsman, Dylan
+company = Pan World Traders
+state = CA
+zip = 95062
+country = United States
+category = Importer
+topic = Applicability
+file = w0000584.txt
+comment = 
+Dear Sirs,
+I really can't understand how something which can be irradiated can ever remotely be considered organic. I do not argue with you wether or not there is any detectable radiation left in the product, but irradiation by it's very nature is totally unnatural which goes against the basic idea and purpose of organic agriculture. Furthermore there has not been sufficient research done to determine the damage to the subtle nutritional qualities of food products such as enzymes. Vegetables are supposed to by living foods. I know that irradiation helps us to find use for our nuclear wastes, but please leave organic agriculture out of it.
+
+Yours Most Sincerely,
+
+Dylan Hilsman
+Owner, Pan World Traders
+Importer of Naturally Water Retted and Processed Hemp Fabrics and Products

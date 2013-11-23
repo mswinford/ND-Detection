@@ -1,0 +1,16 @@
+received date = 12/17/1997
+name = Bernard, Philip
+company = 
+state = CA
+zip = 90290
+country = United States
+category = Consumer
+topic = General
+file = w0000156.txt
+comment = I have the following objections the the USDA's proposed National Organic Standards rules:
+ 1. Allowing genetically engineered foods and crops to be considered as an allowable synthetic and labeled as organic.
+ 2. Allowing inhumane, intensive confinement of farm animals and not explicitly prohibiting factory farm-style operations.
+ 3. Precluding private label and state organic certification programs from upholding and enforcing stricter organic standards than those required by the USDA.
+ 4. The transparant catering to factory farm and biotechnology interests that this bill represents. 
+ In closing let me say that I am disgusted and angry with proposals such as the one under consideration issueing from federal agencies like USDA and the FDA year after year. It is tragically stripping away any faith or respect for federal agencies from countless citizens of this country. 
+

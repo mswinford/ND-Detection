@@ -1,0 +1,12 @@
+received date = 12/17/1997
+name = Mosier, Karen
+company = 
+state = NY
+zip = 14063
+country = United States
+category = Consumer
+topic = National List
+file = w0000124.txt
+comment = As a consumer of organic products, I am disgusted to see what the U.S. Department of Agriculture is trying to pass off as organic. I want to be able to choose whether or not I feed my family food that has been treated with some synthetic products, irradiation, and sludge. By allowing food produced by such methods to be labeled as organic, you will create a lot of bureaucratic nonsense that no one will take seriously.
+
+Consumers want to have the option of whether or not to purchase irradiated food. We want to know whether or not milk comes from cows that have received the Bovine Growth Hormone. You do a great disservice to consumers and to the Organic Farming industry if you allow such practices to be called organic. Please rethink these regulations and provide us with a certification process that reflects the true spirit of organic farming.

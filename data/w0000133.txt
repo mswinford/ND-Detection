@@ -1,0 +1,15 @@
+received date = 12/17/1997
+name = Tweedale, Tony
+company = 
+state = MT
+zip = 59802
+country = United States
+category = Public Interest Group
+topic = National List
+section = 205.20, 205.23
+file = w0000133.txt
+comment = USDA, on public health grounds, must prove with sufficiant data that allowing the use of human, or annimal waste, or industrial sludgeson organically grown food is safe. not only are such ammendments very well documented to contain hazardous levels of toxic organic & inorganic (mainly heavy metals) compounds; not only is there almost no regulation of such sludges; but it is incredebly hard to know from what process they originated or what hazardous materials they may have been mixed with.
+
+At the same time, establish incentives for the use of sludges (as ammendments) that have been proved to be safe. Thank you.
+
+
