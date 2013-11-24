@@ -1,0 +1,6 @@
+<parameters>
+<docFormat>trec</docFormat>
+<outputFile>final_query</outputFile>
+<stemmer>porter</stemmer>
+<stopwords>stopwordlist</stopwords>
+</parameters>
