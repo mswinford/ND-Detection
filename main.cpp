@@ -16,20 +16,21 @@
 #include "sha1-0.2/sha1.h"
 
 #define SHA1Size 20
+#define seed_threshold 5
 
 using namespace std;
+
+int totaldocs;
+int docs_after_removal;
+int numofSeedDocs;
+ofstream stats, fileset, seeds;
+
 
 struct file {
   string name;
   string comment;
 };
 
-struct cluster {
-  file head;
-  list<file> files;
-};
-
-list<cluster> clusters;
 list<file> files;
 file f;
 
@@ -62,42 +63,67 @@ bool compare_SHA1(SHA1FileNamePair first, SHA1FileNamePair second){
     }
 }
 
-//deletes the files of any exact duplicate comments
-void removeDups() {
-  ofstream del, forms;
-  forms.open("forms.txt");
-  del.open("duplicate_comments.txt");
-  for(list<file>::iterator it=files.begin(); it != --files.end(); it++) {
-    int numofdups = 0;
-    for(list<file>::iterator it2=it; it2 != files.end(); it2++) {
-      if(it2 == it) { it2++; }
-      if(!strcmp((*it).comment.c_str(), (*it2).comment.c_str())) {
-	del << (*it2).name << "\n";
-	it2 = files.erase(it2);
-	numofdups++;
-      }
-    }
-    if(numofdups > 4) forms << (*it).name << "\n";
-  }
-  cout << files.size() << endl;
-  del.flush();
-  del.close();
+bool SHA1cmp(SHA1FileNamePair first, SHA1FileNamePair second){
+  unsigned char* f = first.first;
+  unsigned char* s = second.first;
 
-  forms.flush();
-  forms.close();
+  for(int i=0;i<SHA1Size; i++){
+        if(*f!=*s)
+            return false;
+        f++;
+        s++;
+    }
+
+  return true;
 }
 
-void writeDataFile() {
-  string fp = "comment_data.data";
-  ofstream f;
-  f.open(fp.c_str());
+bool compare_date(string l1, string l2) {
+  int m1, d1, y1;
+  int m2, d2, y2;
 
-  for(list<file>::iterator it=files.begin(); it!=files.end(); it++) {
-    
-  }
+  l1.erase(0, 16);
+  l2.erase(0, 16);
+  
+  string delimiter = "/";
 
-  f.flush();
-  f.close();
+  size_t pos = 0;
+  string tok;
+  pos = l1.find(delimiter);
+  tok = l1.substr(0, pos);
+  m1 = atoi(tok.c_str());
+  l1.erase(0, pos + delimiter.length());
+
+  pos = l1.find(delimiter);
+  tok = l1.substr(0, pos);
+  d1 = atoi(tok.c_str());
+  l1.erase(0, pos + delimiter.length());
+
+  pos = l1.find(delimiter);
+  tok = l1.substr(0, pos);
+  y1 = atoi(tok.c_str());
+  l1.erase(0, pos + delimiter.length());
+
+  pos = l2.find(delimiter);
+  tok = l2.substr(0, pos);
+  m2 = atoi(tok.c_str());
+  l2.erase(0, pos + delimiter.length());
+
+  pos = l2.find(delimiter);
+  tok = l2.substr(0, pos);
+  d2 = atoi(tok.c_str());
+  l2.erase(0, pos + delimiter.length());
+
+  pos = l2.find(delimiter);
+  tok = l2.substr(0, pos);
+  y2 = atoi(tok.c_str());
+  l2.erase(0, pos + delimiter.length());
+
+
+  if(y2 < y1) return false;
+  if(m2 < m1) return false;
+  if(d2 <= m1) return false;
+  
+  return true;
 }
 
 int preprocess() {
@@ -113,7 +139,6 @@ int preprocess() {
     return errno;
   }
 
-  int filenum = 0;
   while((dirp = readdir(dp))) {
     if(!strncmp(dirp->d_name, "..", 2) || !strncmp(dirp->d_name, ".", 1) || !strncmp(dirp->d_name, "metadata", 8) || !strncmp(dirp->d_name, "comments", 8)){
       continue;
@@ -175,19 +200,51 @@ int preprocess() {
     string fileName = dirp->d_name;
     SHA1FileNamePair sfp(digest, fileName);
     Hash_NameList.push_back(sfp);
-    
-    filenum++;
 
     in.close();
     out.flush();
     out.close();
   }
 
-  removeDups();
-  //writeDataFile();
-  //writecommentFiles();
-
   return 0;
+}
+
+void getSeedDocs() {
+  for(list<SHA1FileNamePair>::iterator it=Hash_NameList.begin(); it!=Hash_NameList.end(); it++) {
+    list<SHA1FileNamePair> l;
+    int numOfDups = 1;
+    l.push_back(*it);
+    it++;
+    while(SHA1cmp(*(l.begin()), *(it))) {
+      numOfDups++;
+      l.push_back(*it);
+      it++;
+    }
+    list<SHA1FileNamePair>::iterator i = l.begin();
+    string seedfile = (*i).second;
+    i++;
+    while(i!=l.end()) {
+      fstream in1, in2;
+      string path = "data/metadata/";
+      string fp = path + (*i).second;
+      string fp2 = path + seedfile;
+      in1.open(fp.c_str());
+      in2.open(fp2.c_str());
+      string line1, line2;
+      getline(in1, line1);
+      getline(in2, line2);
+      if(compare_date(line1, line2)) { seedfile = (*i).second; }
+      i++;
+    } 
+    totaldocs += numOfDups;
+    if(numOfDups > seed_threshold){ numofSeedDocs++; seeds << seedfile << "\n"; }
+    fileset << seedfile << "\n";
+    docs_after_removal++;
+    it--;
+  }
+  stats << "Total number of documents originally = " << totaldocs << "\n";
+  stats << "Number of documents after exact duplicate removal = " << docs_after_removal << "\n";
+  stats << "Number of seed documents = " << numofSeedDocs << "\n";
 }
 
 int main(int argc, char *argv[]){
@@ -197,10 +254,22 @@ int main(int argc, char *argv[]){
   Hash_NameList.sort(compare_SHA1);
   
   // Debug: Print the Hash_Namelist
-  for(list<SHA1FileNamePair>::iterator it=Hash_NameList.begin(); it!=Hash_NameList.end(); it++) {
-        printSHA1((*it).first); 
-        cout<< " " << (*it).second << endl;
-  }
+  //  for(list<SHA1FileNamePair>::iterator it=Hash_NameList.begin(); it!=Hash_NameList.end(); it++) {
+  //        printSHA1((*it).first); 
+  //       cout<< " " << (*it).second << endl;
+  // }
 
+  stats.open("stats.txt");
+  fileset.open("fileset.txt");
+  seeds.open("seeds.txt");
+
+  getSeedDocs();
+
+  stats.flush();
+  stats.close();
+  fileset.flush();
+  fileset.close();
+  seeds.flush();
+  seeds.close();
 
 }
