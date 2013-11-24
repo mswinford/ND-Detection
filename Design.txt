@@ -1,9 +1,0 @@
-//add design ideas to this document
-
-
-1. loop though comments and remove exact duplicates of perviously seen comments
-2. if the number of exact duplicates is five or more, that comment becomes a form
-3. generate a number of clusters equal to the number of forms plus 1 for unique comments
-4. for each cluster generate a query from the associated form
-5. for each comment in the sample data, determine which form it is closest to or if it is not similar to any  put it in the "unique" cluster
-
