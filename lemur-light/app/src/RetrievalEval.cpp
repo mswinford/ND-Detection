@@ -40,6 +40,8 @@ namespace LocalParameter{
   std::string resultFile;    // the name of the result file
   std::string weightScheme;  // the weighting scheme
   int resultCount;           // the number of top ranked documents to return for each query
+  double threshold;
+  
   void get() {
     // the string with quotes are the actual variable names to use for specifying the parameters
     databaseIndex    = ParamGetString("index"); 
@@ -47,6 +49,7 @@ namespace LocalParameter{
     resultFile       = ParamGetString("result","res");
     weightScheme     = ParamGetString("weightScheme","RawTF");
     resultCount      = ParamGetInt("resultCount", 100); 
+    threshold        = ParamGetDouble("threshold",0);
   }    
 };
 
@@ -214,7 +217,9 @@ void Retrieval(double *qryArr, IndexedRealVector &results, Index *ind){
 	  cerr<<"The weighting scheme of "<<LocalParameter::weightScheme.c_str()<<" is not supported"<<endl;
           exit(1);
 	}
-	scoreAccumulator.incScore(matchInfo->docID(),wt);  
+        if(wt>=LocalParameter::threshold){
+	    scoreAccumulator.incScore(matchInfo->docID(),wt);
+        }
       }
       delete docList;
     }

@@ -3,5 +3,6 @@
 <query>final_query</query>
 <weightScheme>Okapi</weightScheme>
 <result>result_okapi_stemmed_nostopw</result>
-<resultCount>5</resultCount>
+<resultCount>100</resultCount>
+<threshold>2.0</threshold>
 </parameters>

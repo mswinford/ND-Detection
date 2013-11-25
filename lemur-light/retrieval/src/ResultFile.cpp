@@ -104,8 +104,14 @@ void lemur::api::ResultFile::writeResults(const string& queryID, IndexedRealVect
   for (j= results->begin();j!=results->end();j++) {
     if (count >= maxCountOfResult) {
       break;
-    } else {
-      count++;
+    }
+    else {
+        
+        if(trecFmt){
+            if((*j).val==0)
+                break;
+        }
+            count++;
       *outStr << queryID;
       if (trecFmt)
         *outStr << " Q0";
