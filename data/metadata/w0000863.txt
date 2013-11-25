@@ -1,9 +1,0 @@
-received date = 01/07/1998
-name = schrevelius, karen
-company = us citizen
-state = VA
-zip = 20165
-country = United States
-category = Other
-topic = General
-file = w0000863.txt

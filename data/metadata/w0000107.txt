@@ -1,9 +1,0 @@
-received date = 12/16/1997
-name = Hughes-Ramberg, Christine
-company = 
-state = CA
-zip = 94901
-country = United States
-category = Consumer
-topic = General
-file = w0000107.txt

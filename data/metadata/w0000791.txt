@@ -1,9 +1,0 @@
-received date = 01/07/1998
-name = Kodama, Matthew
-company = none
-state = CA
-zip = 94404
-country = United States
-category = Consumer
-topic = General
-file = w0000791.txt

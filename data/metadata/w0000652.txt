@@ -1,9 +1,0 @@
-received date = 12/30/1997
-name = Anderson MD..., Lydell
-company = Occupational Health Physician
-state = CA
-zip = 90815
-country = United States
-category = Consumer, Scientist/Veterinarian, Other
-topic = General
-file = w0000652.txt

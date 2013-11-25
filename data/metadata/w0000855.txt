@@ -1,9 +1,0 @@
-received date = 01/07/1998
-name = Rubin, Janice
-company = 
-state = CT
-zip = 06067
-country = United States
-category = Consumer
-topic = General
-file = w0000855.txt

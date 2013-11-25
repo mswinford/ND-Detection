@@ -1,9 +1,0 @@
-received date = 12/18/1997
-name = Bowdish, John
-company = Farmer Santa Barbara Certified Farmers Market Associationnn
-state = CA
-zip = 93105
-country = United States
-category = Crop Producer
-topic = Regulatory Flexibility
-file = w0000224.txt

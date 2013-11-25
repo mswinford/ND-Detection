@@ -1,9 +1,0 @@
-received date = 12/28/1997
-name = nicola, nikki
-company = 
-state = CA
-zip = 95616
-country = United States
-category = Handler/Processor/Manufacturer
-topic = General
-file = w0000604.txt

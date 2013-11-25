@@ -1,9 +1,0 @@
-received date = 01/08/1998
-name = Nevels, Ted
-company = 
-state = NM
-zip = 87505
-country = United States
-category = Accrediting Agency
-topic = General
-file = w0000892.txt

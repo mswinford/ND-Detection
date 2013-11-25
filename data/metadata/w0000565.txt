@@ -1,9 +1,0 @@
-received date = 12/27/1997
-name = DiMaio, Donna
-company = The Pine-Corn Farm
-state = NY
-zip = 14750
-country = United States
-category = Crop Producer
-topic = General
-file = w0000565.txt

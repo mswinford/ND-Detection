@@ -1,9 +1,0 @@
-received date = 12/17/1997
-name = Delisi, Sam
-company = 
-state = NC
-zip = 28607
-country = United States
-category = Consumer
-topic = National List
-file = w0000148.txt

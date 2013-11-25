@@ -1,9 +1,0 @@
-received date = 12/17/1997
-name = Suleski, Christopher
-company = 
-state = NJ
-zip = 07080
-country = United States
-category = Consumer
-topic = General
-file = w0000174.txt

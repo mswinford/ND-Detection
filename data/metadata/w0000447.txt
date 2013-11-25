@@ -1,9 +1,0 @@
-received date = 12/22/1997
-name = Wallingford, Ward
-company = None
-state = AZ
-zip = 85710
-country = United States
-category = Consumer
-topic = General
-file = w0000447.txt

@@ -1,9 +1,0 @@
-received date = 12/16/1997
-name = Wigglesworth, Lynn
-company = Canyon Farm
-state = PA
-zip = 16901
-country = United States
-category = Crop Producer, Livestock Producer
-topic = Fees
-file = w0000051.txt

@@ -1,9 +1,0 @@
-received date = 01/08/1998
-name = Holden, Peter
-company = 
-state = CA
-zip = 94102
-country = United States
-category = Consumer
-topic = General
-file = w0000903.txt

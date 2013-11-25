@@ -1,9 +1,0 @@
-received date = 12/18/1997
-name = Straw, Barbara
-company = none
-state = CA
-zip = 94912
-country = United States
-category = Consumer
-topic = General
-file = w0000247.txt

@@ -1,9 +1,0 @@
-received date = 12/16/1997
-name = Amick, Victoria L.
-company = 
-state = NM
-zip = 87557
-country = United States
-category = Consumer
-topic = General
-file = w0000123.txt

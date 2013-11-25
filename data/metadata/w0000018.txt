@@ -1,9 +1,0 @@
-received date = 12/15/1997
-name = shafi, n.
-company = 
-state = CA
-zip = 92103
-country = United States
-category = Consumer
-topic = General
-file = w0000018.txt

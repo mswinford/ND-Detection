@@ -1,9 +1,0 @@
-received date = 01/05/1998
-name = Jones, Karen
-company = holistic nutrition student
-state = WA
-zip = 98125
-country = United States
-category = Consumer
-topic = Impact Assessment
-file = w0000750.txt

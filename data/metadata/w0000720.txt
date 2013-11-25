@@ -1,9 +1,0 @@
-received date = 01/04/1998
-name = West, Patrick
-company = Self
-state = CO
-zip = 80027
-country = United States
-category = Other
-topic = General
-file = w0000720.txt

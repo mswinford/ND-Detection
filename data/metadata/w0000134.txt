@@ -1,9 +1,0 @@
-received date = 12/17/1997
-name = Miller, Bob
-company = Individual
-state = IA
-zip = 52556
-country = United States
-category = Small Business
-topic = General
-file = w0000134.txt

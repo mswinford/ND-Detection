@@ -1,9 +1,0 @@
-received date = 12/19/1997
-name = Sine, Debra
-company = 
-state = 
-zip = 
-country = Canada
-category = Attorney
-topic = Labeling
-file = w0000308.txt

@@ -1,9 +1,0 @@
-received date = 12/16/1997
-name = ONann, EMT...
-company = Protect All Childrens Environmentt
-state = NC
-zip = 28752
-country = United States
-category = Consumer, Public Interest Group, Other
-topic = General
-file = w0000047.txt

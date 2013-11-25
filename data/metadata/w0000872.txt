@@ -1,9 +1,0 @@
-received date = 01/08/1998
-name = Kunard, Dana
-company = 
-state = AZ
-zip = 85704
-country = United States
-category = Consumer
-topic = National List
-file = w0000872.txt

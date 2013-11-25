@@ -1,9 +1,0 @@
-received date = 12/21/1997
-name = Lehrman, Leland
-company = The Gate
-state = CT
-zip = 06511
-country = United States
-category = Crop Producer, Environmentalist Advocacy Group, Industry/Trade Association, Press, Public Interest Group, Retailer, Small Business
-topic = General
-file = w0000413.txt

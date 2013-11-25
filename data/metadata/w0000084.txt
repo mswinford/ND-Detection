@@ -1,9 +1,0 @@
-received date = 12/16/1997
-name = Yocum, Dan
-company = none
-state = PA
-zip = 15232
-country = United States
-category = Other
-topic = General
-file = w0000084.txt

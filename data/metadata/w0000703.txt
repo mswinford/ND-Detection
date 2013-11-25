@@ -1,9 +1,0 @@
-received date = 01/03/1998
-name = Raymond, Kimberly
-company = 
-state = NM
-zip = 87124
-country = United States
-category = Consumer
-topic = General
-file = w0000703.txt

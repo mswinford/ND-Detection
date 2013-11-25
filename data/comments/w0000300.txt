@@ -1,1 +1,0 @@
-comment = As a consumer I want to know unequivically whether anything I might buy has been genetically engineered. Please make this possible.

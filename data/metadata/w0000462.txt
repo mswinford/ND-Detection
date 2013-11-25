@@ -1,9 +1,0 @@
-received date = 12/22/1997
-name = Fox, Sally
-company = Natural Cotton Colours Incc
-state = AZ
-zip = 93280
-country = United States
-category = Crop Producer
-topic = General
-file = w0000462.txt

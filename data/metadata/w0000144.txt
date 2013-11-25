@@ -1,9 +1,0 @@
-received date = 12/17/1997
-name = Baker, Ann
-company = 
-state = CA
-zip = 91103
-country = United States
-category = Consumer
-topic = General
-file = w0000144.txt

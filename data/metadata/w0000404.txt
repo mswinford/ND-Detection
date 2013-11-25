@@ -1,9 +1,0 @@
-received date = 12/20/1997
-name = McDonald, Ken
-company = 
-state = TX
-zip = 77008
-country = United States
-category = Consumer
-topic = General
-file = w0000404.txt

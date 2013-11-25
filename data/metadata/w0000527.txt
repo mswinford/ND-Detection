@@ -1,9 +1,0 @@
-received date = 12/24/1997
-name = Molini, Rich
-company = 
-state = IN
-zip = 46031
-country = United States
-category = Crop Producer, Livestock Producer
-topic = Regulatory Flexibility
-file = w0000527.txt

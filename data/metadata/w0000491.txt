@@ -1,9 +1,0 @@
-received date = 12/23/1997
-name = smith, scott
-company = usepa
-state = TX
-zip = 75202
-country = United States
-category = Federal Government Agency
-topic = General
-file = w0000491.txt

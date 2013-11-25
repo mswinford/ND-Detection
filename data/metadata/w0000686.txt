@@ -1,9 +1,0 @@
-received date = 01/02/1998
-name = Beisner, Katharine
-company = South Austin Community Gardens
-state = TX
-zip = 78704
-country = United States
-category = Consumer
-topic = General
-file = w0000686.txt

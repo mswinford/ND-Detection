@@ -1,9 +1,0 @@
-received date = 12/23/1997
-name = Cowls, Shawn
-company = 
-state = NY
-zip = 10011
-country = United States
-category = Consumer
-topic = General
-file = w0000504.txt

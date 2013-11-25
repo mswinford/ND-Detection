@@ -1,9 +1,0 @@
-received date = 12/22/1997
-name = Slowick, Wayne
-company = Thymely Solutions
-state = IA
-zip = 52556
-country = United States
-category = Retailer
-topic = National List
-file = w0000481.txt

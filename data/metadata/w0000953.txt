@@ -1,9 +1,0 @@
-received date = 01/11/1998
-name = Utterback, Vonalda
-company = 
-state = CO
-zip = 80241
-country = United States
-category = Consumer
-topic = General
-file = w0000953.txt

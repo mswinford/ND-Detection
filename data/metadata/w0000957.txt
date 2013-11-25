@@ -1,9 +1,0 @@
-received date = 01/11/1998
-name = Scheer, Gabriel
-company = individual student consumerrr
-state = IA
-zip = 52101
-country = United States
-category = College/University, Other
-topic = General
-file = w0000957.txt

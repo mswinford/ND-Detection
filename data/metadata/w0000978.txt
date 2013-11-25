@@ -1,9 +1,0 @@
-received date = 01/12/1998
-name = Goldberg, Benjamin
-company = 
-state = MA
-zip = 01351
-country = United States
-category = Consumer
-topic = General
-file = w0000978.txt

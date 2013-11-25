@@ -1,9 +1,0 @@
-received date = 01/07/1998
-name = Mehnert, Pam
-company = Outpost Natural Foods Co-op
-state = WI
-zip = 53212
-country = United States
-category = Broker/Distributor/Retailer
-topic = General
-file = w0000810.txt

@@ -1,9 +1,0 @@
-received date = 12/17/1997
-name = Devi, Gitanjali
-company = 
-state = MA
-zip = 01545
-country = United States
-category = Consumer
-topic = Definitions
-file = w0000142.txt

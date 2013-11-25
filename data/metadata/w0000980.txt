@@ -1,9 +1,0 @@
-received date = 01/12/1998
-name = Goldberg, Rachel
-company = MAS Drumlin Farm
-state = MA
-zip = 01773
-country = United States
-category = Livestock Producer
-topic = General
-file = w0000980.txt

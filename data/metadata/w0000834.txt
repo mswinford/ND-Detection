@@ -1,9 +1,0 @@
-received date = 01/07/1998
-name = Parks, Neal
-company = 
-state = CA
-zip = 94501
-country = United States
-category = Consumer
-topic = General
-file = w0000834.txt

@@ -1,9 +1,0 @@
-received date = 12/27/1997
-name = Westrich, Michael
-company = Hemp Network
-state = OR
-zip = 97008
-country = United States
-category = Small Business
-topic = General
-file = w0000580.txt

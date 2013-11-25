@@ -1,9 +1,0 @@
-received date = 12/16/1997
-name = baietty, martin
-company = student
-state = MI
-zip = 48180
-country = United States
-category = College/University
-topic = General
-file = w0000094.txt

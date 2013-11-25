@@ -1,9 +1,0 @@
-received date = 12/19/1997
-name = Jensen, Gary
-company = Part time organic gardener
-state = UT
-zip = 84037
-country = United States
-category = Crop Producer
-topic = Paperwork Reduction Act
-file = w0000290.txt

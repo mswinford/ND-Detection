@@ -1,9 +1,0 @@
-received date = 01/03/1998
-name = Niernberger, Trix
-company = 
-state = KS
-zip = 67208
-country = United States
-category = Accrediting Agency
-topic = General
-file = w0000706.txt

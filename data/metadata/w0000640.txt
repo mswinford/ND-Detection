@@ -1,9 +1,0 @@
-received date = 12/30/1997
-name = Brock, Alfred
-company = Brockville Industries
-state = NC
-zip = 27504
-country = United States
-category = Small Business
-topic = Appeals
-file = w0000640.txt

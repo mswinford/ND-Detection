@@ -1,9 +1,0 @@
-received date = 01/12/1998
-name = Palko, Catherine
-company = Crown Point Ecological Learning Center
-state = OH
-zip = 44130
-country = United States
-category = College/University, Consumer, Cosmetics Manufacturer, Crop Producer, Environmentalist Advocacy Group, Small Business
-topic = General
-file = w0000989.txt

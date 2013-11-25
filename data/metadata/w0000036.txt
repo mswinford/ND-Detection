@@ -1,9 +1,0 @@
-received date = 12/16/1997
-name = Shapiro, David
-company = Natural Law Party
-state = NC
-zip = 28607
-country = United States
-category = Environmentalist Advocacy Group
-topic = Labeling
-file = w0000036.txt

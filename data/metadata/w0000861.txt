@@ -1,9 +1,0 @@
-received date = 01/07/1998
-name = Ulmer, Stephanie
-company = 
-state = PA
-zip = 15218
-country = United States
-category = Consumer
-topic = General
-file = w0000861.txt

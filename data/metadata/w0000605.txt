@@ -1,9 +1,0 @@
-received date = 12/29/1997
-name = Keller, Marianna
-company = 
-state = CA
-zip = 94303
-country = United States
-category = Consumer
-topic = General
-file = w0000605.txt

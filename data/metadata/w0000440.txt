@@ -1,9 +1,0 @@
-received date = 12/22/1997
-name = Schueler, Stephanie
-company = 
-state = IN
-zip = 46304
-country = United States
-category = Consumer, Public Interest Group, Scientist/Veterinarian
-topic = National List
-file = w0000440.txt

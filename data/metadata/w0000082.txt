@@ -1,9 +1,0 @@
-received date = 12/16/1997
-name = Currah, Paisley
-company = 
-state = NY
-zip = 11210
-country = United States
-category = Consumer
-topic = National List
-file = w0000082.txt

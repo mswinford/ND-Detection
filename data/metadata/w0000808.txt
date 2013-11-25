@@ -1,9 +1,0 @@
-received date = 01/07/1998
-name = Buchko, Christopher
-company = 
-state = CA
-zip = 94118
-country = United States
-category = Consumer, Scientist/Veterinarian
-topic = General
-file = w0000808.txt

@@ -1,9 +1,0 @@
-received date = 12/24/1997
-name = Skari, Patti
-company = 
-state = CO
-zip = 80237
-country = United States
-category = Consumer
-topic = Crops
-file = w0000536.txt

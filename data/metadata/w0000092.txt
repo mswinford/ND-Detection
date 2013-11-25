@@ -1,9 +1,0 @@
-received date = 12/16/1997
-name = Herrington, Deborah
-company = none
-state = NE
-zip = 68137
-country = United States
-category = Consumer
-topic = General
-file = w0000092.txt

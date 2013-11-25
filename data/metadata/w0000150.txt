@@ -1,9 +1,0 @@
-received date = 12/17/1997
-name = Fulp, Brian
-company = 
-state = PA
-zip = 18431
-country = United States
-category = College/University
-topic = General
-file = w0000150.txt

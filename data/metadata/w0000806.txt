@@ -1,9 +1,0 @@
-received date = 01/07/1998
-name = Feinsod, Denise
-company = 
-state = CA
-zip = 94611
-country = United States
-category = Consumer
-topic = General
-file = w0000806.txt

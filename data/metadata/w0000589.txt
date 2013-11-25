@@ -1,9 +1,0 @@
-received date = 12/28/1997
-name = Stortroen, Randy
-company = 
-state = CA
-zip = 94105
-country = United States
-category = Consumer
-topic = General
-file = w0000589.txt

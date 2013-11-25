@@ -1,9 +1,0 @@
-received date = 01/09/1998
-name = Smith, Lynn
-company = Wild Oats Markets
-state = CO
-zip = 80303
-country = United States
-category = Retailer
-topic = National List
-file = w0000906.txt

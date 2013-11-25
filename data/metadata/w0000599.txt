@@ -1,9 +1,0 @@
-received date = 12/28/1997
-name = Dionne, R Ronaldd
-company = 
-state = WA
-zip = 98311
-country = United States
-category = Consumer
-topic = National List
-file = w0000599.txt

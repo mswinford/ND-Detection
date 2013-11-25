@@ -1,9 +1,0 @@
-received date = 12/21/1997
-name = Lisak, David
-company = private citizen
-state = MA
-zip = 02132
-country = United States
-category = College/University, Consumer
-topic = National List
-file = w0000419.txt

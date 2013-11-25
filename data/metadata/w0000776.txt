@@ -1,9 +1,0 @@
-received date = 01/06/1998
-name = Montgomery, James
-company = Concerned Private Citizen
-state = CA
-zip = 90277
-country = United States
-category = Consumer
-topic = General
-file = w0000776.txt

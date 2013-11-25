@@ -1,9 +1,0 @@
-received date = 01/07/1998
-name = Kennedy, Kathi
-company = 
-state = CA
-zip = 94115
-country = United States
-category = Consumer
-topic = Regulatory Flexibility
-file = w0000832.txt

@@ -1,9 +1,0 @@
-received date = 01/04/1998
-name = Litzer, Donald
-company = 
-state = WI
-zip = 54494
-country = United States
-category = Consumer
-topic = General
-file = w0000724.txt

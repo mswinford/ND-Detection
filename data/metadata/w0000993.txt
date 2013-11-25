@@ -1,9 +1,0 @@
-received date = 01/12/1998
-name = McDaniel, Diane
-company = SUNY Stony Brook
-state = NY
-zip = 11794
-country = United States
-category = Consumer, Scientist/Veterinarian
-topic = General
-file = w0000993.txt

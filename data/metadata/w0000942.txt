@@ -1,9 +1,0 @@
-received date = 01/10/1998
-name = morrell, laurence
-company = ha eretz
-state = FL
-zip = 32751
-country = United States
-category = Small Business
-topic = Certification
-file = w0000942.txt

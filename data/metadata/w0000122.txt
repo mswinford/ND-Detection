@@ -1,9 +1,0 @@
-received date = 12/16/1997
-name = Dunn, Stan
-company = Concerned consumer
-state = CA
-zip = 95076
-country = United States
-category = Other
-topic = General
-file = w0000122.txt

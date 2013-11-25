@@ -1,9 +1,0 @@
-received date = 12/16/1997
-name = SALTZMAN, LAWRENCE
-company = 
-state = CA
-zip = 93105
-country = United States
-category = Consumer
-topic = General
-file = w0000040.txt

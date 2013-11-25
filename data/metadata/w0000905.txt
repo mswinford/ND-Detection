@@ -1,9 +1,0 @@
-received date = 01/08/1998
-name = MICHAEL, GORMAN
-company = NEWTON VALLEY ORGANIC INSTITUTE
-state = OR
-zip = 97440
-country = United States
-category = Other
-topic = General
-file = w0000905.txt

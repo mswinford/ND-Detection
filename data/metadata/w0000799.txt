@@ -1,9 +1,0 @@
-received date = 01/07/1998
-name = Dixon, Bonnie
-company = 
-state = CT
-zip = 06515
-country = United States
-category = Consumer
-topic = General
-file = w0000799.txt

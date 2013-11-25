@@ -1,9 +1,0 @@
-received date = 12/17/1997
-name = Kau, Lester
-company = EcoChoices wwwilovethisplacecom
-state = CA
-zip = 91740
-country = United States
-category = Other
-topic = General
-file = w0000155.txt

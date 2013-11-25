@@ -1,9 +1,0 @@
-received date = 01/07/1998
-name = Newberry, Duncan
-company = self
-state = OR
-zip = 97214
-country = United States
-category = Consumer, Scientist/Veterinarian
-topic = General
-file = w0000869.txt

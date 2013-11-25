@@ -1,9 +1,0 @@
-received date = 01/07/1998
-name = Vikoren, Sean
-company = 
-state = CA
-zip = 94960
-country = United States
-category = Consumer
-topic = General
-file = w0000788.txt

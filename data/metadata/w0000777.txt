@@ -1,9 +1,0 @@
-received date = 01/06/1998
-name = Paulus, Trina
-company = Cornucopia Network of New Jersey
-state = NJ
-zip = 07042
-country = United States
-category = Consumer, Environmentalist Advocacy Group, Public Interest Group, Other
-topic = Labeling
-file = w0000777.txt

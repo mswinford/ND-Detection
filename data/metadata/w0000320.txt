@@ -1,9 +1,0 @@
-received date = 12/19/1997
-name = Caro, Richard
-company = The LBJ School of Public Affairs Univ of Texas at Austinnn
-state = TX
-zip = 78705
-country = United States
-category = College/University, Consumer, Environmentalist Advocacy Group
-topic = Crops
-file = w0000320.txt

@@ -1,9 +1,0 @@
-received date = 01/07/1998
-name = Bowdish, John
-company = Farmer Santa Barbara Certified Farmers Market Associationnn
-state = CA
-zip = 93105
-country = United States
-category = Crop Producer
-topic = Impact Assessment
-file = w0000865.txt

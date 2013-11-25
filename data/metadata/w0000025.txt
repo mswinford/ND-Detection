@@ -1,9 +1,0 @@
-received date = 12/15/1997
-name = Goettlich, Paul
-company = Hoosier Environmental Council
-state = IN
-zip = 46202
-country = United States
-category = Consumer, Environmentalist Advocacy Group, Public Interest Group
-topic = General
-file = w0000025.txt

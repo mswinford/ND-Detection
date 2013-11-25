@@ -1,9 +1,0 @@
-received date = 01/07/1998
-name = McKenna, Jane
-company = John F Kennedy Universityy
-state = CA
-zip = 94117
-country = United States
-category = Consumer
-topic = General
-file = w0000793.txt

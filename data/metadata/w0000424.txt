@@ -1,9 +1,0 @@
-received date = 12/21/1997
-name = manchester, david
-company = 
-state = NY
-zip = 14845
-country = United States
-category = Consumer
-topic = Crops
-file = w0000424.txt

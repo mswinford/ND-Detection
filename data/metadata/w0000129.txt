@@ -1,9 +1,0 @@
-received date = 12/17/1997
-name = Ruth, Linda
-company = PSCS
-state = NH
-zip = 03458
-country = United States
-category = Consumer
-topic = General
-file = w0000129.txt

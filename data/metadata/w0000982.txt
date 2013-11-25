@@ -1,9 +1,0 @@
-received date = 01/12/1998
-name = Schneider, Ginny
-company = Member of Greenfield Food Cooperative
-state = MA
-zip = 01370
-country = United States
-category = Consumer
-topic = General
-file = w0000982.txt

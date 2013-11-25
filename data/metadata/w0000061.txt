@@ -1,9 +1,0 @@
-received date = 12/16/1997
-name = Meling, Yonghwa
-company = none
-state = IL
-zip = 61801
-country = United States
-category = Consumer
-topic = General
-file = w0000061.txt

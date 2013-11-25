@@ -1,9 +1,0 @@
-received date = 01/10/1998
-name = Stebbins, Dona
-company = Home Gardener
-state = MT
-zip = 59401
-country = United States
-category = Consumer
-topic = General
-file = w0000941.txt

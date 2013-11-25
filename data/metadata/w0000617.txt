@@ -1,9 +1,0 @@
-received date = 12/29/1997
-name = Hoekstra, Donald
-company = Prism Resource Management
-state = MI
-zip = 49509
-country = United States
-category = Handler/Processor/Manufacturer, Laboratory Technician/Operator
-topic = General
-file = w0000617.txt

@@ -1,9 +1,0 @@
-received date = 01/09/1998
-name = Cartwright, Tamara
-company = none
-state = NM
-zip = 87107
-country = United States
-category = Consumer
-topic = General
-file = w0000913.txt

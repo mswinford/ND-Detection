@@ -1,9 +1,0 @@
-received date = 01/07/1998
-name = Clawson, Bill
-company = Concerned Citizen
-state = CA
-zip = 94566
-country = United States
-category = Other
-topic = General
-file = w0000859.txt

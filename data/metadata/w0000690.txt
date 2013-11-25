@@ -1,9 +1,0 @@
-received date = 01/02/1998
-name = Novikov, Anna
-company = Teacher
-state = 
-zip = 
-country = Canada
-category = Small Business
-topic = Crops
-file = w0000690.txt

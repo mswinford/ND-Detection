@@ -1,9 +1,0 @@
-received date = 01/09/1998
-name = Lipson, Mark
-company = Molino Creek Farming Collective
-state = CA
-zip = 95017
-country = United States
-category = Crop Producer
-topic = General
-file = w0000918.txt

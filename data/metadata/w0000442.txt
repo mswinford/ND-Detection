@@ -1,9 +1,0 @@
-received date = 12/22/1997
-name = Hovila, Mark
-company = self
-state = WA
-zip = 98155
-country = United States
-category = Consumer
-topic = General
-file = w0000442.txt

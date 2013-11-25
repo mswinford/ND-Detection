@@ -1,9 +1,0 @@
-received date = 12/18/1997
-name = Butler, Linda
-company = 
-state = NY
-zip = 12567
-country = United States
-category = Consumer
-topic = General
-file = w0000241.txt

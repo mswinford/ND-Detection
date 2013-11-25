@@ -1,9 +1,0 @@
-received date = 01/01/1998
-name = Pasekoff, Dorene
-company = St Johns Organic Community Gardennn
-state = PA
-zip = 19460
-country = United States
-category = Crop Producer
-topic = General
-file = w0000670.txt

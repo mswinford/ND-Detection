@@ -1,9 +1,0 @@
-received date = 12/17/1997
-name = Stambaugh, Jason
-company = Stambaugh Jr Associatess
-state = WA
-zip = 98502
-country = United States
-category = Other
-topic = Impact Assessment
-file = w0000126.txt

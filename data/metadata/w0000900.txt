@@ -1,9 +1,0 @@
-received date = 01/08/1998
-name = Ehrlich-Feldman, Toni
-company = none
-state = CA
-zip = 94530
-country = United States
-category = Accrediting Agency, Consumer
-topic = General
-file = w0000900.txt

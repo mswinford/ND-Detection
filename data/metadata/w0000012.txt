@@ -1,9 +1,0 @@
-received date = 12/15/1997
-name = Stepaniak, Joanne
-company = 
-state = PA
-zip = 15221
-country = United States
-category = Consumer
-topic = General
-file = w0000012.txt

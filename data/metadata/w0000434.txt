@@ -1,9 +1,0 @@
-received date = 12/21/1997
-name = Makowski, Jessica
-company = 
-state = NJ
-zip = 07028
-country = United States
-category = Certifying Agent (Private)
-topic = General
-file = w0000434.txt

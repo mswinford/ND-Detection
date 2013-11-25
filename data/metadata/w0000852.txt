@@ -1,9 +1,0 @@
-received date = 01/07/1998
-name = Lane, Holly
-company = 
-state = CA
-zip = 95051
-country = United States
-category = Consumer
-topic = National List
-file = w0000852.txt

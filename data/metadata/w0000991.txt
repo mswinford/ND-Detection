@@ -1,9 +1,0 @@
-received date = 01/12/1998
-name = Nicholson, Deborah
-company = none
-state = WA
-zip = 98023
-country = United States
-category = Consumer
-topic = General
-file = w0000991.txt

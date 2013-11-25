@@ -1,9 +1,0 @@
-received date = 01/09/1998
-name = Haack, Patty
-company = Private consumer and land owner
-state = LA
-zip = 70525
-country = United States
-category = Consumer
-topic = General
-file = w0000928.txt

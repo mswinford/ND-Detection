@@ -1,9 +1,0 @@
-received date = 12/17/1997
-name = Harrah, Joe
-company = 
-state = CA
-zip = 93722
-country = United States
-category = Consumer
-topic = General
-file = w0000125.txt

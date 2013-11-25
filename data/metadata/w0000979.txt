@@ -1,9 +1,0 @@
-received date = 01/12/1998
-name = Sousa, Richard
-company = El Sol Y Rich Earth Organic Collective
-state = MA
-zip = 01773
-country = United States
-category = Crop Producer
-topic = General
-file = w0000979.txt

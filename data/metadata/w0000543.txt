@@ -1,9 +1,0 @@
-received date = 12/24/1997
-name = gifford, dawn
-company = 
-state = MD
-zip = 20910
-country = United States
-category = Crop Producer
-topic = General
-file = w0000543.txt

@@ -1,9 +1,0 @@
-received date = 12/18/1997
-name = Carroll, Shirley
-company = 
-state = KY
-zip = 42647
-country = United States
-category = Consumer
-topic = Crops
-file = w0000261.txt

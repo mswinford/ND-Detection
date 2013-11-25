@@ -1,9 +1,0 @@
-received date = 12/24/1997
-name = Shulman, Joshua
-company = 
-state = OR
-zip = 97222
-country = United States
-category = Small Business
-topic = National List
-file = w0000525.txt

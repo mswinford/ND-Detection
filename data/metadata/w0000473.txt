@@ -1,9 +1,0 @@
-received date = 12/22/1997
-name = Broadwell, Jeannine
-company = Clark Internet Services
-state = MD
-zip = 21117
-country = United States
-category = Consumer
-topic = Labeling
-file = w0000473.txt

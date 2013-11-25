@@ -1,9 +1,0 @@
-received date = 12/23/1997
-name = Knowles, Mark
-company = 
-state = CA
-zip = 90036
-country = United States
-category = Consumer
-topic = General
-file = w0000501.txt

@@ -1,9 +1,0 @@
-received date = 01/11/1998
-name = tanaka, shigeru
-company = npco-op
-state = IA
-zip = 52240
-country = United States
-category = Consumer
-topic = General
-file = w0000969.txt

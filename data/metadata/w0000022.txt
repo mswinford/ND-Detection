@@ -1,9 +1,0 @@
-received date = 12/15/1997
-name = Bell, R.
-company = The American Academy of Clinical Homeopathy
-state = GA
-zip = 30012
-country = United States
-category = College/University
-topic = General
-file = w0000022.txt

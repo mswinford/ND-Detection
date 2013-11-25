@@ -1,9 +1,0 @@
-received date = 12/20/1997
-name = Boles, Marybeth
-company = 
-state = SD
-zip = 57501
-country = United States
-category = Consumer
-topic = National List
-file = w0000399.txt

@@ -1,9 +1,0 @@
-received date = 01/04/1998
-name = thompson, Ernest
-company = ETS ECOAPPREEE
-state = WA
-zip = 98230
-country = United States
-category = Broker/Distributor/Retailer, Chemical Manufacturer, Consumer, Crop Producer, Laboratory Technician/Operator, Livestock Producer, Scientist/Veterinarian, Small Business
-topic = General
-file = w0000715.txt

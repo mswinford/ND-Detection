@@ -1,9 +1,0 @@
-received date = 12/26/1997
-name = Haderle, Sue
-company = 
-state = CA
-zip = 95006
-country = United States
-category = Consumer
-topic = General
-file = w0000553.txt

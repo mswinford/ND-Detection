@@ -1,9 +1,0 @@
-received date = 12/22/1997
-name = riben, atom
-company = n/a
-state = NJ
-zip = 08857
-country = United States
-category = Consumer
-topic = General
-file = w0000471.txt

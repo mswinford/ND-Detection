@@ -1,9 +1,0 @@
-received date = 12/23/1997
-name = Gold, Steve
-company = Murrays Chickenss
-state = NY
-zip = 10956
-country = United States
-category = Handler/Processor/Manufacturer
-topic = General
-file = w0000517.txt

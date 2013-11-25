@@ -1,9 +1,0 @@
-received date = 01/11/1998
-name = Harvey, Arthur
-company = OCIA
-state = ME
-zip = 04221
-country = United States
-category = Crop Producer
-topic = General
-file = w0000964.txt

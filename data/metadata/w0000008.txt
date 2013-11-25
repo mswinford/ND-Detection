@@ -1,9 +1,0 @@
-received date = 12/15/1997
-name = Katroscik, Joesph
-company = Seattle Green Party & Earth SaveI International
-state = WA
-zip = 98116
-country = United States
-category = Environmentalist Advocacy Group
-topic = General
-file = w0000008.txt

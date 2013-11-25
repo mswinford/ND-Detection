@@ -1,9 +1,0 @@
-received date = 12/18/1997
-name = Pronchik, John
-company = TM Program for Delaware County
-state = PA
-zip = 19018
-country = United States
-category = Consumer
-topic = General
-file = w0000225.txt

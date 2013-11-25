@@ -1,9 +1,0 @@
-received date = 12/20/1997
-name = Wehrung, Brendan
-company = 
-state = MI
-zip = 48067
-country = United States
-category = Other
-topic = General
-file = w0000403.txt

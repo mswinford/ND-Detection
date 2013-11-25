@@ -1,9 +1,0 @@
-received date = 12/21/1997
-name = Albrecht, Jay
-company = Sierra Club
-state = NY
-zip = 10591
-country = United States
-category = Consumer, Environmentalist Advocacy Group, Public Interest Group
-topic = General
-file = w0000423.txt

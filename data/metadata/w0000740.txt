@@ -1,9 +1,0 @@
-received date = 01/05/1998
-name = Hiestand, Keith
-company = US citizennn
-state = IN
-zip = 47401
-country = United States
-category = College/University
-topic = General
-file = w0000740.txt

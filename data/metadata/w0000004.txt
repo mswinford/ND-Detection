@@ -1,9 +1,0 @@
-received date = 12/15/1997
-name = Oberg, Deborah
-company = 
-state = IL
-zip = 61701
-country = United States
-category = Consumer
-topic = General
-file = w0000004.txt

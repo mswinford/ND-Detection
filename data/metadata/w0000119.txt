@@ -1,9 +1,0 @@
-received date = 12/16/1997
-name = Wilder, David
-company = Whole Foods Market - San Antonio TX - Marketing Director
-state = TX
-zip = 78209
-country = United States
-category = Retailer
-topic = General
-file = w0000119.txt

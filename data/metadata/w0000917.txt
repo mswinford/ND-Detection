@@ -1,9 +1,0 @@
-received date = 01/09/1998
-name = Hadad, Robert
-company = Kentucky Organic Farming and Gardening Assoc
-state = KY
-zip = 40546
-country = United States
-category = College/University
-topic = National List
-file = w0000917.txt

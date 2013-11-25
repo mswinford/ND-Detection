@@ -1,9 +1,0 @@
-received date = 12/16/1997
-name = Mason, Janet
-company = consumer
-state = PA
-zip = 19144
-country = United States
-category = Consumer
-topic = General
-file = w0000039.txt

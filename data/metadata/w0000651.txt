@@ -1,9 +1,0 @@
-received date = 12/30/1997
-name = MICHAEL, GORMAN
-company = 
-state = WI
-zip = 54621
-country = United States
-category = Other
-topic = General
-file = w0000651.txt

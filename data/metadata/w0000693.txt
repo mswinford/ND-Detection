@@ -1,9 +1,0 @@
-received date = 01/02/1998
-name = public, john q.
-company = 2500 members of S Fl Phytomedicine Allianceeee
-state = FL
-zip = 33186
-country = United States
-category = Consumer
-topic = General
-file = w0000693.txt

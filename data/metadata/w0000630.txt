@@ -1,9 +1,0 @@
-received date = 12/30/1997
-name = james, olivia
-company = 
-state = NC
-zip = 27514
-country = United States
-category = Consumer, Crop Producer, Press, Public Interest Group
-topic = General
-file = w0000630.txt

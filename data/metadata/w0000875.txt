@@ -1,9 +1,0 @@
-received date = 01/08/1998
-name = Lautmann, Ron
-company = 
-state = CA
-zip = 94043
-country = United States
-category = Consumer
-topic = General
-file = w0000875.txt

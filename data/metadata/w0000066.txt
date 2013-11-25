@@ -1,9 +1,0 @@
-received date = 12/16/1997
-name = Lewis, Albert
-company = Hempyss
-state = CA
-zip = 92101
-country = United States
-category = Small Business
-topic = General
-file = w0000066.txt

@@ -1,9 +1,0 @@
-received date = 12/22/1997
-name = swope, forrest
-company = 
-state = VA
-zip = 22902
-country = United States
-category = Consumer
-topic = General
-file = w0000448.txt

@@ -1,9 +1,0 @@
-received date = 12/22/1997
-name = Hammar, Tim
-company = 
-state = FL
-zip = 33762
-country = United States
-category = Consumer
-topic = General
-file = w0000482.txt

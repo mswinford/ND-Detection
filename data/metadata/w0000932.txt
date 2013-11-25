@@ -1,9 +1,0 @@
-received date = 01/10/1998
-name = Cohen, Rachel
-company = Optimal Health Associates
-state = VA
-zip = 24091
-country = United States
-category = Consumer
-topic = General
-file = w0000932.txt

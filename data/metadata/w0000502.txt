@@ -1,9 +1,0 @@
-received date = 12/23/1997
-name = Highsmith, Sheryl
-company = 
-state = CO
-zip = 80525
-country = United States
-category = Consumer
-topic = Labeling
-file = w0000502.txt

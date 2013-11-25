@@ -1,9 +1,0 @@
-received date = 01/10/1998
-name = Holmes, Diane
-company = 
-state = IN
-zip = 46936
-country = United States
-category = Consumer
-topic = General
-file = w0000936.txt

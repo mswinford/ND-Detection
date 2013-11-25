@@ -1,9 +1,0 @@
-received date = 12/17/1997
-name = de Geus, Francis
-company = 
-state = CA
-zip = 94920
-country = United States
-category = Consumer
-topic = General
-file = w0000146.txt

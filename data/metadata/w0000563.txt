@@ -1,9 +1,0 @@
-received date = 12/27/1997
-name = moriarity, karen
-company = A concerned citizen
-state = 
-zip = 
-country = United States
-category = Consumer
-topic = General
-file = w0000563.txt

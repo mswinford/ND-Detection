@@ -1,9 +1,0 @@
-received date = 12/20/1997
-name = Bardin, Keith
-company = 
-state = TX
-zip = 76051
-country = United States
-category = Consumer
-topic = General
-file = w0000388.txt

@@ -1,9 +1,0 @@
-received date = 12/16/1997
-name = Neumann, David
-company = none
-state = WI
-zip = 53222
-country = United States
-category = Consumer
-topic = General
-file = w0000110.txt

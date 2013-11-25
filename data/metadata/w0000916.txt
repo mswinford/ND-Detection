@@ -1,9 +1,0 @@
-received date = 01/09/1998
-name = Ryan, Lee
-company = Unified Software Associates
-state = PA
-zip = 17103
-country = United States
-category = Consumer, Small Business
-topic = General
-file = w0000916.txt

@@ -1,9 +1,0 @@
-received date = 12/17/1997
-name = Kelly, Andrea
-company = 
-state = 
-zip = 
-country = United States
-category = Consumer
-topic = General
-file = w0000194.txt

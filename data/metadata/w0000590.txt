@@ -1,9 +1,0 @@
-received date = 12/28/1997
-name = WATER, CLEAR
-company = VITAL ECOLOGY NEWS
-state = OR
-zip = 91440
-country = United States
-category = Press
-topic = General
-file = w0000590.txt

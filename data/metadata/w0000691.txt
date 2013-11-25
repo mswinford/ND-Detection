@@ -1,9 +1,0 @@
-received date = 01/02/1998
-name = Novikov, Anna
-company = Teacher
-state = 
-zip = 
-country = Canada
-category = Small Business
-topic = National List
-file = w0000691.txt

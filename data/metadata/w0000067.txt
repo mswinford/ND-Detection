@@ -1,9 +1,0 @@
-received date = 12/16/1997
-name = Derstine, Mary
-company = Ecotheraplay Inc.
-state = NJ
-zip = 07405
-country = United States
-category = Consumer
-topic = General
-file = w0000067.txt

@@ -1,9 +1,0 @@
-received date = 12/20/1997
-name = Swaner, Don
-company = 
-state = MD
-zip = 21043
-country = United States
-category = Consumer
-topic = Labeling
-file = w0000409.txt

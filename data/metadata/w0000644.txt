@@ -1,9 +1,0 @@
-received date = 12/30/1997
-name = Vallette, Jessica
-company = self
-state = DC
-zip = 20001
-country = United States
-category = Consumer
-topic = General
-file = w0000644.txt

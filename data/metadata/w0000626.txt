@@ -1,9 +1,0 @@
-received date = 12/30/1997
-name = Norman, Bob
-company = Trans Acton Natural
-state = VT
-zip = 05301
-country = United States
-category = Broker/Distributor/Retailer
-topic = General
-file = w0000626.txt

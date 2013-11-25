@@ -1,9 +1,0 @@
-received date = 01/04/1998
-name = Settle, D.
-company = Consumer
-state = OK
-zip = 73505
-country = United States
-category = Consumer
-topic = General
-file = w0000723.txt

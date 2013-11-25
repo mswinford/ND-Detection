@@ -1,9 +1,0 @@
-received date = 01/04/1998
-name = Powers, Margaret
-company = 
-state = MN
-zip = 55033
-country = United States
-category = Consumer
-topic = General
-file = w0000721.txt

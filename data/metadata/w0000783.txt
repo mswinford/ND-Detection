@@ -1,9 +1,0 @@
-received date = 01/07/1998
-name = Vinet, Craig
-company = Concerned Citizen
-state = CA
-zip = 94941
-country = United States
-category = Consumer
-topic = General
-file = w0000783.txt

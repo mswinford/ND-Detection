@@ -1,9 +1,0 @@
-received date = 12/28/1997
-name = Bullock, David
-company = 
-state = NY
-zip = 10309
-country = United States
-category = Other
-topic = General
-file = w0000591.txt

@@ -1,9 +1,0 @@
-received date = 12/29/1997
-name = Antoniou, Michael
-company = UMDS Guys Hospital London Bridge London SE1 9RTTTTTT
-state = 
-zip = 
-country = UK
-category = College/University
-topic = National List
-file = w0000607.txt

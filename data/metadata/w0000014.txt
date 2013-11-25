@@ -1,9 +1,0 @@
-received date = 12/15/1997
-name = Strand, JL
-company = 
-state = FL
-zip = 34102
-country = United States
-category = Consumer, Environmentalist Advocacy Group, Public Interest Group, Other
-topic = General
-file = w0000014.txt

@@ -1,9 +1,0 @@
-received date = 12/29/1997
-name = Nichols, Carolyn
-company = 
-state = CA
-zip = 95380
-country = United States
-category = Accrediting Agency
-topic = General
-file = w0000612.txt

@@ -1,9 +1,0 @@
-received date = 12/18/1997
-name = Barrett, Jennifer
-company = Yoga Journal
-state = CA
-zip = 94704
-country = United States
-category = Press
-topic = General
-file = w0000262.txt

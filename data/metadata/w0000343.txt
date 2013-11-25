@@ -1,9 +1,0 @@
-received date = 12/19/1997
-name = Masters, Jonathan
-company = Self
-state = CA
-zip = 90803
-country = United States
-category = Consumer
-topic = National List
-file = w0000343.txt

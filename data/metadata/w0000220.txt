@@ -1,9 +1,0 @@
-received date = 12/18/1997
-name = Buckingham, Jonathan
-company = 
-state = 
-zip = 
-country = United Kingdom
-category = Other
-topic = Labeling
-file = w0000220.txt

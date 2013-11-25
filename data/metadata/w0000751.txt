@@ -1,9 +1,0 @@
-received date = 01/05/1998
-name = Kosanovic-Brown, Ann
-company = 
-state = WA
-zip = 98115
-country = United States
-category = Consumer
-topic = General
-file = w0000751.txt

@@ -1,9 +1,0 @@
-received date = 12/19/1997
-name = Farrow, John
-company = VayTek Inc..
-state = IA
-zip = 52556
-country = United States
-category = Consumer
-topic = General
-file = w0000319.txt

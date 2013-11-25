@@ -1,9 +1,0 @@
-received date = 12/15/1997
-name = Schmidt, Dorothy
-company = 
-state = WI
-zip = 53217
-country = United States
-category = Consumer
-topic = General
-file = w0000021.txt

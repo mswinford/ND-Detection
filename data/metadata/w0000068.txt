@@ -1,9 +1,0 @@
-received date = 12/16/1997
-name = Lopez-Torrijos, Ricardo
-company = 
-state = NY
-zip = 12203
-country = United States
-category = Consumer, Scientist/Veterinarian
-topic = Applicability
-file = w0000068.txt

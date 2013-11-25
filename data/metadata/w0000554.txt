@@ -1,9 +1,0 @@
-received date = 12/26/1997
-name = slade, mitchel
-company = bwp2
-state = CA
-zip = 95006
-country = United States
-category = Certifying Agent (State), Chemical Manufacturer, Consumer, Crop Producer, Federal Government Agency, Small Business
-topic = General
-file = w0000554.txt

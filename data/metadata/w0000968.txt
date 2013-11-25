@@ -1,9 +1,0 @@
-received date = 01/11/1998
-name = michael, perelman
-company = econ dept CSUUU
-state = CA
-zip = 95929
-country = United States
-category = Economist
-topic = General
-file = w0000968.txt

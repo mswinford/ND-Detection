@@ -1,9 +1,0 @@
-received date = 12/23/1997
-name = Greenland, Frank
-company = 
-state = OH
-zip = 43017
-country = United States
-category = Other
-topic = General
-file = w0000512.txt

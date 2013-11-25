@@ -1,9 +1,0 @@
-received date = 12/17/1997
-name = Mosier, Karen
-company = 
-state = NY
-zip = 14063
-country = United States
-category = Consumer
-topic = National List
-file = w0000124.txt

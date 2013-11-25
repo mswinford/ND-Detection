@@ -1,9 +1,0 @@
-received date = 12/16/1997
-name = Orzehowski, Fred
-company = 
-state = VA
-zip = 22209
-country = United States
-category = Congressional, Consumer, Crop Producer, Environmentalist Advocacy Group, Federal Government Agency
-topic = General
-file = w0000052.txt

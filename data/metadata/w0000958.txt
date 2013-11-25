@@ -1,9 +1,0 @@
-received date = 01/11/1998
-name = Inman, William L.
-company = 
-state = IA
-zip = 50021
-country = United States
-category = Consumer
-topic = General
-file = w0000958.txt

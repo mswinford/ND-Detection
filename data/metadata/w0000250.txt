@@ -1,9 +1,0 @@
-received date = 12/18/1997
-name = Wendell, Robert
-company = Human Factors International - Private software UI design co.
-state = IA
-zip = 52556
-country = United States
-category = Consumer
-topic = General
-file = w0000250.txt

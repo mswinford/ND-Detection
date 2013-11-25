@@ -1,9 +1,0 @@
-received date = 01/02/1998
-name = Clark, Nancy
-company = 
-state = NH
-zip = 03603
-country = United States
-category = Consumer, Crop Producer, Small Business, Wild Crop Harvester
-topic = General
-file = w0000689.txt

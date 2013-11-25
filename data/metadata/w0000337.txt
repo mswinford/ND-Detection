@@ -1,9 +1,0 @@
-received date = 12/19/1997
-name = Lang, Kristin
-company = 
-state = CA
-zip = 90049
-country = United States
-category = Consumer
-topic = Labeling
-file = w0000337.txt

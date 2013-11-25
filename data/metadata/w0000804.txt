@@ -1,9 +1,0 @@
-received date = 01/07/1998
-name = Pitts, Christopher
-company = Cooperative Media
-state = CA
-zip = 94110
-country = United States
-category = Public Interest Group
-topic = General
-file = w0000804.txt

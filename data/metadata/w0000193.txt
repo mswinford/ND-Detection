@@ -1,9 +1,0 @@
-received date = 12/17/1997
-name = Jensen, Jean
-company = None
-state = 
-zip = 
-country = Canada
-category = Crop Producer
-topic = National List
-file = w0000193.txt

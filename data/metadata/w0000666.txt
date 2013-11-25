@@ -1,9 +1,0 @@
-received date = 01/01/1998
-name = Kennedy, Arthur
-company = not applicable
-state = CA
-zip = 93117
-country = United States
-category = Consumer
-topic = Certification
-file = w0000666.txt

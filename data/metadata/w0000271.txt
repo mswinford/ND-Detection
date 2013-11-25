@@ -1,9 +1,0 @@
-received date = 12/18/1997
-name = Specktor, Denyse
-company = 
-state = CA
-zip = 90073
-country = United States
-category = Consumer
-topic = General
-file = w0000271.txt

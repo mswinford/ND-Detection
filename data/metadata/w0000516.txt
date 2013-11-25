@@ -1,9 +1,0 @@
-received date = 12/23/1997
-name = Gerry, David
-company = none
-state = 
-zip = 
-country = Canda
-category = Press
-topic = General
-file = w0000516.txt

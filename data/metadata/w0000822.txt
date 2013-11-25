@@ -1,9 +1,0 @@
-received date = 01/07/1998
-name = DeCaro-Salvi, Linda
-company = none
-state = NJ
-zip = 08527
-country = United States
-category = Consumer
-topic = Crops
-file = w0000822.txt

@@ -1,9 +1,0 @@
-received date = 01/07/1998
-name = Stratton, Christian
-company = Maxis/EA
-state = CA
-zip = 94121
-country = United States
-category = Consumer
-topic = General
-file = w0000792.txt

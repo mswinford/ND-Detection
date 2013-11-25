@@ -1,9 +1,0 @@
-received date = 01/05/1998
-name = Williams, Chase
-company = Citizen
-state = CA
-zip = 94930
-country = United States
-category = Consumer, Crop Producer, Wild Crop Harvester
-topic = General
-file = w0000753.txt

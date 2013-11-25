@@ -1,9 +1,0 @@
-received date = 12/20/1997
-name = White, Chris
-company = Natural Law Party of Purdue
-state = IN
-zip = 47907
-country = United States
-category = Consumer
-topic = General
-file = w0000384.txt

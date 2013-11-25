@@ -1,9 +1,0 @@
-received date = 01/08/1998
-name = Skartvedt, Stephen
-company = 
-state = CA
-zip = 94903
-country = United States
-category = Consumer
-topic = General
-file = w0000878.txt

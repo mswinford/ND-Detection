@@ -1,9 +1,0 @@
-received date = 12/20/1997
-name = Gagnon, Gary
-company = Citizen
-state = IA
-zip = 52556
-country = United States
-category = Consumer
-topic = Labeling
-file = w0000395.txt

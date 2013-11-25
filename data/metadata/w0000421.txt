@@ -1,9 +1,0 @@
-received date = 12/21/1997
-name = Gross, Steven
-company = Illinois Humane Political Action Committee
-state = IL
-zip = 60033
-country = United States
-category = Other
-topic = General
-file = w0000421.txt

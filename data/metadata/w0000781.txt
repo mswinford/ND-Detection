@@ -1,9 +1,0 @@
-received date = 01/07/1998
-name = Glenn, Stephen
-company = none
-state = SC
-zip = 29615
-country = United States
-category = Consumer
-topic = General
-file = w0000781.txt

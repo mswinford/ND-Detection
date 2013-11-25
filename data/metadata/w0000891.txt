@@ -1,9 +1,0 @@
-received date = 01/08/1998
-name = Calder, Michelle
-company = 
-state = CA
-zip = 94523
-country = United States
-category = Consumer
-topic = Labeling
-file = w0000891.txt

@@ -1,9 +1,0 @@
-received date = 12/18/1997
-name = Williams, Sandra
-company = US Citizen
-state = CA
-zip = 93446
-country = United States
-category = Accrediting Agency
-topic = General
-file = w0000238.txt

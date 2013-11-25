@@ -1,9 +1,0 @@
-received date = 12/19/1997
-name = Kerr, Julie
-company = concerned consumer
-state = MD
-zip = 21042
-country = United States
-category = Consumer
-topic = General
-file = w0000283.txt

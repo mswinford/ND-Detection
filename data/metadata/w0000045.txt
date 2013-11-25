@@ -1,9 +1,0 @@
-received date = 12/16/1997
-name = Warren, Joshua
-company = 
-state = NY
-zip = 11577
-country = United States
-category = Other
-topic = General
-file = w0000045.txt

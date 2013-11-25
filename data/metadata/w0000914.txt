@@ -1,9 +1,0 @@
-received date = 01/09/1998
-name = McDaneld, Teresa
-company = 
-state = WY
-zip = 82716
-country = United States
-category = Consumer
-topic = General
-file = w0000914.txt

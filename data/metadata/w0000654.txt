@@ -1,9 +1,0 @@
-received date = 12/31/1997
-name = Corazza, Paul
-company = TelegroupInc..
-state = IA
-zip = 52556
-country = United States
-category = Public Interest Group
-topic = General
-file = w0000654.txt

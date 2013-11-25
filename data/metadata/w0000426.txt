@@ -1,9 +1,0 @@
-received date = 12/21/1997
-name = Cardone, Bruce
-company = 
-state = IA
-zip = 52556
-country = United States
-category = Consumer
-topic = National List
-file = w0000426.txt

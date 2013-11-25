@@ -1,9 +1,0 @@
-received date = 12/16/1997
-name = houghton, david
-company = university of minnesota
-state = MN
-zip = 55108
-country = United States
-category = Scientist/Veterinarian
-topic = General
-file = w0000072.txt

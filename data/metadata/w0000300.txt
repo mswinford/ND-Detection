@@ -1,9 +1,0 @@
-received date = 12/19/1997
-name = Grady, Bruce
-company = none
-state = 
-zip = 
-country = United States
-category = Consumer
-topic = Labeling
-file = w0000300.txt

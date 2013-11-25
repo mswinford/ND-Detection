@@ -1,9 +1,0 @@
-received date = 01/11/1998
-name = MICHAEL, GORMAN
-company = 
-state = OR
-zip = 97440
-country = United States
-category = Other
-topic = General
-file = w0000973.txt

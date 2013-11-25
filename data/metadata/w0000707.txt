@@ -1,9 +1,0 @@
-received date = 01/03/1998
-name = Case, Lynn
-company = None
-state = AZ
-zip = 85614
-country = United States
-category = Consumer
-topic = General
-file = w0000707.txt

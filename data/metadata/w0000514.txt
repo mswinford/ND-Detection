@@ -1,9 +1,0 @@
-received date = 12/23/1997
-name = Anderson, Richard
-company = Private Citizen
-state = MA
-zip = 01867
-country = United States
-category = Consumer
-topic = General
-file = w0000514.txt

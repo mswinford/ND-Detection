@@ -1,9 +1,0 @@
-received date = 12/27/1997
-name = Gorman, Benjamin
-company = 
-state = CA
-zip = 94100
-country = United States
-category = Consumer
-topic = General
-file = w0000564.txt

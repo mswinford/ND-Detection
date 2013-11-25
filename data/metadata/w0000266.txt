@@ -1,9 +1,0 @@
-received date = 12/18/1997
-name = Tucker, Terry
-company = 
-state = IA
-zip = 52556
-country = United States
-category = Consumer
-topic = General
-file = w0000266.txt

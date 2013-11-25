@@ -1,9 +1,0 @@
-received date = 12/30/1997
-name = Baldwin, David
-company = Northeast Organic Farming Association of Rhode Island
-state = RI
-zip = 02806
-country = United States
-category = Accrediting Agency
-topic = General
-file = w0000624.txt

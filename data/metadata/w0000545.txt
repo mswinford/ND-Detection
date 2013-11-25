@@ -1,9 +1,0 @@
-received date = 12/25/1997
-name = Blasi, Antonio
-company = my farm
-state = ME
-zip = 04640
-country = United States
-category = Accrediting Agency, Consumer, Crop Producer
-topic = General
-file = w0000545.txt

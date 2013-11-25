@@ -1,9 +1,0 @@
-received date = 12/21/1997
-name = Sosin, Donald
-company = 
-state = NY
-zip = 06039
-country = United States
-category = Consumer
-topic = National List
-file = w0000432.txt
