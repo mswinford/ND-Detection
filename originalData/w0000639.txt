@@ -1,0 +1,10 @@
+received date = 12/30/1997
+name = Brock, Alfred
+company = Brockville Industries
+state = NC
+zip = 27504
+country = United States
+category = Small Business
+topic = Equivalency
+file = w0000639.txt
+comment = There should be no rule, therefore, equivalency will not need to be determined.

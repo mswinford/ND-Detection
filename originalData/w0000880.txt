@@ -1,0 +1,11 @@
+received date = 01/08/1998
+name = dean, patrick
+company = none
+state = MS
+zip = 38776
+country = United States
+category = Consumer
+topic = National List
+section = 205.21
+file = w0000880.txt
+comment = As a home organic gardener and buyer of organic foods, I commend the USDA for addressing the issue of organic farming. However, I want to strongly urge that genetic engineering, antibiotics, and growth hormones NOT be allowed to be used in ANY food labeled "organic."

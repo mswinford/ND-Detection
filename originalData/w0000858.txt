@@ -1,0 +1,12 @@
+received date = 01/07/1998
+name = Semenoff, Elizabeth
+company = 
+state = CA
+zip = 95121
+country = United States
+category = Consumer
+topic = General
+file = w0000858.txt
+comment = It is highly important to me as a consumer of a great deal of organic produce that the definition of organic be one that does not include irradiation, synthetic products or bioengineering. I need to trust that what is being labeled organic is indeed the most "conservative" or "purest" definition of organic. 
+
+

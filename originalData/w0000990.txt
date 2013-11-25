@@ -1,0 +1,15 @@
+received date = 01/12/1998
+name = Blais, Robert
+company = Bob and Lydias Organic Gardenn
+state = NY
+zip = 10033
+country = United States
+category = Crop Producer
+topic = General
+file = w0000990.txt
+comment = 1) Livestock should be required to have 100% organic feed, not 80%.
+2) Antibiotics and parasiticides should not be used "whenever an animal is sick". NOFA-VT allows antibiotics in a dairy animal health emergency with triple the withdrawal time. Some programs prohibit intramammary antibiotics. Most prohibit use in slaughter stock. Antibiotics are overused in livestock production. 
+3) Costs associated with the program are probitively high: $2640 annually for administrative and application fees!!? $3500 every 5 years for site visits?!
+4) Sludge should not be allowed in organic production, unless it is proven to be without metals and dioxin. Refer to the 1997 Cornell Recommends for Integrated Field Crop Management, Cornell Cooperative Extension.
+5) Irradiation should definitely not be allowed. Irradiation is not an organic method.
+6) Genetically Modified Organisms should definitely not be allowed. This is not an organic method.

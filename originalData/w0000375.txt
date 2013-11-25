@@ -1,0 +1,13 @@
+received date = 12/20/1997
+name = DeYoung, Chris
+company = None
+state = CA
+zip = 90031
+country = United States
+category = College/University, Congressional, Consumer, Cosmetics Manufacturer, Crop Producer, Economist, Environmentalist Advocacy Group, Exporter, Federal Government Agency, Foreign Government Representative, Foreign Organic Program Representative, Handler/Processor/Manufacturer, Importer, Industry/Trade Association, Laboratory Technician/Operator, Livestock Producer, Press, Public Interest Group, Retailer, Scientist/Veterinarian, Small Business, State Government Official, Wild Crop Harvester
+topic = Labeling
+section = 205.100, 205.101, 205.102, 205.103, 205.104, 205.105, 205.106, 205.107
+file = w0000375.txt
+comment = The consumer needs many different labels to accurately determine how what they are was made. There should be a Truely Organic label that which is free from genetic alteration and irradiation. Pesticide Free- for food grown with out the use of pesticides. Susatinable- to ensure that the food is not only Organic but also made with out destroying resources. Irradiated and altered food need there own label as well as imported food since it could be grown with chemical not apporved for use in the USA
+All foods Labeled Organic MUST BE 100 % ORGANIC NOT 50% or more as it is currently worded.
+Put the Appropriate labels on and let the Consumers decide. Alot of us who buy nothing but organic will not trust "organic" if this proposal is passed.

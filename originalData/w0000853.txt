@@ -1,0 +1,12 @@
+received date = 01/07/1998
+name = Lane, Holly
+company = 
+state = CA
+zip = 95051
+country = United States
+category = Consumer
+topic = Labeling
+section = 205.100
+file = w0000853.txt
+comment = 
+As a consumer, percise labeling of organic foods is crucial to my decision to purchase. I want to know if a food product has been irradiated, if it has been pumped with hormones, or if it has been genetically altered. I would lose confidence in the organic food system if a food item that is only 50% organic is allowed to be label 'organic'.

@@ -1,0 +1,22 @@
+received date = 01/07/1998
+name = Peregrino, Marina
+company = 
+state = CA
+zip = 94087
+country = United States
+category = Consumer
+topic = General
+file = w0000867.txt
+comment = 
+If the product must be made with substances that are not 
+organic, then it does not need to be labeled as organic. 
+It's not as if the product cannot be sold. Just not sold as organic. 
+
+"Although the NOSB recommended that substances extracted with a synthetic
+volatile solvent (such as hexane) or that contain propylene glycol as a carrier be prohibited
+for use in organic products, we believe our proposal to allow their use only when
+alternative substances or products are not commercially available does not affect the
+integrity of organically produced products.
+"
+
+

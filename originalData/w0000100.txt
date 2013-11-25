@@ -1,0 +1,10 @@
+received date = 12/16/1997
+name = Rae, Diana
+company = 
+state = CA
+zip = 94960
+country = United States
+category = Consumer
+topic = General
+file = w0000100.txt
+comment = I strongly believe that the Proposed Rule does not go far enough. As a consumer, when I purchase organic I want it to be 100% organic. In my opinion, the USDA should adopt the rules as are in place in California, which is stringent and verifiable. I don't want 5% of my so-called "organic" food to be irradiated, fertilized with sludge or other chemical components. 100% or I won't buy it.

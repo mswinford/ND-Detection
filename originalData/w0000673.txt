@@ -1,0 +1,10 @@
+received date = 01/01/1998
+name = Constable, Ondine
+company = not applicable
+state = NC
+zip = 28805
+country = United States
+category = Consumer
+topic = General
+file = w0000673.txt
+comment = As a consumer I have the right to choose what I eat. Personally I do not want to eat genetically engineered foods as I feel there are potential risks to consumers and the environment that must be studied over many years. If genetically engineered foods are put on the market it should be required that genetically engineered foods, or foods containing genetically engineered ingredients, be labeled as such. Genetically engineered foods should not be represented or labeled as organic.

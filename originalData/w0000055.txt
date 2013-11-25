@@ -1,0 +1,10 @@
+received date = 12/16/1997
+name = Cioffi, Ray
+company = Vermont Dept Agriculture Weights and Measuress
+state = VT
+zip = 05671
+country = United States
+category = State Government Official
+topic = General
+file = w0000055.txt
+comment = Will there be a requirement for segregation of Organics from Non-Organic produce in a produce display? Cross-contamination may be a problem, as is the case with poultry and red meat. Also handling of unwrapped Organic product after touching pesticide treated product should be addressed. Warehouses and storerooms are sprayed with various bug sprays. How will that be addressed.

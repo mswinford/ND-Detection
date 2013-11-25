@@ -1,0 +1,12 @@
+received date = 12/24/1997
+name = Molini, Rich
+company = 
+state = IN
+zip = 46031
+country = United States
+category = Crop Producer, Livestock Producer
+topic = Livestock
+section = 205.15
+file = w0000532.txt
+comment = Organic production of livestock to this point has been primarily based on imitating natural systems and this includes the free choice/access of the animal to a shelter or an outdoor environment. Anything less leads organic down the same road as the environmental, social, economic, and nutritional nightmare of confined feeding operations. We cannot have confined feeding in organic production even if the livestock are able to survive without antibiotic or hormone treatment. Organic livestock production must promote the proper use of pasture for ensuring livestock health and contentness and for facilitating proper manure management. Organic/sustainable production is a wholistic system and all facets of proper production techniques must be strictly adhered to to keep the systems operating in concert with the natural ecosystems.
+Rich Molini

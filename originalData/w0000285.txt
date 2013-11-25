@@ -1,0 +1,12 @@
+received date = 12/19/1997
+name = Kerr, Julie
+company = concerned consumer
+state = MD
+zip = 21042
+country = United States
+category = Consumer
+topic = Livestock
+section = 205.15
+file = w0000285.txt
+comment = I am deeply concerned about the wording of section 205.15(b), which states that, "If necessary, livestock may be maintained under conditions that restrict the available space for movement or their access to the outside." What is meant by the word "necessary?" Many poultry farmers, for example, feel that it is "necessary" to crowd their birds into an average living space of 2/3 of a square foot per bird in order to reduce housing costs and food and water consumption. I have no idea what "necessary" conditions this section was really meant to address. I am all in favor of eliminating this clause entirely. However, if there do exist legitimate and honorable reasons to keep an animal confined indoors for some length of time, then these reasons need to be clearly spelled out. Otherwise, the agricultural industry can and will take advantage of it.
+

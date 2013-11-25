@@ -1,0 +1,12 @@
+received date = 12/17/1997
+name = Scott, Narain
+company = none
+state = CT
+zip = 06076
+country = United States
+category = Consumer
+topic = Labeling
+file = w0000197.txt
+comment = The effects of genetically engineered foods have not been researched thoroughly nor for substantial duration to guarantee these foods safe for consumption. Therefor I do not wish to consume them. Please don't let genetically engineered seeds or any other mode of
+genetic engineering be allowed in organic production.
+As a matter of fact, I would like all genetically engineered food to be clearly labelled as such so that I and my fellow consumers could opt to not purchase them.

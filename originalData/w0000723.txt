@@ -1,0 +1,12 @@
+received date = 01/04/1998
+name = Settle, D.
+company = Consumer
+state = OK
+zip = 73505
+country = United States
+category = Consumer
+topic = General
+file = w0000723.txt
+comment = As an organic foods consumer, it is imperative for me to know whether my food has been irradiated, or genetically engineered. Any foods treated as such, should be LABELLED as such and separated from foods labelled as ORGANIC. Genetically engineered food is not "natural". It should in no way be included in the organic category. 
+
+Labelling foods that have been irradiated or genetically engineered as ORGANIC is MISLEADING to the public!

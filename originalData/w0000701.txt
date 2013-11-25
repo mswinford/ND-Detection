@@ -1,0 +1,20 @@
+received date = 01/03/1998
+name = Paulus, Trina
+company = Cornucopia Network of New Jersey
+state = NJ
+zip = 07042
+country = United States
+category = Consumer, Environmentalist Advocacy Group, Public Interest Group, Other
+topic = Proposed Effective Date
+file = w0000701.txt
+comment = I believe we are better off with the developing interest and state by 
+state approach than with Federal regulations that are not strict enough. 
+No sludge, no genetic engineered seeds or food.
+
+To get widespread public input, we will need more time than the ninety 
+days.
+
+Please extend. There is no rush.
+
+compostgal@aol.com
+

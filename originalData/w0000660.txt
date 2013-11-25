@@ -1,0 +1,11 @@
+received date = 12/31/1997
+name = Curry, Susan
+company = individual
+state = PA
+zip = 19010
+country = United States
+category = Consumer
+topic = Handling
+section = 205.17
+file = w0000660.txt
+comment = Irradiated food is NOT organic, it has been altered, I don't know how much, but I am unwilling to take risks with this kind of processing. Please include in your regulations a prohibition from labelling irradiated organic food as "organic". Please make food processors have to label and food or part of the food that has been irradiated.

@@ -1,0 +1,41 @@
+received date = 01/06/1998
+name = Roberts, Pamela
+company = private citizen
+state = MA
+zip = 01701
+country = United States
+category = Consumer
+topic = Livestock
+section = 205.12, 205.13, 205.14, 205.15
+file = w0000773.txt
+comment = Dear Sirs: 
+
+I am willing to pay considerably more for "organic" meat, milk, 
+eggs, and fish and to do without until I can find the organic version.
+
+When I buy "organic" animal products, I want to know that I am buying 
+from animals that meet these conditions: 
+
+1. Were not genetically engineered or cloned (selective breeding is ok, 
+ but genetic engineering is not)
+2. Did not eat food the animal wouldn't normally eat if humans weren't
+ around to feed it: that is, herbivores are not being fed ground-up
+ remains of other animals (I wish to avoid salmonella, prions, etc.)
+ and are not being fed industrial waste products such as 
+ ground up paper, wood, or cardboard. 
+ The animal also should not be given growth hormones
+ and should not be fed foods that have been sprayed with pesticides
+ or that have been genetically engineered to withstand treatment with
+ pesticides. 
+3. That the animal is raised in an environment that promotes good 
+ health without drugs and antibiotics; that it receives antibiotics 
+ only in response to an existing infection; and that it is raised 
+ without other drugs such as tranquilizers or growth hormones. 
+4. That the animal is raised in conditions where it can move around 
+ and develop and use its muscles; where it can socialize with 
+ other animals (this promotes activity and health) in a healthy way,
+ and where it can go outside and breathe fresh air.
+
+Thank you for the opportunity to state my preference. 
+
+Pam Roberts

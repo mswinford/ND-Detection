@@ -1,0 +1,17 @@
+received date = 01/07/1998
+name = Kodama, Matthew
+company = none
+state = CA
+zip = 94404
+country = United States
+category = Consumer
+topic = General
+file = w0000791.txt
+comment = As a consumer of organic foods, I am extremely disturbed to learn of this government initiative to devalue organic certification in the interests of large agri-business. Techniques such as bioengineering, irradiation, and sludge-farming are clearly not within the commonly accepted usage of the term 'organic'. Although I am not a farmer, I gather from the comments of concerned organic farmers that these are only some of the more egregious instances of redefinition.
+
+If the standard in this current, adulterated form were adopted, it would mean that consumers like myself would cease to have any confidence in organic labeling. I would have to restrict my purchases to only grocers that I trust to ignore the USDA guidelines and instead offer only wares that they believe are safe.
+
+I sincerely hope that this standard will be _greatly_ strengthened, back to the carefully considered recommendations of the N.O.S.B.
+
+FYI - I was alerted to this topic and site by the discussion program on KQED radio, San Francisco.
+

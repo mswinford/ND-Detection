@@ -1,0 +1,20 @@
+received date = 01/09/1998
+name = Hipsh, Anna
+company = N/A
+state = NM
+zip = 87544
+country = United States
+category = Consumer
+topic = General
+file = w0000925.txt
+comment = I believe that the proposed organic food standards should:
+
+1. Specifically prohibit the use of genetically enginneered organisms and/or require special labelling to alert consumers if they are purchasing genetically engineered produce, providing details as to the nature of the modifications.
+
+2. Strictly prohibit the feeding of dead or diseased animals back to animals of the same or similar species.
+
+3. Specifically prohibit food irradiation or provide labelling that warns consumers of it.
+
+4. Specifically prohibit sewer sludge as a fertilizer.
+
+5. Allow private and state certifying bodies to maintain stricter organic standards than the USDA provided they differentiate between USDA approval and their approval as organic.

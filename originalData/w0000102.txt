@@ -1,0 +1,13 @@
+received date = 12/16/1997
+name = burke, james
+company = personal
+state = WA
+zip = 98501
+country = United States
+category = College/University, Consumer, Environmentalist Advocacy Group
+topic = General
+file = w0000102.txt
+comment = to whom it may concern, 
+
+i must strongly support the inclusion of radiated and biotech foods as non-organic. i am quite aware of the science involved in these two processes and am convinced they are synthetic in nature. The resultant substance, however "natural" it may seem to the standardized tests of the food science industry, has been made "edible" through artificial means. if the USDA feels that the ability to sustain our current population growth and consumption levels is reliant on bio-tech foods then all my comments and others like mine are falling on deaf ears. the whole argument lies on the actual influence the commercial food industry has on governmnet agencies. i must remind the panel that what is often good for industry is not simultaneously beneficial to the humans on this planet. slavery and mono-cropping were once considered beneficial, but the human cost were way too high. i feel that allowing the commercial food industry to squeeze in on a technicality would ruin the intent of the bill; that is to leave a mark that what people purchase is what their ancestors 150 years ago might have ate.
+ james burke

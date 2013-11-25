@@ -1,0 +1,13 @@
+received date = 12/20/1997
+name = Bodfish, Emmon
+company = RDNA....
+state = CA
+zip = 94965
+country = United States
+category = Consumer
+topic = National List
+section = 205.20, 205.21, 205.22, 205.23, 205.24, 205.25, 205.28
+file = w0000412.txt
+comment = Please do not allow genetically engineered seeds or any other aspect of
+genetic engineering to be used in organic production. Please do not allow livestack, whose meat is to be sold labled as "Organic" to be fed or medicated with genetically engineered substances nor with hormones, stimulants, nor tranquilizers. All these invalidate the concept of "Organic" and mislead consumers. 
+																																		Emmon Bodfish

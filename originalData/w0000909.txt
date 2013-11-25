@@ -1,0 +1,12 @@
+received date = 01/09/1998
+name = poole, matthew
+company = glenwood foods
+state = VA
+zip = 23083
+country = United States
+category = Handler/Processor/Manufacturer
+topic = Livestock
+section = 205.15
+file = w0000909.txt
+comment = 
+I think organic chickens must be free roaming in barns. do not allow cages of any kind except if somebody wanted to keep them outside they could use wire pens. Or another way would be to require a certain amount of square feet per bird.(ex. 1.33 sq. ft. per bird).

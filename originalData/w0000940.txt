@@ -1,0 +1,12 @@
+received date = 01/10/1998
+name = CERAN, PAUL
+company = US CITIZENNN
+state = NJ
+zip = 07853
+country = United States
+category = Consumer
+topic = General
+file = w0000940.txt
+comment = I oppose the use of sewage sludge on organic crop land and the use of irradiation of foods labelled "organic". 
+
+

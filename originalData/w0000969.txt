@@ -1,0 +1,10 @@
+received date = 01/11/1998
+name = tanaka, shigeru
+company = npco-op
+state = IA
+zip = 52240
+country = United States
+category = Consumer
+topic = General
+file = w0000969.txt
+comment = Maintain strict organic standards by explicitly prohibiting the following from proposed national organic standards: genetically engineered foods, toxic sludge as 'fertilizer,' nuclear irradiation of food, animal feed containing diseased animal parts and waste, intensive confinement of farm animals.

@@ -1,0 +1,10 @@
+received date = 12/19/1997
+name = Shapiro, Alice
+company = private citizen registered dietitian and consultantt
+state = OR
+zip = 97439
+country = United States
+category = Other
+topic = General
+file = w0000284.txt
+comment = I believe that establishing standards for "organic" is a very good idea. However, I feel that the standards established must be very strict. We must establish standards that are as stringent as the toughest state regulations, such as those of California and Oregon. Genetically engineered substances, other than those established by traditional selective breeding, should not be labeled organic. Irradiated substances should also not be labeled organic. People desiring organic products desire products that are as "natural" as possible, genetic engineering and irradiation are not natural.

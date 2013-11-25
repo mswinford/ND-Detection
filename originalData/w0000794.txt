@@ -1,0 +1,10 @@
+received date = 01/07/1998
+name = falkenstine, bonnie
+company = consumer
+state = CA
+zip = 95010
+country = United States
+category = Consumer
+topic = National List
+file = w0000794.txt
+comment = I am an organic consumer and have great concerns about any synthetic processes or products being allowed in the proposed organic definition. I buy organic foods to avoid irradiation, biotechnically engineered food and the use of antibiotics. If these were allowed under the organic label I would not buy organic. I can not allow myself to feed my child conventionally grown food. The only option would be starvation or growing my own.

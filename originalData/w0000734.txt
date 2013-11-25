@@ -1,0 +1,11 @@
+received date = 01/05/1998
+name = Marshall, Penny
+company = Highwood Crossing FarmLtd..
+state = 
+zip = 
+country = Canada
+category = Crop Producer
+topic = Labeling
+section = 205.100
+file = w0000734.txt
+comment = Please do not allow genetically engineered foods to fall under packages sold, labeled or represented as organic.

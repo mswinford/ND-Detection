@@ -1,0 +1,10 @@
+received date = 12/17/1997
+name = Scott, Narain
+company = none
+state = CT
+zip = 06076
+country = United States
+category = Consumer
+topic = Labeling
+file = w0000199.txt
+comment = I would like any state with more stringent organic certification requirements than the federal guidelines to be able to so certify foods and have it displayed on the label.

@@ -1,0 +1,10 @@
+received date = 12/22/1997
+name = Ross, JH..
+company = none
+state = NJ
+zip = 08868
+country = United States
+category = Consumer
+topic = General
+file = w0000449.txt
+comment = At a time when the collective health of the American people is positively dreadful(this will get even worse when the FDA and the Codex Alimentarius Commission of the WHO/FAO eliminate most dietary supplements from the market), the last thing we need is to consume foods that have been irradiated, genetically engineered, exposed to human waste, or treated with synthetic substances. Organic products should be totally free of such exposure. This will give the consumer a fighting chance to ingest adequate levels of the nutrients which most people desperately need to maintain health. Under the proposed ruling so-called organic foods will probably not be much better than the non-organic variety. It's time for government to put the needs of the people ahead of any other interest!!

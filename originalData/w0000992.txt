@@ -1,0 +1,19 @@
+received date = 01/12/1998
+name = Rande, Darrell
+company = 
+state = MI
+zip = 48128
+country = United States
+category = Consumer
+topic = Definitions
+section = 205.1, 205.2
+file = w0000992.txt
+comment = Just when you think it is safe to buy 'Organic' you're about to dilute the term. When I see Organic, I assume that it contains nothing other than natural ingredients grown and prepared in a ecologically safe manner.
+
+Organic is supposed to mean as close to natural as possible. I second the other comments in that this does not mean irradiated food, nor genetically engineered.
+
+Also the 95-100% content you are proposing isn't right. It either is 100% organic, or it isn't organic. An you propose that value by weight! I'm thinking in terms of parts per million, like the EPA does...
+
+It appears that the definitions were made up by Corporations trying to cash in on the move for a healthy lifestyle... I don't want the term Organic to end up as another marketing term like 'new and improved'.
+
+Please look to California's standards and certification methods, and look at Rodale's guides to Organic Gardening.

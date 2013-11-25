@@ -1,0 +1,10 @@
+received date = 01/07/1998
+name = Hale, David
+company = 
+state = VA
+zip = 22060
+country = United States
+category = Consumer
+topic = General
+file = w0000862.txt
+comment = I support a national standard on organic labeling. I choose organic products when available and would like some assurance that the product is what it says it is.

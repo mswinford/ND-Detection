@@ -1,0 +1,15 @@
+received date = 01/08/1998
+name = folk, william
+company = 
+state = MO
+zip = 65203
+country = United States
+category = College/University, Consumer, Crop Producer, Scientist/Veterinarian, Small Business
+topic = General
+file = w0000881.txt
+comment = I wish to comment on the use of genetically engineered organisms (GEOs).
+
+Biotechnology offers the opportunity to harness the vast genetic resources of living species to our benefit. When used wisely, it can enhance sustainable, organic production of food and fiber, with less relicance upon input from external sources. There is frequently no logical basis for distinguishing genetically engineered plants and animals from those produced by breeding and cultivation practices employed by mankind for centuries, or by nature for millenia. There are noteworthy examples in the evolution of our present life forms where entire genomes have been incorporated by another; the capacity of eukaryotic cells to efficiently convert nutrients into energy, and of plants to convert light into energy are the result of such events, for mitochondria and chloroplasts are derived from primitive bacteria. Also, there are many examples of natural cross-species (and even cross-kingdom) transfer of genetic materials. Thus, the introduction of small amounts of DNA conferring desirable traits to an organism is not novel, but what is, is that we can direct it to our advantage.
+
+The definition of organic practices utilised in the rule specifically mentions the use of biological materials and practices as being appropriate for organic production practices. Hence, the use of genetically engineered organisms should be appropriately included.
+We need thoughtful policies based upon sound science to ensure the coexistence of our and other species on a planet which is threatened by practices that are inherently unsustainable. Biotechnology, appropriately used, offers a way to change some of those practices.

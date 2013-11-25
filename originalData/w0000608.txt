@@ -1,0 +1,10 @@
+received date = 12/29/1997
+name = Antoniou, Michael
+company = UMDS Guys Hospital London Bridge London SE1 9RTTTTTT
+state = 
+zip = 
+country = UK
+category = College/University
+topic = Labeling
+file = w0000608.txt
+comment = As an active research scientist using genetic engineering for clinical applications, I am well aware of the limitations of this technology. The use of genetic engineering as it is curently being used in agriculture is a great concern given the still imprecise and experimental nature of the technology. As a consumer I therefore wish to avoid genetically engineered foods or foods containing ingredients of any sort derived from genetically engineered organisms or which have used substances from genetically engineered organisms as part of their manufacturing process. Keeping the organic sector free of genetically engineered components gives me the choice to not only avoid the extra risks associated with genetically engineered foods, but also to continue to support the only sustainable form of agriculture which is capable of preventing environmental pollution with agrochemicals and meeting the long term food needs of the world's population.

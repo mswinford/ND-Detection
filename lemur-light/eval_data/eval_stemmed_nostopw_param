@@ -4,5 +4,5 @@
 <weightScheme>Okapi</weightScheme>
 <result>result_okapi_stemmed_nostopw</result>
 <resultCount>100</resultCount>
-<threshold>2.0</threshold>
+<threshold>1.0</threshold>
 </parameters>

@@ -1,0 +1,13 @@
+received date = 12/20/1997
+name = Bodfish, Emmon
+company = RDNA....
+state = CA
+zip = 94965
+country = United States
+category = Consumer
+topic = Crops
+section = 205.8
+file = w0000411.txt
+comment = Please do not allow genetically engineered seeds or any other aspect of
+genetic engineering to be used in organic production.
+																																																						Emmon Bodfish

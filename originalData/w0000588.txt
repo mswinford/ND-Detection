@@ -1,0 +1,34 @@
+received date = 12/28/1997
+name = reed, barbara
+company = fandor farm
+state = CA
+zip = 95959
+country = United States
+category = Consumer
+topic = General
+file = w0000588.txt
+comment = Fandor Farm
+
+Fandor Farm
+25000 Fandor Rd
+Nevada City, CA 95959
+email fandor@oro.net
+
+Docket # TMD-94-00-2
+
+USDA--National Organic Standards 
+ 
+ As a family who have been organic consumers and growers for over 24 yrs, we demand that you maintain strict organic standards by explicitly prohibiting the unacceptable agricultural practices listed in this Docket. 
+
+ You must also allow private and state organic certification bodies to maintain stricter organic standards than those the USDA requires. 
+
+ May we remind the USDA that this is a basic issue of free speech and consumers' right to choose.
+
+
+ Thank you
+
+					Sincerely,
+
+
+				David, Barbara & Alexa Reed
+

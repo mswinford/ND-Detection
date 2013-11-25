@@ -1,0 +1,23 @@
+received date = 01/07/1998
+name = Yronwode, Althaea
+company = 
+state = CA
+zip = 94117
+country = United States
+category = Consumer
+topic = Handling
+section = 205.17
+file = w0000828.txt
+comment = Dear Sirs and Madams,
+
+In this section on handling processes to be excluded, you make no mention of food irradiation. Certainly you can not believe that the consumer of organic food wishes to purchase food which has been irradiated? Please consider that the movement for organic food is based not just on consumer health and safety, but on the health of fieldworkers, watersheds, and wildlife. 
+
+The mining and processing or radioactive materials in order to irradiate food is completely incompatible with the notion of "organic" food. This process causes significant environmental destruction. Organic food is not just food which has not had pesticides, herbicides, or fungicides applied to it. It is food that is grown and processed in the most "natural" way possible. It relies on naturally occuring compounds and animals to produce and preserve food crops. 
+
+While your agency may believe that the use of radioactive selenium to kill microorganisms is "safe" for humans, the national organic standards are not about baseline safety. They are a consumer notification service which allows the consumer to choose products grown and processed in accordance with organic standards such as those proposed by the NOSB. By creating standards so much less stringent than the NOSB standards, you are watering down the meaning of an "organic" label, and doing only harm. Why create standards which are so weak and deceptive? If these are the strongest regulations you can propose, then I sincerely hope your effort to create a national standard fails.
+
+Sincerely,
+Althaea Yronwode
+111 Fillmore
+San Francisco, CA 94117
+

@@ -1,0 +1,10 @@
+received date = 12/16/1997
+name = Lewis, Albert
+company = Hempyss
+state = CA
+zip = 92101
+country = United States
+category = Small Business
+topic = General
+file = w0000066.txt
+comment = As a business owner who sells organic fabrics and other environmentally friendly products, I want to express my support for the strongest, most carefully considered rules for "organic" in the U.S. We have an opportunity to set baseline standards for many generations to come. I believe we should limit the inclusion of unproven, genetically engineered crops, from our definition of "organic". On another note, I look forward to the legalization of industrial hemp and the development of organic standards for it's use here in the United States.

@@ -1,0 +1,12 @@
+received date = 01/08/1998
+name = Barr, Mary
+company = 
+state = PA
+zip = 15206
+country = United States
+category = Consumer
+topic = General
+file = w0000897.txt
+comment = Organic foods are good for consumers and also for the environment. My family strongly supports organic farming and want USDA standards that strengthen the organic food industry. Weakening of standards, for instance by allowing products to be labeled "organic" that contain a substantial amount of nonorganic ingredients, will confuse consumers and blur the distinction between organic and nonorganic foods. The California state standards are widely accepted by consumers currently and should be used as a model. 
+Irradiation of organic foods should be prohibited, as well as the use of genetically engineered organisms. The philosophy of organic foods is based on keeping food in as natural a state as possible, with a minimum of technical manipulation. By prohibiting the use of these technologies in organics, consumers will be given the choice of purchasing food that is free of irradiation and GEOs--especially important since the safety and wisdom of these techniques is still unproven and scientifically controversial. 
+

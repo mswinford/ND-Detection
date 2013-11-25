@@ -1,0 +1,15 @@
+received date = 12/18/1997
+name = Williams, Sandra
+company = US Citizen
+state = CA
+zip = 93446
+country = United States
+category = Accrediting Agency
+topic = General
+file = w0000238.txt
+comment = 
+I was quite pleased to hear that the United States will soon have formal standards for organics. I was quite perturbed to hear that these standards will allow genetic engineering, irradiation, and production in combination with sewage sludge (which should not be used for growing edibles, but for growing ornamental plants and flowers). 
+
+When the public demanded standards, this was not at all what we had in mind. Most consumers pay more for products labeled "organic" because we desire products that are NOT genetically engineered or irradiated. Allowing these processes would render the labeling misleading to the public. It could also have a substantial negative economic impact on the growers who do not utilize genetic engineering and irradiation, but who would have the same label as those that do. It would not be fair to create labeling standards, and then to allow such a broad range of practices to fall under the same label. 
+
+As a concerned citizen, I ask that you reconsider allowing the three items mentioned above. Please do not let your rush to finalize the process compromise the end result. Thank you.

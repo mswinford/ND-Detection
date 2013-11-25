@@ -77,7 +77,7 @@ public static void listFilesForFolder( File folder) {
  		 write.println("<DOCNO>"+fileEntry.getName()+"</DOCNO>");
     		write.println("<TEXT>");
                   write.println(content);
-    /*Scanner sc = new Scanner(content);  
+   /* Scanner sc = new Scanner(content);  
      while( sc.hasNext() ) {
       
      String word = sc.next(); 

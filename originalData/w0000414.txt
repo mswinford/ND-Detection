@@ -1,0 +1,13 @@
+received date = 12/21/1997
+name = Bardin, Keith
+company = 
+state = TX
+zip = 76051
+country = United States
+category = Consumer
+topic = Labeling
+section = 205.100
+file = w0000414.txt
+comment = Please do not allow genetically engineered and irradiated food to be included under the new organic label. I want food for my family that hasn’t been “messed with” in any way, regardless of whether it’s been “proven” to be bad for our health or not. We are entitled to know precisely what we are buying and the decision about what we need or don’t need is ours to make.
+
+Keith Bardin

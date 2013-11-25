@@ -1,0 +1,13 @@
+received date = 12/19/1997
+name = Beltran, Evans
+company = USA Citizen
+state = IA
+zip = 52556
+country = United States
+category = Consumer, Crop Producer, Environmentalist Advocacy Group, Foreign Organic Program Representative, Public Interest Group, Wild Crop Harvester
+topic = Crops
+section = 205.5, 205.6, 205.7, 205.8, 205.9, 205.11
+file = w0000345.txt
+comment = The most important thing to me in being a US citizen is in having freedom of choice. I can choose those things that I feel is best for me, my health, my needs, my happiness. I know that laws can be passed that are considered best for the majority of citizens, but cases do exist where the law should not prevent one’s freedom of choice. The proposal to allow genetically engineered foods into the organic market is such a case. It may be that the majority of citizens accept/ignore genetically engineered organisms, and it is their choice to do so, but many do not, and for them the choice should also exist. When I go to the grocery store I want to be able to choose those products I feel would enhance my health and happiness. Please do not take this choice away from me. Genetically engineered foods have not been adequately tested for their long term effects on people, animals or environment. A law passed should demand that all genetically engineered foods should be labelled as such.
+
+Evans Beltran

@@ -1,0 +1,10 @@
+received date = 12/16/1997
+name = Currah, Paisley
+company = 
+state = NY
+zip = 11210
+country = United States
+category = Consumer
+topic = General
+file = w0000078.txt
+comment = Please do not allow irradiated foods or foods that have been grown with "sludge" to be labelled organic.

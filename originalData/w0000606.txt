@@ -1,0 +1,12 @@
+received date = 12/29/1997
+name = Antoniou, Michael
+company = UMDS Guys Hospital London Bridge London SE1 9RTTTTTT
+state = 
+zip = 
+country = UK
+category = College/University
+topic = Crops
+file = w0000606.txt
+comment = The use of genetically engineered crops should be excluded as requested by the organic sector. Genetic engineering as it is being applied in agriculture is an imprecise and still experimental technology whose long term consequences to health and the environment are far from certain. Genetic engineering has already been found to unexpectedly produce novel toxins.
+
+Generally, genetically engineered crops are still dependent on the use of agrochemicals (e.g. herbicides). The use of genetically engineered crops therefore re-enforces non-sustainable, intensive industrial agricultural practises to which the organic sector is opposed.

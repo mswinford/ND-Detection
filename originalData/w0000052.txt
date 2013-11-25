@@ -1,0 +1,10 @@
+received date = 12/16/1997
+name = Orzehowski, Fred
+company = 
+state = VA
+zip = 22209
+country = United States
+category = Congressional, Consumer, Crop Producer, Environmentalist Advocacy Group, Federal Government Agency
+topic = General
+file = w0000052.txt
+comment = I do not agree that classification standards of what constitutes "organic" should be relaxed in order to reduce prices. If a consumer wants to buy organic goods and wants to pay the price of pure oraganic ingredients then it should be his decision. He should not have to sacrifice purity because certain consumer groups want to compromise the integrity of organic goods in order to bring down cost and add to more government interference in the market place.

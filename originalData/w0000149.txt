@@ -1,0 +1,10 @@
+received date = 12/17/1997
+name = Delisi, Sam
+company = 
+state = NC
+zip = 28607
+country = United States
+category = Consumer
+topic = Labeling
+file = w0000149.txt
+comment = I am definitely not interested in genetically engineered foods which I consider a poison. Interfering with the functioning of nature at that level is very dangerous . A little knowledge is a dangerous thing. You read the article by Dr. John Fagen at the Mothers for Natural Law website at and you’ll get the whole picture from a genetic scientist’s point of view. I oppose the use of genetically engineered foods we deserve the right to know through proper labeling what is what. If the lack of vigilance for our health continues the future of agriculture will lie in farming all the unfarmed lands in the world.

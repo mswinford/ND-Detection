@@ -1,0 +1,10 @@
+received date = 12/27/1997
+name = de la Secoya, MR..
+company = none
+state = CA
+zip = 95828
+country = United States
+category = Consumer
+topic = General
+file = w0000581.txt
+comment = Please maintain strict and narrow definitions of organic produce and livestock. Please do not include genetically engineered or irradiated products to use the organic label.

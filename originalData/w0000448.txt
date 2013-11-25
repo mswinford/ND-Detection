@@ -1,0 +1,16 @@
+received date = 12/22/1997
+name = swope, forrest
+company = 
+state = VA
+zip = 22902
+country = United States
+category = Consumer
+topic = General
+file = w0000448.txt
+comment = it seems nonsensical to allow irradiated, genetically altered or sludge-fertilized foods to be labelled as organic.
+
+"organic" in this specialized sense should be the closest to completely natural (as in before man started messing with everything) as possible - like something you might 'find' walking through the wilderness
+
+PLEASE don't include any of these blatantly unnatural processes under the category of 'organic'
+
+Thanks, Forrest

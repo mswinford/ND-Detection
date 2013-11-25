@@ -16,7 +16,7 @@
 #include "sha1-0.2/sha1.h"
 
 #define SHA1Size 20
-#define seed_threshold 5
+#define seed_threshold 2
 
 using namespace std;
 

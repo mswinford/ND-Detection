@@ -1,0 +1,11 @@
+received date = 01/10/1998
+name = Hartwell, Christi
+company = 
+state = CO
+zip = 80723
+country = United States
+category = Consumer
+topic = General
+file = w0000935.txt
+comment = 
+I applaud the USDA for recognizing the organic method and the growing consumer demand for organic products. However, I am concerned that the use of irradiation or genetic engineering has not been ruled out for organic labels, nor has the use of sewage sludge on crop land. While sewage sludge has the potential of being a valuable organic fertilizer, until we can be assured of ridding it of its toxic heavy metals and other contaminants, it cannot be deemed safe for soil and therefore foodstuffs.

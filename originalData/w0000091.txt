@@ -1,0 +1,17 @@
+received date = 12/16/1997
+name = Rutman, Gail
+company = 
+state = OR
+zip = 97401
+country = United States
+category = Consumer
+topic = Crops
+section = 205.7, 205.8, 205.9
+file = w0000091.txt
+comment = My family's diet consists of more than 90% organically grown grains, legumes, fruits, vegetables, nuts, and seeds. Since living in Oregon, which has excellent certification standards, we have been assured of
+always enjoying the highest quality organic foods--free of genetic engineering, irradiation, and unsavory and potentially harmful (such as sewage) fertilizers and pesticides. I heartiliy urge that any Federal rules
+covering the labeling and certification of organic foods prohibit the use of genetic engineering, irradiation, and sewage fertilizer. Further, to
+continue to assure me, my family, and the many other people in Eugene
+who purchase organic foods of the high standards that Oregon has set, I 
+feel that Oregon and other states like it should be allowed to reject
+any food that doesn't meet those standards.

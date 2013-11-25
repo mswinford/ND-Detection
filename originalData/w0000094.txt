@@ -1,0 +1,10 @@
+received date = 12/16/1997
+name = baietty, martin
+company = student
+state = MI
+zip = 48180
+country = United States
+category = College/University
+topic = General
+file = w0000094.txt
+comment = What will become of the waste products produced in the process of iradiation? We do not know what to do with it now. I think it is a bad idea to use radiation to preserve meat as it will give producers, packers and retailers a false sense of security about meat safety. I believe they will feel that radiation will kill all germs in meat and they now will become less careful about how they handle it. With the push to use less energy, and with an eye towards saving a buck, meat storage refrigeration tempurtures will creep up. If radiation kills all the germs, why do we need to keep the meat so cold? This attitude seems dangerous to me, but I can see it happening. Please rethink your position on the iradiation of meat products as it is a bad one.

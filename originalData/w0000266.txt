@@ -1,0 +1,14 @@
+received date = 12/18/1997
+name = Tucker, Terry
+company = 
+state = IA
+zip = 52556
+country = United States
+category = Consumer
+topic = General
+file = w0000266.txt
+comment = Please do not allow genetically engineered seeds or any other genetically engineered items to be used in the production of organic foods. Should they be allowed (God forbid) it is especially critical that foods which contain genetically engineered ingredients or are grown from genetically engineered seeds are labeled accordingly. I feel very strongly that ALL ingredients must be included and that absolutely none should be exempt from labeling. I also feel that synthetic substances of all types should be excluded from organic production for religious and health-related reasons. 
+
+I object to genetically engineered foods for many reasons. Primary concerns are with religious and health issues. I am a pure vegetarian. If, for instance, a pig gene was introduced into a vegetable it would seriously violate my vow to never eat meat. The worst case scenario would be the introduction of human genes. To me, this would be nothing short of cannibalism. Even the genes of a mosquito or a virus are highly objectionable to me. To paraphrase scientist John Hagelin, you can cross a pear with an apple, but there is no way you are going to get a mosquito to mate with a tomato. It is against the laws of nature. Apart from the religious issue I also do not believe that eating genetically engineered foods is healthy. There already numerous well-documented instances of genetically engineered crops being approved without adequate long-term testing which caused unforseen problems. 
+
+Unless ALL genetically engineered foods are required to be labeled as such whether for organic consumption or otherwise, the fundamental freedom of choice of all Americans is being denied. I am aware that there is a very small but very rich and powerful lobby representing the biotech industry that wants to be able to sneak such foods by the American public because it is well aware that many people find such foods objectionable. That fact that many people do find these foods objectionable makes it mandatory that they are labeled correctly and completely. There is a growing awareness in the world that genetic engineering can be very dangerous and since many countries are beginning to ban such foods, it is not even in the interest of our own farmers to allow such foods since it will be harder and harder to sell these items overseas. It is absolutely unconscionable that the welfare of the many should be compromised for the greed of a few which is what would be happening here.

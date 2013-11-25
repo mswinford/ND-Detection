@@ -1,0 +1,11 @@
+received date = 12/17/1997
+name = Meyer, Matthew
+company = 
+state = IL
+zip = 60173
+country = United States
+category = Consumer
+topic = National List
+section = 205.20, 205.21, 205.26, 205.27
+file = w0000179.txt
+comment = All components of a food, prepared or not, should themselves BE organic and not a product of a chemical reaction or chemically intensive process.

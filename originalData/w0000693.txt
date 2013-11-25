@@ -1,0 +1,12 @@
+received date = 01/02/1998
+name = public, john q.
+company = 2500 members of S Fl Phytomedicine Allianceeee
+state = FL
+zip = 33186
+country = United States
+category = Consumer
+topic = General
+file = w0000693.txt
+comment = Dear Sirs,
+
+ We saved the whales, the dolphins, the seals, and the oceans they swim in. We saved the pandas, the rhinos, the tigers, and the lands they live on. We saved the air we breathe, the water we drink, and the skies overhead that protect us. You sirs, are putting the only good food left in jeopardy of becoming extinct...you shall fail. We shall see to that. Shame on you all. You are supposed to be a part of the solution, not a part of the problem! See you in court.
