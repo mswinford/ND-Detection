@@ -1,0 +1,10 @@
+received date = 01/07/1998
+name = Bowdish, John
+company = Farmer Santa Barbara Certified Farmers Market Associationnn
+state = CA
+zip = 93105
+country = United States
+category = Crop Producer
+topic = Impact Assessment
+file = w0000865.txt
+comment = Farmers at Certified Farmers' Markets can talk directly with the public about their growing practices. Why penalize them with certification fees. Certification fees make more sense with processors and distributors that do not deal directly with the people who buy their produce. We have face to face contact with our customers and they can decide wheither we have integrity or not. Why should we pay expensive fees for certification and registration so that people will trust the institutions instead of us. I think that people in the direct marketing program should be exempt from the expensive certifying and registration problems. Many net under $30,000 and do most of their own labor. The paper work and registration fees do not make much sense for this type of farmer.

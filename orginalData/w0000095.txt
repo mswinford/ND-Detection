@@ -1,0 +1,18 @@
+received date = 12/16/1997
+name = Rybak, Mike
+company = Fairbanks Country Day
+state = CA
+zip = 92109
+country = United States
+category = Other
+topic = General
+file = w0000095.txt
+comment = 	I am a graduate of MIT with degrees in physics and humanities & science and currently chair the math department at Fairbanks Country Day, a private college preparatory school in San Diego County. I purchase organically-grown food occasionally, and believe the USDA should not permit products to be labeled "organic" if their production or distribution involves any of the following:
+	• the use of sewage sludge - which may contain sundry contaminants - as fertilizer
+	• irradiation
+	• genetic modification
+
+	I am not opposed to the sale of foodstuffs grown or produced using these methods; I simply believe when such methods are employed, the consumer should be clearly informed of that fact. If such foods carry the label "organic" and no mention is made of these methods, he/she will be denied easy access to that significant information.
+							Sincerely, 
+							Mike Rybak
+

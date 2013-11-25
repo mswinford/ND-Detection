@@ -1,0 +1,28 @@
+received date = 12/22/1997
+name = Luxem, David
+company = Member Puget Consumers Coop
+state = WA
+zip = 98126
+country = United States
+category = Consumer
+topic = General
+file = w0000443.txt
+comment = I am particularly concerned about the following;
+
+1. The USDA standards should NOT be less stringent than
+those standards already in place in California.
+
+2. The USDA standard for "Organic" should NOT include
+any genetically engineered foods.
+
+3. The USDA standard should NOT label any animal products
+"Organic" if the animals have been kept in intensive confinement.
+
+Thanks you for your time and consideration.
+Respectfully,
+David Allan Luxem
+7111 32nd Ave SW
+Seattle, WA 98126-3334
+206-932-4439
+d-luxe@att.net
+

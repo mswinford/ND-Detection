@@ -1,0 +1,11 @@
+received date = 01/01/1998
+name = Kennedy, Arthur
+company = not applicable
+state = CA
+zip = 93117
+country = United States
+category = Consumer
+topic = State Programs
+file = w0000667.txt
+comment = 
+State programs should be allowed and encouraged to more stringent standards wherever they choose. Their criteria can be available on the web and in stores where customers demand such standards and information.

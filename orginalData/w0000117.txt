@@ -1,0 +1,14 @@
+received date = 12/16/1997
+name = Hebert, Cat
+company = organic products consumer
+state = PA
+zip = 19124
+country = United States
+category = Consumer
+topic = General
+file = w0000117.txt
+comment = Since I primarily consume organic foodstuffs (for health and training purposes), this proposed rule is of great interest to me. 
+
+After reading through most of the sections, it seems to me that I wouldn't consider foodstuffs grown/prepared under this rule to be sufficiently "organic", would avoid foodstuffs containing labeling under the proposed rule unless they were also "certified" by more exacting organic food production certification organizations, and would advise others to do the same.
+
+We can't *convince* food to be organic :)

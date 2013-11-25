@@ -1,0 +1,11 @@
+received date = 01/04/1998
+name = barnes, claire
+company = UCLA
+state = CA
+zip = 90024
+country = United States
+category = College/University
+topic = Labeling
+section = 205.100, 205.101, 205.102, 205.103, 205.104, 205.105
+file = w0000722.txt
+comment = As a researcher looking at the ethics and social consequences involved in the use of biotechnologies, I would be personally and professionally opposed to allowing foods that have been genetically altered to be labelled organic. The argument that bioengineered foods are safe is not adequate since I (and other consumers) are paying extra for foods labelled organic because we don't want foods that are just "safe" we want foods that are in an unaltered state. Our choices as consumers may not be the same as those that others make, but we should have the freedom to make those choices. Without labelling that identifies which foods have been genetically altered, and by including genetically altered foods under the rubric "organic" the consumer's range of choices is severely limited. Whenever manufacturers or growers fight for the capability to keep production methods under cover one wonders why they think they have anything to fear. The argument is often made that consumers are irrational, that they act out of ignorance and won't buy a product that may be perfectly good because they fear it is tainted when it has been proved to be "safe." Well, so what? Should Ford have been allowed to go the government and force people to buy the Edsel just because people's dislike of it wasn't "rational." The market is supposed to cater to people's wants, why not allow the market to operate fully? Allow consumers to buy products based on full disclosure of the production methods used, including manipulation of genetic material. To do less is a form of corporate totalitariansim.

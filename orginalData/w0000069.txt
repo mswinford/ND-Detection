@@ -1,0 +1,10 @@
+received date = 12/16/1997
+name = Aker, Jon
+company = 
+state = CA
+zip = 95120
+country = United States
+category = Consumer
+topic = General
+file = w0000069.txt
+comment = I am not a conventional farmer or an organic farmer, I am a consumer. I live in California. Here I am confident that when I go into a grovery store and buy products labeled under the California Organic foods Act I know that they were grow organically and without the use of conventional means. I buy organic products because I believe that conventional farming methods damage the earth. The national organic foods act is too weak. If it goes into effect, in its present weakened state, it would allow organic farmers in other states to claim that their produce is grown organically, while farmers in California must meet stronger standards. For example, under the national organic foods act livestock would be allowed 20% of their food to be non-organic. In California, all food given to livestock, under the California Organic Foods Act, must be organically grown - 100% of it. Please work on strengthening this bill so that all states may compete in the organic foods market on the same level. We do not need a weakened national standard. All states should have to meet the same standards as California. I feel that a national standard on Organic foods is important in the growing market, but why not make that standard mean something. For people who buy organic products it is important to know that what they are buying was grown using 100% organic means, don't mislead the consumer.

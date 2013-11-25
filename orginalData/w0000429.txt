@@ -1,0 +1,18 @@
+received date = 12/21/1997
+name = Sosin, Donald
+company = 
+state = NY
+zip = 06039
+country = United States
+category = Consumer
+topic = Crops
+file = w0000429.txt
+comment = Please do not allow genetically engineered seeds
+or any other aspect of genetic engineering to be used in organic production. Because genetically
+engineered foods have not been tested for their
+long-term effects on human health, on animals,
+or on the environment, I do not want to consume them.
+In fact, I would like to see all genetically engineered foods labelled as such so that I can choose not to consume them in any form.
+I strongly advocate adoption of standards for food set by the Natural Law Party and other environmentally concerned groups.
+
+Thanks and happy holidays.

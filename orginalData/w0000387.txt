@@ -1,0 +1,15 @@
+received date = 12/20/1997
+name = Meikle, Dorell
+company = Small Planet Whole Foods
+state = 
+zip = 
+country = Canada
+category = Crop Producer, Foreign Organic Program Representative
+topic = Crops
+file = w0000387.txt
+comment = 
+I own a natural food store which sells produce that is only organically grown. I am empathetically interested in not legalizing the use of genetically engineered seeds for organic produce. I know my customers would not purchase the produce grown from such seed. DO NOT allow this to happen. Organic produce should NOT be grown from genetically altered seeds. 
+I am also not interested in consuming anything genetically altered and neither are any of my customers. Please label all such foods.
+Dorell Meikle
+Small Planet Whole Foods
+meikle@thecentre.com

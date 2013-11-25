@@ -1,0 +1,11 @@
+received date = 12/18/1997
+name = Stabenow, Eva
+company = 
+state = 
+zip = 
+country = Germany
+category = Small Business
+topic = Crops
+section = 205.8
+file = w0000227.txt
+comment = Please do not allow genetically engineered seeds, seedlings and/or planting stock be used in the production of organic goods - I would like to continue to be able to consume American products.

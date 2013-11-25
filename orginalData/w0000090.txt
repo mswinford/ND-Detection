@@ -1,0 +1,18 @@
+received date = 12/16/1997
+name = Cokenias, Damon
+company = 
+state = CA
+zip = 95033
+country = United States
+category = Consumer
+topic = General
+file = w0000090.txt
+comment = If the proposal is passed into law, I will not consider "organic" produce to be any different than conventionally-grown produce. I do not consider food that has been genetically altered, irradiated or fertilized with treated sewage to be organic.
+
+
+
+California's standards are well defined and reasonable. They should be used as the model for the nation.
+
+
+
+-Damon Cokenias

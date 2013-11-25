@@ -1,0 +1,26 @@
+received date = 12/18/1997
+name = Swanson, Suzanne
+company = Private individual
+state = IN
+zip = 47978
+country = United States
+category = Consumer
+topic = General
+file = w0000226.txt
+comment = I have read several parts of the proposedregulations and have two comments:
+
+
+
+ 1. in section 205.22 (active synthetic substances allowed ) - - - I believe TOXINS FROM GENETICALLY ENGINEERED BACTERIA should not be allowed 
+
+ whenthere appear to be a number of substances that are evidently considered non-toxic that can be used. 
+
+
+
+ 2. in section 205.8 ( didn't copy the title but it had to do with seed and plant material selection/resources ) - - - I believe the use of genetically altered seed 
+
+ should be prohibited
+
+ 
+
+

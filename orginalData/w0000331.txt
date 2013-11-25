@@ -1,0 +1,17 @@
+received date = 12/19/1997
+name = Karpen, Jim
+company = Maharishi University of Management
+state = IA
+zip = 52557
+country = United States
+category = Consumer
+topic = National List
+section = 205.21, 205.22, 205.23, 205.26, 205.27
+file = w0000331.txt
+comment = Please do not allow genetically engineered seeds or any other aspect 
+of genetic engineering to be used in organic production. Because 
+genetically engineered foods have not been tested for their long-term 
+effects on human health, on animals, or on the environment, I do not 
+want to consume them. I would like to see all genetically engineered 
+foods labeled as such so that I can choose not to consume them in any 
+form.

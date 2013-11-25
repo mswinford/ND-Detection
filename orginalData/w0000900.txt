@@ -1,0 +1,10 @@
+received date = 01/08/1998
+name = Ehrlich-Feldman, Toni
+company = none
+state = CA
+zip = 94530
+country = United States
+category = Accrediting Agency, Consumer
+topic = General
+file = w0000900.txt
+comment = As A consumer of organic produce I do not approve of the use of treated sewage sludge, or use on non organic feed to animals in anything labeled organic. I also want any food that is irradiated or is derived from biotechnology labeled and do not approve of any watering down of the current standards for certified organic food in California. I believe that the rule not allowing stricter standards than the new proposed rules is wrong.

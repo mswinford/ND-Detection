@@ -1,0 +1,10 @@
+received date = 01/08/1998
+name = Hadlock, Carol
+company = 
+state = CA
+zip = 95032
+country = United States
+category = Consumer
+topic = General
+file = w0000894.txt
+comment = I am not married to the word “organic,” however I want an ultra-conservative label for food that says, “this product is as close to the way nature grew it as we can get it without going back to being hunter-gatherers.” For me, that means no hormones, no pesticides, no antibiotics, no extra radiation. It means that the chickens and livestock are vegetarian, fed with food I personally would want to eat and/or handle. Certainly it would NOT mean that any animals involved would have been fed other animals.

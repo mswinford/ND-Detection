@@ -1,0 +1,12 @@
+received date = 12/19/1997
+name = Baltimore, Diane
+company = 
+state = CT
+zip = 06611
+country = United States
+category = Consumer
+topic = General
+file = w0000325.txt
+comment = Dear Sir/Madam, Thank you for your work in proposing regulations for the organic food industry. However, I am most concerned that
+
+

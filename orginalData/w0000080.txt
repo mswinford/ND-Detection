@@ -1,0 +1,10 @@
+received date = 12/16/1997
+name = Currah, Paisley
+company = 
+state = NY
+zip = 11210
+country = United States
+category = Consumer
+topic = Applicability
+file = w0000080.txt
+comment = Please don't let "organic" crops be irradiated or treated with sludge.

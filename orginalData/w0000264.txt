@@ -1,0 +1,11 @@
+received date = 12/18/1997
+name = Who, Elizabeth
+company = 
+state = CA
+zip = 95521
+country = United States
+category = Consumer
+topic = Livestock
+section = 205.13, 205.14
+file = w0000264.txt
+comment = I enjoy eating organic dairy products. I feel very strongly that dairy products labeled as organic should come from cows that are organic - NO antibiotics, NO growth hormones, and NO non-organic feed. Labeling requirements should be very strict so that the consumer can make informed choices. thank you

@@ -1,0 +1,12 @@
+received date = 01/09/1998
+name = Fleischman, Ted
+company = Ascend Communications
+state = CA
+zip = 94563
+country = United States
+category = Consumer
+topic = Crops
+file = w0000907.txt
+comment = I hope the proposed regulations allow the use of bio-engineered crops. It is no more logical to ban all bio-engineer crops than it would to ban any plant that has been domesticated. Furthermore, such a ban is hardly consistent with the current organic practices which use many standard agricultural practices. I doubt if any organic farms have yet returned to pre-agriculture hunter-gather practices. 
+
+The label "organic" should not be a representation of the irrational fears of a small minority.

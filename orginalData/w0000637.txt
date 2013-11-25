@@ -1,0 +1,10 @@
+received date = 12/30/1997
+name = Brock, Alfred
+company = Brockville Industries
+state = NC
+zip = 27504
+country = United States
+category = Small Business
+topic = Labeling
+file = w0000637.txt
+comment = It looks like a lot of work has gone into creating a solution to a problem which does not exist. New labels, new names, they are all organic items, this is ridiculous and should be abandoned. The present regulations should be followed, then we shall consider expanding responsibilities.

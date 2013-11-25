@@ -1,0 +1,14 @@
+received date = 12/31/1997
+name = Janson MD..., Michael
+company = 
+state = NH
+zip = 03048
+country = United States
+category = Scientist/Veterinarian
+topic = General
+file = w0000665.txt
+comment = I think it would be an outrage against freedom of choice to limit organic standards to those of federal government agencies if there are other certifying bodies whose standards are more strict, and those other bodies are not permitted to certify foods as meeting stricter standards than the USDA standards.
+
+I want no synthetics used in the processing of my foods and those of my patients who choose to eat organic foods, and also no genetically engineered foods without being labelled as such, and no sludge-fertilized foods without being labelled as such.
+
+Healthy diets depend on fully informed choice, and if consumers cannot learn from labels exactly how their foods are produced and processed then they cannot make informed choices. It is "Newspeak" to claim that there is only one standard, when there are others standards that are suppressed strictly because of regulations protecting big-business farming.

@@ -1,0 +1,12 @@
+received date = 01/07/1998
+name = Grosswald, Sarina
+company = SJ Grosswald & Associates
+state = VA
+zip = 22304
+country = United States
+category = Consumer
+topic = Labeling
+section = 205.100, 205.101, 205.102, 205.103, 205.105
+file = w0000800.txt
+comment = All foods labeled organic should not include genetically engineered organisms, irradiated foods, or foods fertilized with sewage sludge. If these foods are included in the organic standards, labeling identifying GMOs should be required, and manufactures and growers should be able to label their products and GMO-free.
+Thank you.

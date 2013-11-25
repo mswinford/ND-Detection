@@ -1,0 +1,22 @@
+received date = 12/17/1997
+name = Lively, David
+company = New Englan Milk Producers Association
+state = VT
+zip = 05201
+country = United States
+category = Other
+topic = Fees
+file = w0000131.txt
+comment = The following is copied from the text in "Fees":
+Under the fee for direct services provisions, labor hours, travel and per diem costs
+for the site inspection required for accreditation would be included in the variable fee for
+direct services. This practice is used by other USDA agencies that conduct inspection
+programs. The AMS estimates the average cost to conduct each accreditation site visit to
+be $3,500 per visit. The frequency of site-evaluations for each certifying agent could be
+expected to decrease as the operator becomes more familiar with the program regulations. 
+
+Is the $3,500/per visit fee for an individual farm, regardless of it's size? And will the farmer be expected to pay State fee in addition?
+
+Dave Lively
+ 
+

@@ -1,0 +1,14 @@
+received date = 01/02/1998
+name = Beisner, Katharine
+company = South Austin Community Gardens
+state = TX
+zip = 78704
+country = United States
+category = Consumer
+topic = Crops
+section = 205.7
+file = w0000685.txt
+comment = Use of municipal sewage sludge as organic fertilizer should be banned.
+Quite aside from the human waste issue, organic accreditation boards have
+decried sewage as contaminated with heavy metals such as cadmium and lead,
+which are readily absorbed by many crops.

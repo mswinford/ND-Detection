@@ -1,0 +1,11 @@
+received date = 01/09/1998
+name = Kinne, Pete
+company = Bloomingfoods Market & Deli
+state = IN
+zip = 47401
+country = United States
+category = Broker/Distributor/Retailer
+topic = Labeling
+section = 205.103, 205.104
+file = w0000930.txt
+comment = I believe it is un-American to pass legislation that prohibits statements about product growth/development that are factual and informative, solely on the basis that their level of prcision reflects poorly on other products that are similar but of lesser or lower levels of manufacturer's involvement. What can you possibly be thinking? There are minimum safety standards for automobiles sold in the U.S. but there is no prohibition on stating that a certain vehicle exceeds those standards. We call that effective marketing that happens to benefit the consumer by raising the bar on consumer expectations.

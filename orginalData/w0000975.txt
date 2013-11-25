@@ -1,0 +1,12 @@
+received date = 01/11/1998
+name = Cammack, Cynthia
+company = 
+state = TX
+zip = 78201
+country = United States
+category = Consumer
+topic = General
+file = w0000975.txt
+comment = While I am glad to see that organic products have a big enough piece of the market to warrant the concern of the USDA and major agribusiness lobbyists, I am concerned about the quality of products that may result.
+	Consumers who go to the trouble and expense of buying organic food work hard to educate themselves about food production and processes. They know what they don't like! A label of "organic" on a product that may have been irradiated, genetically engineered, treated with antibiotics or fed with diseased meat products, or poisoned by the pollutants found in sewage sludge will be ignored by the very consumers that label is designed to attract. People who grow and process foods those consumers consider truly organic will label their foods in more detail, and shoppers will educate themselves without help from the government and seek those foods out--as we do now.
+	We already have an organic foods industry that has to be closely scrutinized by the consumer. If you certify and regulate that industry with standards that permit the practices above, we'll be in the same position--only it will cost us even more. We'll be forced to support with our tax dollars the huge costs of enforcing regulations that do us no good.

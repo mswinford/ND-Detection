@@ -1,0 +1,14 @@
+received date = 12/18/1997
+name = Specktor, Denyse
+company = 
+state = CA
+zip = 90073
+country = United States
+category = Consumer
+topic = General
+file = w0000271.txt
+comment = Please consider the effectiveness of the existing CALIFORNIA ORGANIC certification. Do NOT allow the following changes
+1.Allowing irradiated produce
+2.Sludge growing medium
+3.Genetically engineeered produce
+thank you

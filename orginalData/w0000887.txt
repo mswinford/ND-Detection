@@ -1,0 +1,11 @@
+received date = 01/08/1998
+name = sherwood, barbara
+company = private citizen
+state = VA
+zip = 22747
+country = United States
+category = Consumer
+topic = Definitions
+section = 205.2
+file = w0000887.txt
+comment = As a private citizen I would not consider Organic food to have anything to do with genetic engineering OR irradiation. I also feel strongly that the use of sludge for any food items is absolutely dangerous considering possible heavy metal content in the sludge material. Until our technology AND our integrity meet I wuld have great doubt and concern that this could not be misused with greed in mind. Organic farming is to be for the benefit of all, the earth included. Let's keep it clean and free of greed factors. Let the word organic be a synonym for integrity.

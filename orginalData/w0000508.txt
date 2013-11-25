@@ -1,0 +1,10 @@
+received date = 12/23/1997
+name = Rowe, Kenneth
+company = 
+state = MD
+zip = 21716
+country = United States
+category = Consumer
+topic = General
+file = w0000508.txt
+comment = All genetically engineered organisms must be excluded from organic foods, and all steps in organic production. Otherwise, the organic label will be meaningless.

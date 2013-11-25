@@ -1,0 +1,12 @@
+received date = 12/30/1997
+name = Norman, Bob
+company = Trans Acton Natural
+state = VT
+zip = 05301
+country = United States
+category = Broker/Distributor/Retailer
+topic = General
+file = w0000626.txt
+comment = I am in strong support of the USDA creating national standards for certification of organic foods. I feel even more strongly that the definition of organic foods should eliminate the inclusion of those products which contain genetically engineered components and those which have been subjected to irradiation. As a consumer who has gone out of my way for 25 years to obtain organic and natural foods, I believe that the standards which the USDA sets now must not "dilute" the meaning of the term "organic" by including less-than-natural production or handling techniques.
+
+Thank you.

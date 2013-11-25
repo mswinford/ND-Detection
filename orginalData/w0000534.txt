@@ -1,0 +1,14 @@
+received date = 12/24/1997
+name = Miller, Dick
+company = Miller Consulting
+state = CA
+zip = 91364
+country = United States
+category = Consumer
+topic = General
+file = w0000534.txt
+comment = Strongly oppose uses of radiation and sewage 'fertilizer' for food production and preparation. We get enough toxic material in our foods and environment already w/o putting it in our food sources. 
+
+If 'organic' is to mean anything, these products must be excluded.
+
+Recommend you stop trying to find uses for industrial and nuclear garbage in our food supplies.

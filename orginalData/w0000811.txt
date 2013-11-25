@@ -1,0 +1,12 @@
+received date = 01/07/1998
+name = Smulders, Michael
+company = Garden of Light Inc.
+state = CT
+zip = 06033
+country = United States
+category = Retailer
+topic = General
+file = w0000811.txt
+comment = As President and General manager of a retail natural foods market I would like to strongly urge USDA to forbid genetically engineered foods, irradiated foods and foods grown with sludge based fertilizers from carrying an organic cretification. Many of our customers agree with this.
+
+Thank you

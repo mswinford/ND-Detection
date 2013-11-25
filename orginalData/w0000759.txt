@@ -1,0 +1,14 @@
+received date = 01/05/1998
+name = Mansour, Bill
+company = Dept Horticulture Oregon State University ALS 4017777
+state = OR
+zip = 97333
+country = United States
+category = College/University
+topic = General
+file = w0000759.txt
+comment = Allowance of 5% of the allowed EPA tolerance of ANY pesticide in certified products (in the event of "unavoidable residual environmental contamination") is contrary to the public's expectations. 
+
+There is no mention of how such "unavoidable... contamination" is to be documented by the producer. 
+
+Most conventionally produced foods (about 90%) are within 10% of EPA tolerance of allowed pesticides, and at least 50% have no detectable residues at all. Allowing the 5% mentioned seems much too lenient for something that is supposed to be "CERTIFIED" organic, and misleads the consumer.

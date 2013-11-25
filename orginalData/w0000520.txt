@@ -1,0 +1,10 @@
+received date = 12/23/1997
+name = Smith, Tina
+company = Citizens for Health
+state = TX
+zip = 79424
+country = United States
+category = College/University
+topic = General
+file = w0000520.txt
+comment = Irradiated and genetically engineered foods should not be considered or labeled as "organic" products.

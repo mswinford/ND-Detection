@@ -1,0 +1,24 @@
+received date = 12/20/1997
+name = Kleinschnitz, Kurt
+company = 
+state = PA
+zip = 19103
+country = United States
+category = Consumer
+topic = Crops
+section = 205.8
+file = w0000400.txt
+comment = Dear Sirs,
+
+My wife and I most strongly object to the inclusion of genetically engineered organisms in the definition of organic food.
+
+Genetically engineered organisms are in no way natural. Genetically engineered organisms have a transfer of DNA from other organisms that could not possibly occur naturally. The effect of the interjection of this DNA is completely unknown--it could easily produce products that interfere in subtle processes in our bodies, or in their environment. We buy organic food precisely to avoid this specific risk, as well as other well-known risks due to pesticides. I am a researcher myself, and have a Ph.D. in physics, and I thoroughly understand where science stands in its exploration of genetic engineering. I believe the potential is there to destroy human life, and possibly the best part of all life as we know it through inadvertant changes in the gene plasms. I personally know of many documented examples where genetically engineered products have produced damage to their environment. 
+
+I believe it is far too soon to permit genetically engineered food products onto the grocery shelves. Scientists must admit that we currently understand only a tiny fraction of how the human physiology works--and to permit the consumption of these altered substances runs a great risk to our society and all humanity. If these products are to be on the shelves, I believe companies should have proper insurance. I also believe that these products should be clearly labeled so that consumers can decide for themselves. They should definitely not be approved for inclusion in organic foods.
+
+Thank you,
+
+Kurt Kleinschnitz, Ph.D.
+215 732-8464
+234 South 22nd
+Philadelphia, PA 19103

@@ -1,0 +1,10 @@
+received date = 12/19/1997
+name = Baltimore, Diane
+company = 
+state = CT
+zip = 06611
+country = United States
+category = Consumer
+topic = General
+file = w0000328.txt
+comment = Dear Sir/Madam, Thank you for your work in proposing reguatlions for organic foods. However, I am most concerened that 1) IRRADIATION OF ORGANICALLY GORWN FOODS SHOULD NOT BE ALLOWED, 2) THERE SHOULD BE NO INCLUSION OF GENETICALLY ALTERED FOODS AS PART OF THE ORGANIC DEFINITION, AND 3) THERE SHOULD NO USE OF BIO-SOLIDS (SLUDGE) IN THE CULTIVATION OF ORGANIC FOODS. Thank you,, D Baltimore

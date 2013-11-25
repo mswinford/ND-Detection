@@ -1,0 +1,12 @@
+received date = 12/17/1997
+name = Phelps, Mark
+company = Natural Law Party of Indiana
+state = IN
+zip = 46205
+country = United States
+category = Broker/Distributor/Retailer, Chemical Manufacturer, College/University, Congressional, Consumer, Crop Producer, Economist, Environmentalist Advocacy Group, Exporter, Federal Government Agency, Foreign Government Representative, Foreign Organic Program Representative, Handler/Processor/Manufacturer, Industry/Trade Association, Livestock Producer, Press, Public Interest Group, Scientist/Veterinarian, State Government Official, Wild Crop Harvester
+topic = Crops
+section = 205.5, 205.6, 205.7, 205.8, 205.9, 205.11
+file = w0000200.txt
+comment = 
+I do not want genetically engineered food on the market in any form until it is tested with the best scientific methods available in long term studies. I don’t want genetically engineered seeds to be considered organic because their not. I specifically want any vegetable or fruit or nut or grain or fiber crop that is altered in any way to be labeled.

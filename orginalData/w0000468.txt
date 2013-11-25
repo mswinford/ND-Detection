@@ -1,0 +1,11 @@
+received date = 12/22/1997
+name = Moseley, Terry
+company = 
+state = WA
+zip = 98272
+country = United States
+category = Consumer
+topic = National List
+file = w0000468.txt
+comment = Please do not allow genetically engineered food products to be used in organic production. I request that all genetically engineered foods be labeled as such so that I may have an informed choice.
+

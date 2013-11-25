@@ -1,0 +1,10 @@
+received date = 12/20/1997
+name = Boles, Marybeth
+company = 
+state = SD
+zip = 57501
+country = United States
+category = Consumer
+topic = Labeling
+file = w0000398.txt
+comment = As a consumer I feel that I should have the right to know when something has been genetically engineered. In no way, shape or form should anything genetically engineered be considered "organic" - it has been altered from it's natural state and the long term negative effects of this may not yet be known.

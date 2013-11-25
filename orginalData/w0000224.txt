@@ -1,0 +1,10 @@
+received date = 12/18/1997
+name = Bowdish, John
+company = Farmer Santa Barbara Certified Farmers Market Associationnn
+state = CA
+zip = 93105
+country = United States
+category = Crop Producer
+topic = Regulatory Flexibility
+file = w0000224.txt
+comment = Producers' sales at Farmers' Markets should not be included in the $5,000 limit for certification requirement. We have sold primarily at Farmers' Markets for fourteen years. All our crops are grown organically. We keep records of our inputs and we do not use any prohibited substances. We do not advertise our produce as being organic. Occasionaly a customer asks if our produce is grown organically. We find ourselves in the position of having to break the law to tell the truth. It would cost us between $500 and $1,000 dollars a year to become certified. I feel that your committee needs to give more consideration to small farmers.

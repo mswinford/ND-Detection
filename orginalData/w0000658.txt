@@ -1,0 +1,11 @@
+received date = 12/31/1997
+name = Curry, Susan
+company = individual
+state = PA
+zip = 19010
+country = United States
+category = Consumer
+topic = National List
+section = 205.26
+file = w0000658.txt
+comment = I do not agree with including wood rosin as an allowed additive.

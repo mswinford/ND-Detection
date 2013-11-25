@@ -1,0 +1,12 @@
+received date = 12/16/1997
+name = White, Douglas
+company = Immunex Corp.
+state = WA
+zip = 98107
+country = United States
+category = Consumer
+topic = General
+file = w0000093.txt
+comment = As a consumer of organic foods I would like to register my distress as to the possible inclusion of bioenginered, irradiated and sludge grown foods to be labeled as "organic." These are the very types of foods I'm trying to avoid by buying organic. The thought that foods grown/prepared in these ways could be labeled organic horrifies and sickens me. It goes against everythig that the "organic" label stands for. Please, don't let this happen. Thank you.
+
+Douglas A. White

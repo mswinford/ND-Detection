@@ -1,0 +1,10 @@
+received date = 12/16/1997
+name = Currah, Paisley
+company = 
+state = NY
+zip = 11210
+country = United States
+category = Consumer
+topic = Definitions
+file = w0000079.txt
+comment = Please don't let "organic" apply to foods that have been irradiated or grown with "sludge."

@@ -1,0 +1,14 @@
+received date = 12/16/1997
+name = Wilder, David
+company = Whole Foods Market - San Antonio TX - Marketing Director
+state = TX
+zip = 78209
+country = United States
+category = Retailer
+topic = General
+file = w0000119.txt
+comment = As a marketer for a large "health foods" store I feel that I have some insight to the public's expectations of organic standards. It is my opinion that any inclusion of bio-engineered foodstuffs would make a mockery of the spirit organic production and only serve to confuse the consumer. 
+
+I don't see how we can keep these products out of the market, but I don't feel we should hide them behind an organic label. In fact, I feel ALL bio-engineered foods should be labeled as such so that the consumer may make an informed purchasing decision. Inclusion of these products in the organic standard will only serve to confuse the public that is currently looking to you to alleviate the confusion about what foods they are really eating. 
+
+If you include bio-engineered foods in the organic standard, the industry will be forced to create new third party agencies to certify foods as not being bio-engineered - back to space one again.

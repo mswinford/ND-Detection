@@ -1,0 +1,21 @@
+received date = 12/19/1997
+name = Roush, Rick
+company = private
+state = 
+zip = 
+country = Australia
+category = Scientist/Veterinarian
+topic = National List
+section = 205.21
+file = w0000287.txt
+comment = I write as an US citizen living abroad and a vigorous supporter of some transgenic crops. 
+
+In spite of my support for transgenic crops, I don't think that transgenic crops should be labeled as "organic". To their supporters, "organic" means something different than "pesticide free" or "produced under IPM". (Given the hazards of organic pesticides and aflatoxins from uncontrolled fungal diseases, organics may even be less safe than genetically engineered food or crops produced under IPM.) 
+
+However, "organic" has a philosophical or even religious connotation, and I think we must respect that and allow devotees of "organic" food their own label. So long as disallowing transgenics from an organic label is done in a way that clearly indicates that there are no known health risks associated with transgenics, I support those who want to distinguish transgenics from organics.
+
+Rick Roush
+Title and address given for identification only (does not necessarily reflect the views of my employer):
+Associate Professor of Crop Protection, University of Adelaide
+
+

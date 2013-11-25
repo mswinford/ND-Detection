@@ -1,0 +1,22 @@
+received date = 12/27/1997
+name = DiMaio, Donna
+company = The Pine-Corn Farm
+state = NY
+zip = 14750
+country = United States
+category = Crop Producer
+topic = General
+file = w0000565.txt
+comment = As a producer and consumer of organic foods, I would like to advise you of my concerns around the proposed rulings.
+
+- You state under "Crop Standards" that the use of botanical pesticides and certain other substances may be used when preventive parctices are not effective. This leaves the door wide open to continued chemical use.
+- The posibility that bioenginered, irradiated, and sludge grown foods may be labled "organic" is allowing the very things we are trying to avoid to be used.
+- The general inclusion of synthetic substances in organic farming and handling are diviations from the original Congressional Act.
+- The proposal allows for residue testing instead of the prohibition of synthetic substances.
+
+There are many other parts of this proposed bill that go across the lines of genuine organic practices. This proposal will not serve the American public who is looking for safe produce, but will also harm our overseas markets. The USA should and could be the leader in producing rules that will insure safe foods for all today and generations to come.
+
+Sincerely.
+Donna DiMaio
+The Pine-Corn Farm 
+

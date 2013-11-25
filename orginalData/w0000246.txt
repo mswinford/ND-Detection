@@ -1,0 +1,15 @@
+received date = 12/18/1997
+name = Runquist, Mark
+company = High HopesGardens
+state = IA
+zip = 50162
+country = United States
+category = Consumer, Crop Producer
+topic = National List
+section = 205.21
+file = w0000246.txt
+comment = The use of seed sources that have been gentically altered should be added to the prohibited list for two major reasons.
+
+It will lead to confusion on the part of consumers as the European community has mandated products to be labeled as such. Other organizations will have to deal with this if USDA doesn't, meaning even more conflicting agencies and regs, much like the new standards have meant to help alleviate.
+
+From a scientific/health perspective, I don't believe we have the track record to know what and how these agents act in crops; certainly, consumers would associate insertion of genes from other plants or animals as "organic."

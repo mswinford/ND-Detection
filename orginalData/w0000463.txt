@@ -1,0 +1,19 @@
+received date = 12/22/1997
+name = gratzon, fred
+company = telegroup
+state = IA
+zip = 52556
+country = United States
+category = Consumer
+topic = National List
+section = 205.21, 205.23, 205.25, 205.28
+file = w0000463.txt
+comment = Please do not allow genetically engineered seeds or any other aspect 
+of genetic engineering to be used in organic production. Because 
+genetically engineered foods have not been tested for their long-term 
+effects on human health, on animals, or on the environment, I do not 
+want to consume them. I would like to see all genetically engineered 
+foods labeled as such so that I can choose not to consume them in any 
+form.
+
+In addition, consuming some genetic substances used in genetic engineering go against my religious beliefs. I need to know for sure if my food is not genetically engineered. Currently organic means food not containing genetically engineered ingredients.

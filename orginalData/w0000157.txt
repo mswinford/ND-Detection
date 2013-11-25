@@ -1,0 +1,10 @@
+received date = 12/17/1997
+name = Butterfield, Blair
+company = 
+state = HI
+zip = 96753
+country = United States
+category = Consumer
+topic = General
+file = w0000157.txt
+comment = As a consumer who has been following the debate on genetically engineered organisms (GEOs) with respect to the proposed rule on production of organic foods, I believe the guiding principle should be "safety first." Simply put, "if in doubt, leave it out". There is still more than ample room for doubt as to whether GEO's introduce negative risk factors either for the health of the consumer or for the environment. Therefore, I am opposed to permitting GEO's in any form to be labeled as organic foods.

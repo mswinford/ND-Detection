@@ -1,0 +1,10 @@
+received date = 01/12/1998
+name = Rawling, Geoffrey
+company = none
+state = NM
+zip = 87801
+country = United States
+category = Consumer
+topic = General
+file = w0000986.txt
+comment = Overall, I am very pleased with the proposed rules. It can only spur the growth of this industry and return us to a safe, non-destructive form of food production. My main comment is that any and all genetically altered food products, animal or vegetable, should not be labeled organic. Genetic alteration flies in the face of the organic ideal, which is food production in harmony with nature. Allowing genetically altered foods to be labeled as organic defeats the whole purpose of the national standards. Surely genetic manipulation is "extraneous synthetic...processing"!
