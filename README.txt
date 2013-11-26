@@ -1,17 +1,13 @@
-This file contains information on how the programs works.
+How to run:
 
-To run everything you first have to put lemur-light into the directory and configure it. This is left out of our submission because the size is to big. Ince the lemur toolkit is set up, simply type "make" into the command line.
+First you will have to move a copy of the lemur-light directory into the ND-Detection directory. Once thats done replace the "eval_data" directory in lemur-light with the "eval_data" directory we provided. 
 
-main.cpp: (Zhiyuan Zheng and Michael Swinford)
-This program starts by separating the comments and there metadata into separate files. Then it hashes each comment and sorts them to make it faster to find duplicates. After that is done it generates three files: "stats.txt", "fileset.txt", and "seeds.txt".
- 
-"stats.txt" stores three bits of information: the number of files originally, the number of files after exact duplicates are removed, and the number of files with more than five exact duplicates.
+then run the following two commands from inside the "ND-Detection" directory:
+make
+./ND-Detector.sh
 
-"fileset.txt" stores a list of all the files with the exact duplicates removed. For exact duplicates, we keep the file with the earliest date in its metadata.
+The second command may need to be run more than once because our random sampling can result in a dataset with no exact duplicates.
 
-"seeds.txt" stores a list of the seed documents that had five or more exact duplicates. The threshold for the number of duplicates can be changed.
+You can also change the number of files to randomly sample by altering the "ND-Detector.sh" script. In the script change the first argument passed to "./RandomSampling.sh".
 
-QueryFile.java: (Zhe Cao)
-This program takes in the names of an input file and an output file. The input file contains a list of files that should be used to create a document that can be passed into the lemur toolkit. The output file is simply the name the user wants for the output file. This program is run twice: once to create a document with all of the files that we will be querying, and another time to create a file containing the seed documents which we will use to make queries.
-
-After we have these two docs we use lemur to parse queries and use the resulting queries to group the documents by Okapi score.
+To clean up the files that are output by our program run "make clean" command.
