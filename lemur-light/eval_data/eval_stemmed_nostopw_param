@@ -2,7 +2,7 @@
 <index>data_stemmed_nostopw_index.ifp</index>
 <query>final_query</query>
 <weightScheme>Okapi</weightScheme>
-<result>result_okapi_stemmed_nostopw</result>
-<resultCount>100</resultCount>
-<threshold>1.0</threshold>
+<result>result_stemmed_nostopw</result>
+<resultCount>200</resultCount>
+<threshold>0.8</threshold>
 </parameters>

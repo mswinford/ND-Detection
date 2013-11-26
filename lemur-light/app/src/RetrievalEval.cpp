@@ -32,7 +32,12 @@ Please refor to the namespace LocalParameter for setting the parameters within t
 #include <math.h>   
 #include <Index.hpp>
 
+
+
 using namespace lemur::api;
+
+double** docsArrs;
+int numberOfTermsInQuery; 
 
 namespace LocalParameter{
   std::string databaseIndex; // the index of the documents
@@ -58,96 +63,6 @@ void GetAppParam()
   LocalParameter::get();
 }
 
-// compute the weight of a matched term
-double computeRawTFWeight(int docID,
-		     int termID, 
-		     int docTermFreq, 
-		     double qryTermWeight,
-		     Index *ind)
-{
-  //implementation of raw TF weighting scheme
-  return docTermFreq*qryTermWeight;
-}
-
-
-// compute the weight of a matched term
-double computeRawTFIDFWeight(int docID,
-		     int termID, 
-		     int docTermFreq, 
-		     double qryTermWeight,
-		     Index *ind)
-{
-  /*!!!!! Implement raw TF and IDF weighting scheme !!!!!*/
-
-COUNT_T totalNumDocs = ind->docCount();
-COUNT_T numDocsContain = ind->docCount(termID);
-return docTermFreq*(log(totalNumDocs/(numDocsContain+1)))*qryTermWeight;
-}
-
-
-// compute the weight of a matched term
-double computeLogTFIDFWeight(int docID,
-		     int termID, 
-		     int docTermFreq, 
-		     double qryTermWeight,
-		     Index *ind)
-{
-  /*!!!!! Implement log TF and IDF weighting scheme !!!!!*/
-COUNT_T totalNumDocs = ind->docCount();
-COUNT_T numDocsContain = ind->docCount(termID);
-return log(docTermFreq)*(log(totalNumDocs/(numDocsContain+1)))*qryTermWeight;
-}
-
-// compute the weight of a matched term
-double computeOkapiWeight(int docID,
-		     int termID, 
-		     int docTermFreq, 
-		     double qryTermWeight,
-		     Index *ind)
-{
-  /*!!!!! Implement Okapi weighting scheme !!!!!*/
-COUNT_T totalNumDocs = ind->docCount();
-COUNT_T numDocsContain = ind->docCount(termID);
-float avgDocLen = ind->docLengthAvg ();
-COUNT_T lenD = ind->docLength (docID);
-return (docTermFreq/(docTermFreq+0.5+1.5*(lenD/avgDocLen)))*(log((totalNumDocs-numDocsContain+0.5)/(numDocsContain+0.5)))*((8+qryTermWeight)/(7+qryTermWeight));
-}
-
-
-double computeCustomWeight(int docID,
-		     int termID, 
-		     int docTermFreq, 
-		     double qryTermWeight,
-		     Index *ind)
-{
-  /*!!!!! Implement customized weighting scheme !!!!!*/  
-COUNT_T totalNumTerms = ind->termCount();
-COUNT_T numTermsContain = ind->termCount(termID);
-return docTermFreq*(log(numTermsContain/(totalNumTerms)))*(log(numTermsContain/(totalNumTerms)))*qryTermWeight;
-}
-
-
-
-// compute the adjusted score
-double computeAdjustedScore(double origScore, // the score from the accumulator
-			    int docID, // doc ID
-			    Index *ind) // index
-{
-  //Do nothing now
-  return origScore;
-}
-
-
-// compute the adjusted score
-double computeCustomAdjustedScore(double origScore, // the score from the accumulator
-			    int docID, // doc ID
-			    Index *ind) // index
-{
-  /*!!!!! Implement customized method for adjusting score !!!!!*/
-  return origScore;
-}
-
-
 void ComputeQryArr(Document *qryDoc, double *qryArr, Index *ind){
   //compute the array representation of query; it is the frequency representation for the original query 
   for (int t=1; t<=ind->termCountUnique(); t++) {
@@ -162,103 +77,77 @@ void ComputeQryArr(Document *qryDoc, double *qryArr, Index *ind){
   }
 }
 
+// Compute the vector representation of each document in dataset
+void ComputeDocArrs(Index *ind){
+    // Compute the array representations of all documents in index;
+    
+    docsArrs = new double*[ind->docCount()+1];
+    for(int i=1; i<=ind->docCount();i++){
+        docsArrs[i] = new double[ind->termCountUnique()+1];
 
+        for (int t=1; t<=ind->termCountUnique(); t++){
+            docsArrs[i][t]=0;
+        }
+    }
+    
+    
+    for (int docID = 1; docID <= ind->docCount(); docID++) {
+       // The function call document(docID) returns the string form of the ID.
+
+      
+       // now fetch term info list for each document, this creates an
+       // instance of TermInfoList, which needs to be deleted later! 
+       TermInfoList *termList = ind->termInfoList(docID);
+       
+       // iterate over entries in termList, i.e., all words in the document
+       termList->startIteration();   
+       TermInfo *tEntry;
+       while (termList->hasMore()) {
+          tEntry = termList->nextEntry(); 
+         
+          docsArrs[docID][tEntry->termID()] = tEntry->count();
+       }
+       delete termList; // don't forget to delete termList!
+    }
+
+}
+
+
+// Return the cosine similarity value of arrays a and b.
+double CosSimilarity(double *aArr, double *bArr, Index *ind){
+    
+    double sum = 0;
+    double aMag = 0; 
+    double bMag = 0;
+
+    for(int i=1; i<=ind->termCountUnique();i++){
+        sum = sum + aArr[i]*bArr[i];
+        aMag = aMag + aArr[i]*aArr[i];
+        bMag = bMag + bArr[i]*bArr[i];
+
+    }
+    aMag = sqrt(aMag);
+    bMag = sqrt(bMag);
+    
+    return sum / aMag / bMag;
+   
+}
 
 void Retrieval(double *qryArr, IndexedRealVector &results, Index *ind){
   //retrieve documents with respect to the array representation of the query
 
-  lemur::retrieval::ArrayAccumulator scoreAccumulator(ind->docCount());
+    lemur::retrieval::ArrayAccumulator scoreAccumulator(ind->docCount());
 
-  scoreAccumulator.reset();
-  for (int t=1; t<=ind->termCountUnique();t++) {
-    if (qryArr[t]>0) {      
-      // fetch inverted entries for a specific query term
-      DocInfoList *docList = ind->docInfoList(t);
+  //  scoreAaccumulator.reset();
 
-      // iterate over all individual documents 
-      docList->startIteration();
-      while (docList->hasMore()) {
-	DocInfo *matchInfo = docList->nextEntry();
-	// for each matched term, calculated the evidence
-
-	double wt;
-
-	if (strcmp(LocalParameter::weightScheme.c_str(),"RawTF")==0) {
-	  wt = computeRawTFWeight(matchInfo->docID(),  // doc ID
-				  t, // term ID
-				  matchInfo->termCount(), // freq of term t in this doc
-				  qryArr[t], // freq of term t in the query
-				  ind);	  
-	}else if (strcmp(LocalParameter::weightScheme.c_str(),"RawTFIDF")==0) {
-	  wt = computeRawTFIDFWeight(matchInfo->docID(),  // doc ID
-				  t, // term ID
-				  matchInfo->termCount(), // freq of term t in this doc
-				  qryArr[t], // freq of term t in the query
-				  ind);	  
-	}else if (strcmp(LocalParameter::weightScheme.c_str(),"LogTFIDF")==0) {
-	  wt = computeLogTFIDFWeight(matchInfo->docID(),  // doc ID
-				  t, // term ID
-				  matchInfo->termCount(), // freq of term t in this doc
-				  qryArr[t], // freq of term t in the query
-				  ind);	  
-	}else if (strcmp(LocalParameter::weightScheme.c_str(),"Okapi")==0) {
-	  wt = computeOkapiWeight(matchInfo->docID(),  // doc ID
-				  t, // term ID
-				  matchInfo->termCount(), // freq of term t in this doc
-				  qryArr[t], // freq of term t in the query
-				  ind);	  
-	}else if (strcmp(LocalParameter::weightScheme.c_str(),"Custom")==0){
-	  wt = computeCustomWeight(matchInfo->docID(),  // doc ID
-				  t, // term ID
-				  matchInfo->termCount(), // freq of term t in this doc
-				  qryArr[t], // freq of term t in the query
-				  ind);	  
-	}else{
-	  cerr<<"The weighting scheme of "<<LocalParameter::weightScheme.c_str()<<" is not supported"<<endl;
-          exit(1);
-	}
+    for(int d = 1; d<=ind->docCount();d++){
         
-        scoreAccumulator.incScore(matchInfo->docID(),wt);
+        double wt = CosSimilarity(qryArr, docsArrs[d], ind);
+        // scoreAccumulator.incScore(d,wt);
 
-      }
-      delete docList;
-    }
-  }
-
-  // Adjust the scores for the documents when it is necessary
-  double s;
-  int d;
-  for (d=1; d<=ind->docCount(); d++) {
-    if (scoreAccumulator.findScore(d,s)) {
-    } else {
-      s=0;
+        results.PushValue(d,wt);
     }
 
-    if (strcmp(LocalParameter::weightScheme.c_str(),"RawTF")==0) {
-      results.PushValue(d, computeAdjustedScore(s, // the score from the accumulator
-						d, // doc ID
-						ind)); // index
-    }else if (strcmp(LocalParameter::weightScheme.c_str(),"RawTFIDF")==0) {
-      results.PushValue(d, computeAdjustedScore(s, // the score from the accumulator
-						d, // doc ID
-						ind)); // index
-    }else if (strcmp(LocalParameter::weightScheme.c_str(),"LogTFIDF")==0) {
-      results.PushValue(d, computeAdjustedScore(s, // the score from the accumulator
-						d, // doc ID
-						ind)); // index
-    }else if (strcmp(LocalParameter::weightScheme.c_str(),"Okapi")==0) {
-      results.PushValue(d, computeAdjustedScore(s, // the score from the accumulator
-						d, // doc ID
-						ind)); // index
-    }else if (strcmp(LocalParameter::weightScheme.c_str(),"Custom")==0){
-      results.PushValue(d, computeCustomAdjustedScore(s, // the score from the accumulator
-						      d, // doc ID
-					      ind)); // index     
-    }else{
-      cerr<<"The weighting scheme of "<<LocalParameter::weightScheme.c_str()<<" is not supported"<<endl;
-      exit(1);
-    }
-  }
 }
 
 
@@ -304,6 +193,8 @@ int AppMain(int argc, char *argv[]) {
 
     double *queryArr = new double[ind->termCountUnique()+1];  //the array that contains the weights of query terms; for orignial query 
     ComputeQryArr(qryDoc,queryArr, ind); 
+    
+    ComputeDocArrs(ind); 
 
     IndexedRealVector results(ind->docCount());
     results.clear();

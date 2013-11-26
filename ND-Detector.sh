@@ -25,5 +25,5 @@ echo "Trying to generate ND-cluster"
 
 echo "Trying to copy retrieval result to current folder"
 
-cp $DATAPATH/result_okapi_stemmed_nostopw ND-Cluster.txt
+cp $DATAPATH/result_stemmed_nostopw ND-Cluster.txt
 
