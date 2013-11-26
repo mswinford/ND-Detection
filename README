@@ -1,0 +1,17 @@
+Authors: Zhiyuan Zheng, Zhe Cao, Michael Swinford
+
+This is a program for Near Duplicates detection. It will cluster the files saved in folder "originalData" into serveral ND clusters. 
+The clustering result is saved as "ND-Cluster.txt"
+
+How to run:
+
+Type the following commands from inside the "ND-Detection" directory:
+make clean
+make
+./ND-Detector.sh
+
+The third command may need to be run more than once if an error occurs. This is because our random sampling can result in a dataset with no exact duplicates, which means there is no seed docoment for our clustering algorithm. 
+
+You can also change the number of files to randomly sample by altering the value of "SAMPLESIZE" in "ND-Detector.sh" script.
+
+To clean up the files that are output by our program run "make clean" command.

@@ -1,13 +1,14 @@
 #!/bin/bash
 
+SAMPLESIZE=1000
 DATAPATH=lemur-light/eval_data
 
 mkdir data
 mkdir data/comments
 mkdir data/comments
 	
-echo "Trying to generate a random sample of 100 comments"
-./RandomSampling.sh 100 originalData data
+echo "Trying to generate a random sample of $SAMPLESIZE comments"
+./RandomSampling.sh $SAMPLESIZE originalData data
 	
 echo "Trying to generate dataset and a list of seed documents"
 ./main

@@ -5,7 +5,8 @@ CFLAGS = -O2 -g
 all: main
 
 clean:
-	rm main *.o *.class
+	rm -f main *.o *.class 
+	rm -f  *.txt
 
 main:	main.o sha1.o QueryFile.java
 	$(CC) $(CFLAGS) -o main main.o sha1.o	
