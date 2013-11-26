@@ -5,7 +5,7 @@ DATAPATH=lemur-light/eval_data
 
 mkdir data
 mkdir data/comments
-mkdir data/comments
+mkdir data/metadata
 	
 echo "Trying to generate a random sample of $SAMPLESIZE comments"
 ./RandomSampling.sh $SAMPLESIZE originalData data

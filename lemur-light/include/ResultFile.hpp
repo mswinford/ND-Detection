@@ -68,7 +68,7 @@ namespace lemur
 
       /// writing the results (stored in <tt> results</tt>) into the associated output stream, up to a maximum count.
 
-      void writeResults(const string& queryID, IndexedRealVector *results, int maxCountOfResult);
+      void writeResults(const string& queryID, IndexedRealVector *results, double threshold);
   
     private:
 

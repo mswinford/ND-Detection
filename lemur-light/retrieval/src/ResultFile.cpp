@@ -97,33 +97,29 @@ void lemur::api::ResultFile::getResult(const string& expectedQID, IndexedRealVec
   } while (curQID == expectedQID);
 }
 
-void lemur::api::ResultFile::writeResults(const string& queryID, IndexedRealVector *results, int maxCountOfResult)
+void lemur::api::ResultFile::writeResults(const string& queryID, IndexedRealVector *results, double threshold)
 {
   IndexedRealVector::iterator j;
   int count=0;
   for (j= results->begin();j!=results->end();j++) {
-    if (count >= maxCountOfResult) {
-      break;
-    }
-    else {
-        
-        if(trecFmt){
-            if((*j).val==0)
-                break;
-        }
-            count++;
+
+
+      if(trecFmt){
+          if((*j).val<=threshold)
+              break;
+      }
+      count++;
       *outStr << queryID;
       if (trecFmt)
-        *outStr << " Q0";
+          *outStr << " Q0";
       *outStr << " "  << ind->document((*j).ind) << " " ;
       if (trecFmt)
-        *outStr << count << " ";
+          *outStr << count << " ";
       *outStr << (*j).val;
       if (trecFmt)
-        *outStr << " Exp";
+          *outStr << " Exp";
       //      *outStr << endl; //flushes buffer each call.
       *outStr << "\n";
-    }
   }  
   outStr->flush();
 }

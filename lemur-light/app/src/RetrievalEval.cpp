@@ -217,9 +217,9 @@ void Retrieval(double *qryArr, IndexedRealVector &results, Index *ind){
 	  cerr<<"The weighting scheme of "<<LocalParameter::weightScheme.c_str()<<" is not supported"<<endl;
           exit(1);
 	}
-        if(wt>=LocalParameter::threshold){
-	    scoreAccumulator.incScore(matchInfo->docID(),wt);
-        }
+        
+        scoreAccumulator.incScore(matchInfo->docID(),wt);
+
       }
       delete docList;
     }
@@ -311,7 +311,7 @@ int AppMain(int argc, char *argv[]) {
     Retrieval(queryArr,results,ind);
 
     results.Sort();
-    resultFile.writeResults(queryID, &results, LocalParameter::resultCount);
+    resultFile.writeResults(queryID, &results, LocalParameter::threshold);
 
     delete queryArr;
   }
