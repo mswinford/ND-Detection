@@ -1,4 +1,4 @@
-How to run:
+ run:
 
 First you will have to move a copy of the lemur-light directory into the ND-Detection directory. Once thats done replace the "eval_data" directory in lemur-light with the "eval_data" directory we provided. 
 
